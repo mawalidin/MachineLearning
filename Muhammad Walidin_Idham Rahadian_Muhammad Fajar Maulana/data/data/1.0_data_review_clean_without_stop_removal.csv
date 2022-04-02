@@ -1,0 +1,805 @@
+rating,review,avg_word,word_count
+5,"['tidak', 'ada', 'ulasan']",4.666666666666667,3
+5,"['puas', 'kecil', 'tapi', 'kencang']",5.0,4
+1,"['barang', 'yang', 'datang', 'bukan', 'baracuda', 'tiga', 'lima', 'tujuh', 'tujuh', '0rpm', 'tapi', 'pipeline', 'hd']",5.0,13
+5,"['terima kasih', 'barang', 'sudah', 'sampai', 'sehari', 'langsung', 'sampai', 'untuk', 'sesama', 'jakarta', 'kemasan', 'rapi', 'thankyou', 'buat', 'lazada', 'dan', 'kenkez']",6.176470588235294,17
+5,"['barang', 'bagus', 'pengirman', 'cepat', 'mantap', 'deh']",5.666666666666667,6
+5,"['so', 'far', 'puas', 'dengan', 'produk', 'ini', 'harga', 'dan', 'fasilitas', 'yang', 'didapat', 'sangat', 'sebanding', 'pengiriman', 'juga', 'tidak', 'sampai', 'hari', 'terima kasih', 'lazada']",5.7,20
+5,"['pemesanan', 'tanggal', 'tujuh', 'atau', 'empat', 'atau', 'lima', 'belas', 'sampai', 'barang', 'tanggal', 'sembilan', 'atau', 'empat', 'atau', 'lima', 'belas', 'cepat', 'sekali', 'yah', 'barang', 'sesuai', 'dengan', 'gambar', 'yang', 'ada', 'di', 'web', 'coba', 'telepon', 'ke', 'suplier', 'untuk', 'ta', 'cara', 'pakai', 'ternyata', 'telelpon', 'yang', 'tercantum', 'nyambung', 'dan', 'disambut', 'baik', 'oleh', 'pelayan', 'puas', 'dengan', 'pelayanan', 'terima kasih', 'lazada']",5.450980392156863,51
+5,"['mantan', 'mantan', 'memang', 'keren', 'abiz', 'cetar', 'membahana', 'dan', 'hmpir', 'semua', 'orang', 'kagum', 'sama', 'cara', 'kerja', 'alhamdulilah', 'a', 'aku', 'puas', 'sekali', 'sama', 'produk', 'yang', 'satu', 'ini', 'terima kasih', 'kenkez', 'jadi', 'ketagihan', 'ini', 'beli', 'di', 'lazada']",5.151515151515151,33
+2,"['saya', 'pesan', 'hardisk', 'ini', 'tangal', 'juni', 'dengan', 'fasilitas', 'gosend', 'sampai', 'dihari', 'yang', 'sama', 'tapi', 'sampai', 'sekarang', 'belum', 'sampai', 'mohon', 'segera', 'di', 'proses']",5.363636363636363,22
+5,"['ukuran', 'lumayan', 'mungil', 'tapi', 'pas', 'buat', 'pasangan', ' power bank', 'dan', 'telepon seluler', 'jadi', 'aman', 'tersimpan']",6.461538461538462,13
+4,"['barang', 'oke', 'packaging', 'rapi', 'dan', 'pengiriman', 'cepat', 'beli', 'hd', 'ini', 'pas', 'lagi', 'harbolnas', 'sebelas', 'des', 'dikira', 'akan', 'sampai', 'lama', 'ternyata', 'tanggal', 'empat', 'belas', 'sudah', 'sampai', 'terima kasih', 'jvp', 'dan', 'lazada']",5.344827586206897,29
+4,"['semua', 'berjalan', 'terima kasih', 'lazada']",7.75,4
+1,"['sudah', 'lewat', 'batas', 'pengiriman', 'barang', 'belum', 'sampai']",6.0,7
+5,"['barangx', 'bagus', 'sesuai', 'gambar', 'makasi']",6.0,5
+2,"['barang', 'yang', 'datang', 'hd', 'transcend', 'lima', 'mtiga', 'warna', 'biru', 'bukan', 'lima', 'htiga', 'purple']",5.0,13
+5,"['mantap', 'sesuai', 'ekspentasi']",7.333333333333333,3
+5,"['great', 'barang']",5.5,2
+5,"['lacie', 'tb', 'mantap']",4.333333333333333,3
+5,"['kamu', 'won', 't', 'regret', 'if', 'kamu', 'buy', 'it', 'it', 's', 'durable', 'dan', 'sangat', 'easy', 'to', 'use', 'satisfied', 'dan', 'terima kasih', 'lazada']",4.15,20
+3,"['so', 'far', 'found', 'oke']",3.25,4
+5,"['kualitas', 'oke', 'mantap']",5.666666666666667,3
+4,"['barang', 'bisa', 'duganakan', 'secara', 'normal', 'seperti', 'seharus']",6.428571428571429,7
+5,"['pada', 'akhir', 'hardisk', 'wd', 'ekternal', 'warna', 'biru', 'saya', 'datang', 'xd', 'sempat', 'khawatir', 'juga', 'saya', 'mengingat', 'saya', 'tidak', 'pernah', 'membeli', 'barang', 'daring', 'pada', 'hari', 'wekend', 'kecuali', 'po', 'saking', 'khawatir', 'pesanan', 'saya', 'sudah', 'dikirim', 'atau', 'belum', 'saya', 'sampai', 'live', 'chat', 'dengan', 'pihak', 'lazada', 'untuk', 'menanyakan', 'posisi', 'hardisk', 'pesanan', 'saya', 'ini', 'tertawa', 'untuk', 'pengiriman', 'termasuk', 'lama', 'iya', 'padahal', 'masih', 'wilayah', 'jakarta', 'juga', 'ckckckck', 'mungkin', 'ini', 'efek', 'belanja', 'daring', 'di', 'hari', 'wekend', 'tapi', 'walau', 'terlambat', 'dari', 'hari', 'yang', 'dicantumin', 'oleh', 'lazada', 'dan', 'di', 'dalam', 'nota', 'pembelian', 'saya', 'tetap', 'merasa', 'lega', 'karena', 'barang', 'pesanan', 'saya', 'sudah', 'sampai', 'dengan', 'sangat', 'aman', 'mengingat', 'pembungkusan', 'barang', 'sangat', 'rapi', 'sekali', 'hinga', 'harus', 'mengunakan', 'gunting', 'untuk', 'membuka', 'di', 'tambah', 'dengan', 'buble', 'bungkus', 'yang', 'memberi', 'kesan', 'empuk', 'hinga', 'tambah', 'yakin', 'saya', 'kalau', 'barang', 'ini', 'akan', 'sangat', 'aman', 'saya', 'juga', 'sudah', 'mencoba', 'hardisk', 'dan', 'beneran', 'tb', 'lho', 'walau', 'tertawa', 'tersisa', 'satu', '8satu', 'tb', 'karena', 'sisa', 'termakan', 'untuk', 'sistem', 'tapi', 'dengan', 'harga', 'rp', 'satu', 'lima', 'puluh', 'delapan', 'puluh', 'bisa', 'dibilang', 'sangat', 'bernilai', 'it', 'mendapat', 'hardisk', 'tb', 'p', 's', 'saya', 'beli', 'dengan', 'harga', 'segitu', 'karena', 'memakai', 'kode', 'voucher', 'potongan', 'diskon', 'dari', 'lazada', 'dari', 'harga', 'asli', 'kalau', 'tidak', 'salah', 'rp', 'satu', 'tiga', 'ratus', 'lima', 'puluh', 'sembilan', 'nol', 'lihat', 'ke', 'atas', 'fufufufufu', 'gakmaurugijugadia', 'ditambah', 'dengan', 'bonus', 'yang', 'tiga', 'kali', 'plus', 'pouch', 'wd', 'memo', 'wd', 'dan', 'pen', 'wd', 'semua', 'ada', 'tulisan', 'wd', 'tidak', 'tahu', 'asli', 'atau', 'tidak', 'tapi', 'semoga', 'saja', 'asli', 'dari', 'wd', 'wkwkwkwk', 'tambah', 'tidak', 'rugilah', 'nihanakemangbener', 'benar', 'secara keseluruhan', 'saya', 'puas', 'sekali', 'dengan', 'barang', 'yang', 'saya', 'beli', 'ini', 'karena', 'itulah', 'saya', 'bersedia', 'menulis', 'ulasan', 'panjang', 'panjang', 'begini', 'bukan', 'memang', 'selalu', 'nulis', 'ulasan', 'panjang', 'panjang', 'iya', 'plakplakplak', 'p', 's', 'saya', 'sempat', 'bingung', 'dengan', 'tulisan', 'nota', 'di', 'dalam', 'pada', 'bagian', 'kertas', 'putih', 'yang', 'bertulisan', 'nama', 'pengirim', 'dan', 'identitas', 'penerima', 'saya', 'cari', 'cari', 'sampai', 'bego', 'di', 'dalam', 'bungkusan', 'kok', 'tidak', 'ada', 'berhubung', 'iq', 'saya', 'tinggi', 'plak', 'jadi', 'saya', 'berpikiran', 'pasti', 'di', 'balikatau', 'di', 'dalam', 'kertas', 'ini', 'ini', 'dan', 'dugan', 'sayabenar', 'ternyata', 'kertas', 'putih', 'itu', 'adalah', 'amplop', 'yang', 'berisi', 'kartu', 'nama', 'sih', 'penjual', 'dan', 'nota', 'pembelian', 'wkwkwkwkwk', 'anda', 'sunguh', 'kreatif', 'sebagai', 'pedagang', 'baru', 'kali', 'ini', 'saya', 'dibegituin', 'untung', 'belum', 'saya', 'buang', 'itu', 'bungkusan', 'at', 'last', 'but', 'tidak', 'least', 'terima kasih', 'kamu', 'ezy', 'com', 'saya', 'pasti', 'akan', 'pesan', 'hardisk', 'lagi', 'ke', 'sini', 'kalau', 'kapasitas', 'hardisk', 'saya', 'sudah', 'penuh', 'tapi', 'tidak', 'tahu', 'kapan', 'penuh', 'mungkin', 'masih', 'agak', 'sangat', 'lama']",5.284574468085107,376
+5,"['hardisk', 'masih', 'awet', 'sampai', 'skrng']",5.4,5
+5,"['wow', 'kualitas', 'barang', 'oke', 'sekali', 'pelayanan', 'juga', 'oke', 'terima kasih']",6.0,9
+4,"['sempat', 'khawatir', 'tidak', 'muat', 'hard', 'disk', 'eksternal', 'saya', 'tapi', 'ternyata', 'muat', 'barang', 'bagus', 'dengan', 'bahan', 'yang', 'sesuai']",5.411764705882353,17
+5,"['barang', 'sudah', 'datang', 'dan', 'berfungsi', 'baik', 'sayang', 'kabel', 'krg', 'umum', 'di', 'tempat', 'saya', 'jadi', 'kalau', 'rsk', 'masih', 'cara', 'cdngan', 'wlo', 'smpe', 'sekarang', 'masih', 'baik', 'baik', 'saja']",4.6923076923076925,26
+4,"['pengiriman', 'cepat', 'dan', 'rapi', 'barang', 'diterima', 'baik', 'barang', 'setelah', 'digunakan', 'dengan', 'hasil', 'mantap']",6.076923076923077,13
+5,['oke'],3.0,1
+4,"['kata', 'orang', 'rumah', 'barang', 'sudah', 'datang', 'belum', 'cek', 'but', 'thks']",4.6,10
+4,"['pas', 'tahun', 'mati', 'total', 'pemakaian', 'normal', 'tujuh', 'jam', 'sehari']",5.111111111111111,9
+1,"['saya', 'kecewa', 'beli', 'memory', 'kartu', 'sandisk', 'delapan', 'gb', 'smpe', 'rumah', 'memory', 'tidak', 'bisa', 'dipake', 'buruk', 'sekali', 'anda']",5.0588235294117645,17
+3,"['mas', 'kq', 'pouchx', 'lbih', 'kecil', 'dari', 'ukuran', 'yang', 'di', 'cntumkan', 'yk', 'ukuranx', 'hanya', 'satu', 'satu', 'cmxtujuh', 'cuma']",4.588235294117647,17
+1,"['pengiriman', 'molor', 'tiga', 'mingu', 'saya', 'kecewa']",5.666666666666667,6
+4,"['berfungsi', 'dengan', 'baik']",6.333333333333333,3
+5,"['baru', 'sempat', 'ulasan', 'di sini', 'pesan', 'tanggal', 'sembilan', 'belas', 'sampai', 'satu', 'pengemasan', 'terbaik', 'dengan', 'bublewrap', 'dan', 'dapat', 'harga', 'murah', 'dari', 'yang', 'lain', 'dengan', 'spesifikasi', 'yang', 'sama', 'barang', 'asli', 'made', 'in', 'thailand', 'terima kasih', 'kenkez', 'dan', 'lazada']",5.764705882352941,34
+1,"['kenapa', 'belum', 'sampai', 'juga', 'dari', 'tangal', 'lima', 'belas', 'desember', 'pemesanan']",5.7,10
+5,"['barang', 'berfungsi', 'dengan', 'baik']",6.25,4
+5,"['barang', 'oke']",4.5,2
+4,"['berfungsi', 'baik']",6.5,2
+4,"['kok', 'lama', 'iya']",3.3333333333333335,3
+5,['rekomen'],7.0,1
+5,"['cocok', 'sekali']",5.5,2
+5,"['produk', 'hgst', 'drive', 'inside', 'model', 'wdelapan', 'puluh', 'ezx', 'lima', 'ribu', 'empat', 'ratus', 'rpm', 'tiga', 'lima', 'drive', 'western', 'digital', 'bought', 'hgst', 'hitachi', 'global', 'storage', 'technologies', 'back', 'in', 'dua', 'ratus', 'satu', 'dua', 'ratus', 'satu', 'combining', 'yang', 'two', 'companies', 'technologies', 'together', 'kamu', 'get', 'everything', 'kamu', 'ned', 'inside', 'yang', 'box', 'yang', 'drive', 'tenaga', 'cable', 'dan', 'usb', 'yang', 'drive', 'comes', 'dengan', 'acronis', 'true', 'image', 'wd', 'edition', 'software', 'which', 'gives', 'kamu', 'ned', 'untuk', 'making', 'system', 'dan', 'file', 'backups', 'dengan', 'including', 'scheduled', 'maintenance', 'it', 'has', 'usbtiga', 'conection', 'which', 'adalah', 'compatible', 'dengan', 'usb', 'usb', 'seler', 'sangat', 'prompt', 'respon', 'shiped', 'lanjut', 'day', 'dengan', 'lazada', 'expres']",5.375,96
+5,"['barang', 'diterima', 'dalam', 'keadan', 'baik', 'berfungsi', 'dengan', 'bagus']",6.125,8
+5,"['punyaku', 'kok', 'tidak', 'ada', 'kartu', 'garansi', 'dan', 'segel', 'juragan', 'nanti', 'buat', 'mengklaim', 'garansi', 'bagaimana', 'cara', 'iya']",5.375,16
+5,"['barang', 'bagus', 'sampai', 'juga', 'cepat']",5.2,5
+1,"['dibanding', 'dengan', 'harga', 'kualitas', 'jauh', 'sekali', 'dengan', 'harga', 'seratus', 'lima', 'puluh', 'ribu', 'dan', 'kualitas', 'yang', 'kurang', 'memadai', 'harga', 'tersebut', 'kemahalan']",5.95,20
+4,"['bagus', 'dan', 'pengiriman', 'cepat']",5.75,4
+5,"['pesan', 'dari', 'luar', 'negeri', 'lima', 'hari', 'kemudian', 'sampai', 'barang', 'bagus', 'tapi', 'berharap', 'ada', 'isi', 'dalam', 'kotaknya']",5.1875,16
+4,"['barang', 'lumayan', 'bagus', 'tebal', 'jadi', 'aman', 'untuk', 'hardisk', 'harga', 'sesuai']",5.4,10
+1,"['bagaimana', 'ini', 'barang', 'sudah', 'sebulan', 'lebih', 'tidak', 'datang', 'datang', 'status', 'di', 'lazada', 'pun', 'belum', 'di', 'proses', 'di', 'kirim', 'mohon', 'folow', 'up', 'lazada', 'team']",4.826086956521739,23
+5,"['oke', 'sesuai', 'sama', 'deksripsi']",5.5,4
+5,"['maf', 'baru', 'sempat', 'ulasan', 'secara', 'umum', 'cukup', 'puas', 'dengan', 'layanan', 'penjual', 'pengemasan', 'bagus', 'rapi', 'dan', 'aman', 'fisik', 'barang', 'sesuai', 'gambar', 'dan', 'ulasan', 'yang', 'ada', 'di', 'website', 'tertawa', 'saya', 'mis', 'informasi', 'saja', 'karena', 'ternyata', 'hd', 'external', 'wd', 'ini', 'tidak', 'dapat', 'sarung', 'secara keseluruhan', 'saya', 'rekomendasi', 'seler', 'terima kasih', 'dan', 'tingkatkan', 'selalu', 'pelayanan', 'sukses']",5.76,50
+4,"['barang', 'diantar', 'dengan', 'cepat', 'dan', 'sesuai', 'dengan', 'penjelasan', 'yang', 'ada', 'penjual', 'merespondengan', 'cepat']",6.3076923076923075,13
+1,"['kami', 'mengunakan', 'windows', 'sepuluh', 'sedangkan', 'yang', 'dikirim', 'adalah', 'produk', 'untuk', 'windows', 'di bawah', 'dan', 'kamipun', 'sudah', 'mencoba', 'untuk', 'masuk', 'ke', 'windows', 'tujuh', 'namun', 'tetap', 'tidak', 'bisa', 'digunakan', 'kami', 'minta', 'pengembalian', 'dana', 'saja', 'karena', 'ternyata', 'produk', 'ini', 'tidak', 'sesuai', 'harapan', 'kami']",5.846153846153846,39
+5,"['produk', 'sesuai', 'yang', 'di', 'gambar', 'bagus']",4.833333333333333,6
+5,"['barang', 'sesuai', 'pesanan']",6.333333333333333,3
+5,"['barang', 'sampai', 'cepat', 'sekali', 'sesuai', 'juga', 'puas']",5.285714285714286,7
+5,"['kualitas', 'bagus', 'bahan', 'aluminium', 'dan', 'akhir', 'bisa', 'digunakan', 'hd', 'sd', 'saya', 'sebagai', 'eksternal']",5.538461538461538,13
+4,"['produk', 'bagus', 'pengiriman', 'cukup', 'cepat', 'beli', 'tangal', 'sembilan', 'maret', 'diterima', 'tanggal', 'satu', 'april', 'namun', 'untuk', 'aktivasi', 'antivirus', 'tidak', 'bisa', 'saran', 'sebaik', 'untuk', 'pengiriman', 'dikasih', 'buble', 'bungkus', 'untuk', 'menjaga', 'kualitas', 'produk', 'sat', 'pengiriman']",6.1875,32
+5,"['barang', 'sudah', 'diterima', 'dan', 'bekerja', 'dengan', 'baik', 'pengemasan', 'rapi', 'sesuai', 'dengan', 'harapan', 'pengiriman', 'juga', 'cepat', 'tapi', 'bonus', 'kurang', 'menarik', 'tapi', 'ngak', 'apalah', 'puas', 'deh', 'di']",5.44,25
+3,"['kenapa', 'di', 'laptop', 'macbok', 'profesional', 'retina', 'saya', 'tidak', 'bisa', 'dibuka', 'iya']",5.363636363636363,11
+1,"['masa', 'tiga', 'go', 'jek', 'sudah', 'ke sana', 'tutup', 'terus', 'toko', 'pemesanan', 'tanggal', 'tiga', '1', 'mei', 'tujuh', 'belas', 'sampai', 'dengan', 'detik', 'ini', 'barang', 'belum', 'terkirim']",4.869565217391305,23
+3,"['pengemasan', 'bagus', 'pengiriman', 'cepat', 'Cuma', 'hardcase', 'ternyata', 'tidak', 'sesuai', 'dengan', 'gambar', 'produk', 'harapan', 'saya', 'dapat', 'warna', 'sesuai', 'hard', 'disk', 'dan', 'ukuran', 'lebih', 'besar', 'dikit']",5.75,24
+1,"['baru', 'pakai', 'tiga', 'hari', 'hd', 'sudah', 'rusak', 'data', 'hilang', 'jangan', 'di', 'beli', 'tidak', 'di', 'rekomendasi']",4.6,15
+5,"['respon', 'chat', 'oke', 'pengiriman', 'oke', 'barang', 'sesuai', 'mdh', 'mdhan', 'sukses']",5.2,10
+5,"['oke', 'pengemasan', 'rapi', 'barang', 'oke']",5.2,5
+5,"['barang', 'sesuai', 'gambar', 'secara keseluruhan', 'sangat', 'bagus', 'terima kasih']",8.428571428571429,7
+1,"['ada', 'yang', 'penyok', 'pada', 'case', 'di', 'bagian', 'antena', 'mungkin', 'pengiriman', 'kurang', 'aman', 'dan', 'hati', 'hati', 'tapi', 'untung', 'masih', 'fungsi', 'baik', 'deskripsi', 'ada', 'yang', 'tidak', 'sesuai', 'tidak', 'ada', 'batreatau', ' power bank', 'itu', 'buku', 'manual', 'bahasa', 'cina', 'tidak', 'mengerti', 'coba', 'coba', 'sendiri', 'akhir', 'bisa', 'di', 'bantu', 'gogle']",5.113636363636363,44
+5,"['barang', 'sampai', 'dengan', 'cepat', 'dan', 'sesuai', 'deskripsi']",5.857142857142857,7
+4,"['barang', 'cepat', 'sampai', 'dan', 'bagus']",5.0,5
+5,"['bagus', 'dan', 'practical', 'produk', 'dengan', 'cheap', 'price', 'terima kasih']",6.375,8
+1,"['lebih', 'baik', 'cari', 'yang', 'lain']",4.2,5
+5,"['mantap', 'juragan']",6.5,2
+5,"['sesuai', 'dengan', 'apa', 'yang', 'dipromosikan', 'bonus', 'belum', 'dicoba', 'tapi', 'mudah', 'mudahan', 'oke']",5.5,12
+5,"['sesuai', 'judul', 'produk', 'direkomendasikan', 'degh', 'gampang', 'juga', 'untuk', 'pengunan']",6.777777777777778,9
+1,"['saya', 'sudah', 'memesan', 'dan', 'menungu', 'sebulan', 'untuk', 'produk', 'ini', 'namun', 'sat', 'seseharusn', 'sampai', 'tiba', 'tiba', 'dibatalkan', 'dan', 'tertera', 'alamat', 'tidak', 'ditemukan', 'padahal', 'di', 'gogle', 'map', 'pun', 'alamat', 'ini', 'muncul']",5.310344827586207,29
+4,"['kemasan', 'rapi', 'dan', 'aman', 'pengiriman', 'lebih', 'cepat', 'dari', 'estimasi', 'tapi', 'minus', 'sekrup', 'pengunci']",5.615384615384615,13
+5,"['sudah', 'saya', 'terima', 'dan', 'terima kasih', 'kasih']",5.833333333333333,6
+5,"['barang', 'sesuai', 'pengiriman', 'sangat', 'cepat', 'mantap', 'jiwa']",6.142857142857143,7
+1,"['sudah', 'mingu', 'barang', 'belum', 'di', 'kirim', 'juga', 'bagaimana', 'ini', 'juragan', 'ada', 'barang', 'ngak', 'sih']",4.785714285714286,14
+5,"['terima kasih', 'barang', 'sudah', 'sampai', 'barang', 'bagus', 'sesuai', 'pesanan']",6.625,8
+1,"['barang', 'tidak', 'sesuai', 'dengan', 'di', 'deskripsi', 'dan', 'yang', 'ada', 'di', 'gambar']",4.7272727272727275,11
+5,"['pengemasan', 'bagus', 'barang', 'oke', 'lah']",5.4,5
+5,"['respon', 'bagus', 'barang', 'juga', 'sama', 'pengemasan', 'baik', 'bagus', 'lah', 'intinya']",5.4,10
+1,"['aku', 'sudah', 'nungu', 'lama', 'barang', 'tidak', 'datang', 'juga', 'kerjan', 'ku', 'jadi', 'kehambat', 'gara', 'gara', 'seler', 'ini']",4.625,16
+5,"['pengemasan', 'rapi', 'proses', 'pengiriman', 'cepat', 'bonus', 'serta', 'kualitas', 'sesuai', 'dengan', 'yang', 'diharapkan']",6.583333333333333,12
+5,"['pengiriman', 'cepat', 'respon', 'penjual', 'bagus', 'dan', 'barang', 'sesuai', 'gambar']",6.0,9
+2,"['pelayanan', 'bagus', 'sih', 'Cuma', 'produk', 'yang', 'tidak', 'bagus']",5.125,8
+5,"['pengemasan', 'rapi']",7.0,2
+5,['oke'],3.0,1
+5,"['bagus', 'dus', 'masih', 'segel', 'void']",4.4,5
+5,"['terima kasih', 'seler', 'dan', 'lazada', 'barang', 'yang', 'aku', 'pesan', 'sesuai', 'sama', 'yang', 'ada', 'di', 'gambar', 'puas', 'deh', 'pokok', 'ya']",4.611111111111111,18
+1,"['sudah', 'blanja', 'bahkan', 'minta', 'uang', 'di belakang', 'ya sudah', 'lebih baik', 'dibatalkan', 'saja']",6.9,10
+4,"['terima', 'kasih', 'barang', 'sudah', 'keterima', 'dengan', 'kemasan', 'yang', 'baik', 'dan', 'tidak', 'terlalu', 'lama']",5.384615384615385,13
+5,"['kualitas', 'barang', 'sangat', 'baik', 'pengemasan', 'pengiriman', 'barang', 'sangat', 'baik', 'kecepatan', 'pengiriman', 'barang', 'sangat', 'cepat', 'respon', 'penjual', 'sangat', 'cepat', 'direkomendasikan', 'seler']",7.05,20
+1,"['saya', 'pesan', 'warna', 'hitam', 'yang', 'datang', 'warna', 'putih', 'kecewa', 'tidak', 'sesuai', 'ekspektasi']",5.5,12
+5,"['ini', 'yang', 'belum', 'tahu', 'karena', 'barang', 'belum', 'sampai', 'tidak', 'terkirim', 'tapi', 'seler', 'dengan', 'respon', 'baik', 'akan', 'dikirim', 'dengan', 'pesan', 'selanjut', 'terima', 'kasih']",5.363636363636363,22
+4,"['its', 'cepat', 'dan', 'strongly', 'build']",4.8,5
+5,"['barang', 'oke', 'waktu', 'kirim', 'cepat', 'respon', 'penjual', 'cepat']",5.25,8
+5,"['penyimpanan', 'berkapasitas', 'besar', 'okelah']",8.5,4
+5,"['sangat', 'trust', 'walaupun', 'sempat', 'fre', 'barang', 'tidak', 'lengkap', 'tapi', 'admin', 'bertangung', 'jawab', 'untuk', 'kirim', 'lagi', 'pelayanan', 'oke', 'sekali', 'thankyou']",5.7894736842105265,19
+4,"['puas', 'barang', 'sesuai', 'dengan', 'spesifikasi', 'dan', 'gambar', 'tertawa', 'saja', 'pengiriman', 'terlambat', 'lama', 'sekali', 'sampai', 'sudah', 'lewat', 'tangl', 'estimasi', 'sudah', 'begitu', 'saya', 'cek', 'flasdik', 'lihat', 'di', 'propertiles', 'kata', 'flasnyadik', 'empat', 'belas', 'gb', 'kok', 'aneh', 'iya', 'tapi', 'gp', 'yang', 'penting', 'bisa', 'di', 'pakai']",5.317073170731708,41
+1,"['tidak', 'perlu', 'beli']",4.666666666666667,3
+5,"['cepat', 'respon', 'seler', 'ramah', 'pengiriman', 'cepat', 'sampai', 'terima kasih', 'juragan']",6.777777777777778,9
+4,"['barang', 'sudah', 'sampai', 'kemarin', 'dan', 'sesuai', 'pesanan', 'terima', 'kasih']",5.666666666666667,9
+5,"['paket', 'rapi', 'barang', 'sesuai', 'pesanan', 'pengiriman', 'sesuai', 'layanan', 'produk', 'asli', 'dan', 'mudah', 'an', 'awet']",5.357142857142857,14
+2,"['pesanan', 'saya', 'tiga', 'miliar', 'delapan', 'puluh', 'delapan', 'juta', 'seratus', 'lima', 'puluh', 'satu', 'ribu', 'empat', 'ratus', 'enam', 'puluh', 'enam', 'tidak', 'dikirim', 'kirim', 'padahal', 'status', 'diproses', 'sudah', 'lama', 'barang', 'lain', 'dari', 'toko', 'lain', 'dengan', 'nomor', 'pesanan', 'sama', 'sudah', 'smpe', 'tiga', 'hari', 'bagaimana', 'cara', 'batalin', 'pemesanan', 'saya']",5.2727272727272725,44
+1,"['harga', 'mahal', 'barang', 'tidak', 'berfungsi', 'biruk', 'sekali', 'its', 'so', 'jelek', 'tidak', 'direkomendasikan']",6.0,12
+5,['terima kasih'],12.0,1
+4,"['barang', 'di', 'terima', 'dengan', 'baik', 'tapi', 'dompet', 'hardisk', 'tidak', 'ada', 'tulisan', 'canvio']",5.166666666666667,12
+4,"['kualitas', 'barang', 'bagus', 'sesuai', 'gambar']",6.2,5
+5,"['barang', 'sudah', 'sampai', 'cepat', 'respon', 'produk', 'memang', 'pick', 'tidak', 'mengecawakan', 'lah', 'pokok', 'mantap', 'juragan']",5.857142857142857,14
+5,['mantap'],6.0,1
+1,"['kok', 'barang', 'saya', 'beli', 'mahal', 'mahal', 'pas', 'mau', 'digunakan', 'ternyata', 'tidak', 'bisa', 'menyala', 'mohon', 'diganti', 'dong', 'barang', 'yang', 'saya', 'beli', 'ini']",4.904761904761905,21
+5,"['barang', 'datang', 'dengan', 'kondisi', 'baik', 'dan', 'sesuai']",5.428571428571429,7
+5,"['barang', 'asli', 'tersegel', 'rapi', 'sesuai', 'deskripsi', 'dan', 'ekspektasi', 'auto', 'lima', 'terima kasih']",6.363636363636363,11
+1,"['kalau', 'di', 'awal', 'tidak', 'jelas', 'jadi', 'takut', 'mau', 'beli']",4.111111111111111,9
+5,"['barang', 'sesuai', 'deskripsi', 'dan', 'pengiriman', 'cepat']",6.5,6
+5,['bagus'],5.0,1
+5,"['mantap', 'jiwa', 'bisa', 'bayar', 'di tempat', 'bareng', 'sama', 'bonus', 'oke', 'sekali']",5.2,10
+5,"['wd', 'mycloud', 'mantan', 'mantan', 'satu', 'satu', 'tb', 'termurah', 'di', 'semua', 'toko', 'ofline', 'dan', 'daring', 'barang', 'asli', 'sudah', 'dipasang', 'dan', 'ditest', 'berfungsi', 'baik', 'instalasi', 'dan', 'akting', 'server', 'mudah', 'upload', 'sped', 'rate', 'cukup', 'tinggi', 'langsung', 'terdeteksi', 'oleh', 'media', 'player', 'smart', 'tv', 'dan', 'gawai']",5.170731707317073,41
+5,"['terima kasih', 'ke', 'sesuai', 'pesanan', 'dapat', 'bonus', 'lagi', 'sukses', 'iya']",5.555555555555555,9
+5,"['barang', 'bagus', 'plus', 'sesuai', 'spesifikasi', 'tapi', 'barang', 'yang', 'saya', 'inginkan', 'sesuai', 'dengan', 'gambar']",5.846153846153846,13
+5,['bagus'],5.0,1
+2,"['kami', 'kecewa', 'flsdis', 'tudak', 'bisa', 'digunakan', 'tertawa', 'bisa', 'menyimpan', 'data', 'namun', 'tidak', 'dapat', 'membaca', 'kembali']",5.8,15
+5,"['barang', 'bagus', 'dan', 'berfungsi', 'normal']",5.8,5
+5,"['baru', 'pemesanan', 'sebelum', 'jam', 'tiga', 'pas', 'esok', 'siang', 'barang', 'sampai', 'dengan', 'selamat', 'tanpa', 'kurang', 'cacat', 'satupun', 'padahal', 'alamat', 'di luar', 'jakarta']",5.7,20
+5,"['barang', 'sesuai', 'pesanan', 'sudah', 'di', 'test', 'dan', 'berfungsi', 'dengan', 'baik']",5.2,10
+5,"['barang', 'pesanan', 'sudah', 'diterima', 'namun', 'sedikit', 'kendala', 'di', 'pengiriman', 'biasa', 'umum', 'pengiriman', 'sekitar', 'tiga', 'hari', 'ini', 'barang', 'diterima', 'lebih', 'lama', 'ngomong-ngomong', 'terima kasih', 'bos']",6.391304347826087,23
+1,"['barang', 'sudah', 'nympe', 'pas', 'di', 'buka', 'sangat', 'kecewa', 'tidak', 'sesuai', 'dengan', 'pesan', 'banyak', 'kurang', 'kabel', 'usb', 'sonk', 'driver', 'ide', 'sonk', 'pasti', 'kecewa', 'bget']",4.826086956521739,23
+3,"['fd', 'kurang', 'baik', 'cash', 'karena', 'ada', 'yang', 'retak', 'retak']",4.333333333333333,9
+5,"['produk', 'diterima', 'dengan', 'baik', 'hinga', 'sat', 'ini', 'produk', 'berfungsi', 'dengan', 'baik']",5.454545454545454,11
+4,"['pengiriman', 'sesuai', 'jadwal', 'semoga', 'awet']",6.4,5
+5,"['barang', 'mendarat', 'dengan', 'mulus', 'hadiah', 'juga', 'lengkap', 'keren', 'semoga', 'awet']",5.7,10
+5,"['walaupun', 'datang', 'lama', 'sekali', 'tapi', 'ngak', 'apa', 'apa', 'maklum', 'jdan', 'e', 'mungkin', 'overload', 'terobati', 'juga', 'dengan', 'barang', 'yang', 'mantap', 'dan', 'semoga', 'saja', 'awet', 'soal', 'saya', 'sudah', 'pu', 'tiga', 'untuk', 'anak', 'anak', 'hardisk', 'model', 'ini', 'dan', 'semua', 'keren', 'terima kasih']",4.921052631578948,38
+3,"['hanya', 'kabel', 'buat', 'volokan', 'ke', 'laptop', 'kok', 'tidak', 'ada', 'juragan', 'bagaimana', 'ini']",4.916666666666667,12
+5,"['barang', 'datang', 'sesuai', 'dengan', 'yang', 'disampaikan', 'di']",5.857142857142857,7
+5,"['produk', 'ini', 'bagus', 'yang', 'butuh', 'penyimpanan', 'data', 'eksternal', 'saya', 'rekomendasikan', 'beli', 'produk', 'ini', 'cepat', 'respon', 'dan', 'pengiriman', 'cepat', 'pengemasan', 'juga', 'bagus', 'tampilan', 'produk', 'juga', 'keren']",5.96,25
+3,"['belum', 'terima', 'barang', 'kok', 'di', 'keteranganx', 'sudah', 'terima', 'siapa', 'yang', 'nerima']",5.363636363636363,11
+5,"['pengiriman', 'cepat', 'pengemasan', 'juga', 'mantap', 'aman', 'lsg', 'dpke', 'brfungsi', 'dengan', 'baik', 'bagus', 'produk']",5.769230769230769,13
+5,"['sesuai', 'pesanan', 'dan', 'pengiriman', 'tepat', 'waktu']",6.0,6
+5,"['mantap', 'pengemasan', 'rapi']",6.666666666666667,3
+5,"['barang', 'sudah', 'diterima', 'pengemasan', 'rapi', 'semoga', 'awet']",6.142857142857143,7
+4,"['tapi', 'barang', 'lama', 'sampai']",5.0,4
+5,"['mantap', 'juragan', 'new', 'dan', 'asli']",4.6,5
+5,"['lumayan', 'pesan', 'delapan', 'puluh', 'gb', 'yang', 'datang', 'kok', 'seratus', 'sebelas', 'gb', 'bonus']",5.0,12
+1,"['barang', 'tidak', 'dibungkus', 'aman', 'pakai', 'buble', 'hitam', 'tipis', 'jelek', 'mudah', 'sobek', 'wajar', 'saja', 'kalau', 'banyak', 'hardisk', 'yang', 'rusak', 'karena', 'penjual', 'tidak', 'bungkus', 'aman', 'di', 'gudang', 'kurir', 'barang', 'pasti', 'dilempar', 'dilempar', 'tidak', 'mungkin', 'disayang', 'disayang', 'taruh', 'pelan', 'pelan', 'karena', 'barang', 'ribuan', 'hardisk', 'barang', 'yang', 'gampang', 'rusak', 'jika', 'terkena', 'guncangan', 'jika', 'penjual', 'tidak', 'mau', 'rugi', 'jual', 'saja', 'buble', 'agar', 'aman', 'tapi', 'buble', 'putih', 'iya', 'jangan', 'buble', 'hitam']",5.4,65
+5,"['terimakadih', 'lazada', 'barang', 'bagus']",7.0,4
+5,"['wd', 'my', 'paspor', 'sesuai', 'pesanan', 'dan', 'dapat', 'fre', 'hard', 'case']",4.2,10
+5,['bagua'],5.0,1
+5,"['barang', 'sesuai', 'deskripsi', 'bagus', 'minus', 'tertawa', 'masalah', 'pengiriman', 'yang', 'agak', 'lama', 'tidak', 'seperti', 'biasa', 'walaupun', 'barang', 'dari', 'ln']",5.777777777777778,18
+5,['baik'],4.0,1
+5,"['berfungsi', 'baik']",6.5,2
+5,"['mantap betul', 'kalau', 'sudah', 'di', 'bhineka']",6.2,5
+5,"['bagusplus', 'pas']",6.0,2
+5,"['customer service', 'ramah', 'cepat', 'sampai', 'barang', 'mantap']",7.333333333333333,6
+1,"['sangat', 'kecewa', 'pesan', 'halo', 'kity', 'yang', 'datang', 'bahkan', 'hulk', 'padahal', 'sebelum', 'sudah', 'chat', 'dan', 'bilang', 'kalau', 'halo', 'kity', 'siap', 'eh', 'pas', 'datang', 'bahkan', 'beda']",4.791666666666667,24
+5,"['ok', 'barang', 'cepat', 'sekali', 'sampai', 'tertawa', 'butuh', 'hari', 'untuk', 'sampai', 'ke', 'balikpapan', 'terima kasih']",5.846153846153846,13
+5,"['mantap', 'dicek', 'berfungsi', 'normal', 'mudah', 'mudahan', 'awet']",6.0,7
+5,"['bagus', 'asli', 'harga', 'bersaing', 'plus', 'belinketika', 'mid', 'year', 'sales', 'jadi', 'lebih', 'murah', 'namun', 'asli', 'terima kasih', 'lazada']",5.625,16
+5,"['barang', 'sudah', 'saya', 'terima', 'bagus', 'sesuai', 'dengan', 'iklanya']",5.625,8
+2,"['barang', 'rusak', 'tidak', 'bisa', 'di', 'pakai']",4.5,6
+5,"['pengiriman', 'cukup', 'cepat', 'sesuai', 'gambar', 'dan', 'kapasitas', 'tb', 'kualitas', 'sedang', 'dicoba']",6.0,11
+4,"['sesuai', 'dengan', 'pesanan', 'dan', 'cepat']",5.4,5
+5,"['sangat', 'puas']",5.0,2
+4,"['suka', 'amat', 'model', 'halo', 'kity', 'bling', 'bling', 'bisa', 'dipakai', 'terima kasih']",5.4,10
+5,"['barang', 'cepat', 'diterima', 'dan', 'dalam', 'keadan', 'baik', 'direkomendasikan', 'seler']",6.444444444444445,9
+5,"['untuk', 'pemakaian', 'darurat', 'lumayan', 'bisa', 'bantu', 'nyalakan', 'sebatang', 'mah']",6.222222222222222,9
+4,"['barang', 'sampai', 'dengan', 'selamat', 'dan', 'berfungsi', 'dengan', 'sempurna']",6.375,8
+5,"['barang', 'sesuai', 'deskripsi', 'dan', 'pesanan']",6.2,5
+4,"['sesuai', 'pesanan']",6.5,2
+5,"['barang', 'bagus', 'pengemasan', 'rapi', 'saya', 'senang', 'sekali', 'terima kasih', 'kamu']",6.333333333333333,9
+5,['excelent'],8.0,1
+5,"['usb', 'diterima', 'lebih', 'cepat', 'dari', 'informasi', 'yang', 'ada', 'barang', 'oke', 'dan', 'sesuai', 'dengan', 'spesifikasi', 'yang', 'dicantumkan', 'di', 'lazada', 'thanks']",5.526315789473684,19
+5,"['yang', 'produk', 'adalah', 'bagus', 'dan', 'terjangkau', 'nevertheles', 'terima kasih', 'lazada']",7.0,9
+5,"['so', 'far', 'so', 'bagus', 'enough', 'capacity', 'dan', 'working', 'bagus']",4.555555555555555,9
+5,"['kamu', 'won', 't', 'regret', 'if', 'kamu', 'buy', 'it', 'it', 's', 'durable', 'terima kasih', 'lazada']",4.076923076923077,13
+1,"['usb', 'delapan', 'gb', 'ini', 'tidak', 'bisa', 'di', 'pakai']",3.875,8
+5,"['sesuai', 'gambar', 'sesuai', 'harapan']",6.25,4
+5,"['satisfied', 'dengan', 'yang', 'produk', 'yang', 'barang', 'was', 'bagus', 'dan', 'so', 'cepat', 'pengiriman']",5.25,12
+5,"['barang', 'sudah', 'sampai', 'dan', 'bekerja', 'dengan', 'baik', 'terima kasih', 'lazada']",6.111111111111111,9
+5,"['cheap', 'price', 'but', 'tinggi', 'kualitas', 'working', 'tidak', 'jelek']",5.5,8
+3,"['status', 'sudah', 'dikirim', 'tapi', 'kok', 'belum', 'sampai', 'iya']",4.875,8
+2,"['semoga', 'cepat', 'sampai', 'dan', 'semoga', 'benar', 'memang', 'tiga', 'tiga', 'gb']",4.7,10
+1,"['produk', 'tidak', 'sesuai', 'dengan', 'gambar', 'yang', 'diterima', 'lcd', 'maupun', 'menu', 'berbeda', 'seratus', 'persen']",5.6923076923076925,13
+5,"['barang', 'bagus', 'mantap']",5.666666666666667,3
+3,"['barang', 'diterima', 'dengan', 'baik', 'secara keseluruhan', 'berfungsi', 'baik', 'tapi', 'kok', 'capacity', 'storage', 'hanya', 'lima', 'puluh', 'tujuh', 'gb', 'tidak', 'sesuai', 'tulisan', 'enam', 'puluh', 'empat', 'gb']",5.739130434782608,23
+1,"['barang', 'masih', 'ada', 'tidak']",4.75,4
+5,"['mohon', 'di', 'cek', 'kembali', 'sudah', 'benar', 'untuk', 'harga', 'apa', 'belum']",4.5,10
+5,['asli'],4.0,1
+1,"['pesan', 'tangal', 'sembilan', 'mei', 'tujuh', 'belas', 'maksimal', 'pengiriman', 'tangal', 'satu', 'mei', 'tujuh', 'belas', 'tangal', 'satu', 'mei', 'tujuh', 'belas', 'jam', 'delapan', 'malam', 'baru', 'ada', 'email', 'bahwa', 'pesanan', 'saya', 'dibatalkan', 'oleh', 'seler', 'tanpa', 'alasan', 'apapun', 'padahal', 'barang', 'siap', 'itu', 'masih', 'jualan', 'buang', 'buang', 'waktu', 'orang', 'saja', 'seler', 'yang', 'tidak', 'niat', 'jualan', 'atau', 'toko', 'palsu', 'ini', 'seperti']",5.12962962962963,54
+4,"['untung', 'dulu', 'aku', 'beli', 'sisa', 'satu', 'unit', 'hanya', 'sembilan', 'puluh', 'enam', 'ribu']",4.583333333333333,12
+4,"['barang', 'berfungsi', 'dengan', 'baik', 'tertawa', 'ujung', 'agak', 'bengkok']",6.0,8
+5,"['harga', 'sat', 'itu', 'lagi', 'diskon', 'terus', 'juga', 'asli', 'pengiriman', 'cepat']",4.9,10
+3,"['sempat', 'lama', 'sih', 'kemarin', 'dilayanin', 'hampir', 'hari', 'pertama', 'lihat', 'kaget', 'kerdus', 'peyot', 'peyot', 'dan', 'sempat', 'khawatir', 'juga', 'kalau', 'isi', 'bakal', 'berabe', 'pas', 'dibuka', 'dan', 'cek', 'kondisi', 'barang', 'untung', 'barang', 'aman', 'Cuma', 'packingan', 'yang', 'rusak', 'mungkin', 'lain', 'kali', 'seler', 'kasih', 'perlindungan', 'lebih', 'untuk', 'barang', 'yang', 'dikirim', 'terima kasih', 'lazada', 'pelayanan', 'cukup', 'baik', 'lebih', 'percaya', 'belanja', 'di', 'sini']",5.509090909090909,55
+5,"['barang', 'bagus', 'tidak', 'mengecewakan', 'barang', 'cepat', 'sampai', 'terima', 'kasih', 'lazada', 'pokok', 'lazada', 'yang', 'terbaik']",6.0,14
+1,"['sering', 'error']",5.5,2
+4,"['terima kasih', 'lazada', 'paket', 'sudah', 'diterima']",7.2,5
+5,"['flasdisk', 'oke']",5.5,2
+1,"['kapasitas', 'enam', 'puluh', 'empat', 'gb', 'tidak', 'sesuai', 'dengan', 'barang', 'yang', 'saya', 'terima', 'kapasitas', 'flasdsik', 'yang', 'saya', 'terima', 'tertawa', 'lima', 'puluh', 'sembilan', 'gb', 'saya', 'tidak', 'merekomendasikan', 'barang', 'ini', 'untuk', 'dibeli', 'karena', 'tidak', 'sesuai']",5.65625,32
+5,"['sudah', 'diterima', 'beberapa', 'hari', 'yang', 'lalu', 'maf', 'baru', 'ulasan', 'barang', 'bagus', 'sesuai', 'gambar']",5.3076923076923075,13
+5,"['bagus', 'kualitas', 'of', 'barang', 'cepat', 'pengiriman']",6.0,6
+2,"['jujur', 'tidak', 'iya', 'jangan', 'ngarep', 'harga', 'murah', 'kualitas', 'oke']",5.111111111111111,9
+1,"['barang', 'jelek', 'sekali', 'harus', 'tiga', 'tiga', 'gb', 'baru', 'di', 'isi', 'sekitar', 'empat', 'lima', 'gb', 'mulai', 'jadi', 'lambat', 'makin', 'lama', 'makin', 'lambat', 'kalau', 'di', 'isi', 'foto', 'total', 'di bawah', 'lima', 'gb', 'masih', 'oke', 'selebih', 'error', 'tapi', 'tidak', 'ada', 'error', 'pemberitahuan', 'tertawa', 'waktu', 'foto', 'di', 'buka', 'error', 'opening', 'beli', 'lima', 'unit', 'semua', 'sama', 'kapok']",4.647058823529412,51
+5,"['barang', 'bagus']",5.5,2
+1,"['barang', 'datang', 'dicoba', 'langsung', 'of', 'tidak', 'perlu', 'deh', 'beli', 'produk', 'ini']",4.909090909090909,11
+4,"['barang', 'bagus', 'semoga', 'awet']",5.25,4
+3,"['ini', 'flashdisk', 'bisa', 'buat', 'apa', 'saja', 'kan']",4.285714285714286,7
+1,"['setelah', 'kami', 'terima', 'flashdisk', 'enam', 'puluh', 'empat', 'gb', 'yang', 'datang', 'je', 'tempat', 'kami', 'cukup', 'lama', 'dan', 'setelah', 'dicoba', 'tidak', 'bisa', 'digunakan', 'atau', 'rusak']",5.043478260869565,23
+5,"['barang', 'bagus']",5.5,2
+1,"['kecewa', 'tapi', 'saya', 'tidak', 'bisa', 'salah', 'selain', 'diri', 'sendiri', 'karena', 'bali', 'usb', 'yang', 'saya', 'kira', 'enam', 'puluh', 'empat', 'giga', 'ternyata', 'enam', 'puluh', 'empat', 'mbak', 'disi', 'apan', 'lagu', 'lagu', 'saja', 'tidak', 'muat', 'parah']",4.625,32
+1,"['tertawa', 'bisa', 'digunakan', 'sebentar', 'sudah', 'itu', 'tidak', 'tahu', 'jadi', 'tidak', 'bisa', 'dipakek', 'terus', 'tidak', 'bisa', 'menyimpan', 'semua', 'file', 'tertawa', 'file', 'file', 'tertentu', 'yang', 'bisa', 'disave', 'dan', 'dibuka', 'kembali', 'kenbanyakan', 'tidak', 'bisa', 'dibuka']",5.5,32
+1,"['masih', 'jual', 'enam', 'puluh', 'empat', 'mbak']",4.5,6
+4,"['barang', 'bagus', 'sesuai', 'dengan', 'yang', 'di', 'foto', 'suka']",4.625,8
+2,"['kapasitas', 'tidak', 'sesuai', 'paling', 'hanya', 'bisa', 'nyimpan', 'enam', 'belas', 'gigan']",5.6,10
+1,"['jelek', 'produk']",5.5,2
+1,"['barang', 'ini', 'palsu', 'karena', 'asli', 'muatan', 'tertawa', 'delapan', 'gb']",5.111111111111111,9
+1,"['lebih baik', 'jangan']",8.0,2
+5,"['datang', 'cepat', 'paket', 'hemat', 'rekomeded']",6.0,5
+5,"['flshdisk', 'ajaib', 'sering', 'hilang', 'tapi', 'selalu', 'blik']",5.571428571428571,7
+5,"['barang', 'sampai', 'dengan', 'selamat']",6.25,4
+1,"['penjual', 'ini', 'parah', 'pesanan', 'saya', 'dibatalkan', 'sepihak', 'pengembalian', 'dana', 'lama', 'sekali', 'saya', 'pesan', 'lima', 'buah', 'bayar di tempat', 'tidak', 'ada', 'masalah', 'ini', 'sudah', 'tidak', 'bisa', 'bayar di tempat', 'dibatalkan', 'lama', 'lagi', 'pengembalian', 'uang', 'saya']",6.2,30
+5,"['barang', 'asli', 'ada', 'hologram', 'pengemasan', 'bagus', 'cepat', 'respon', 'direkomendasikan', 'seler']",6.8,10
+3,"['saya', 'sangat', 'puas', 'barang', 'juga', 'oke', 'terima kasih', 'lazada']",5.625,8
+5,"['terima kasih', 'kamu']",8.0,2
+4,"['mantap', 'sesuai']",6.0,2
+5,"['barang', 'bagus', 'sesuai', 'dengan', 'gambar', 'dan', 'deskripsi', 'produk']",5.875,8
+5,"['pakai', 'gojek', 'langsung', 'sampai', 'sudah', 'dicoba', 'di', 'dalam', 'ada', 'aplikasi', 'sandisk', 'untuk', 'mengamankan', 'file', 'begitu', 'ngopy', 'file', 'juga', 'cepat', 'jadi', 'yakin', 'ini', 'asli', 'dapat', 'stiker', 'nomor', 'smoking', 'juga', 'mantap']",5.275862068965517,29
+5,"['barang', 'sudah', 'diterima', 'kondisi', 'oke', 'sesuai', 'dengan', 'pesanan', 'terima kasih']",6.666666666666667,9
+4,"['barang', 'bisa', 'digunakan', 'dan', 'dalam', 'kondisi', 'oke']",5.285714285714286,7
+4,"['barang', 'sudah', 'sampai', 'lumayan', 'sih', 'terima kasih', 'lazada']",6.428571428571429,7
+1,"['sudah', 'mingu', 'pesan', 'tapi', 'belum', 'sampai', 'juga', 'terlambat', 'sekali']",5.444444444444445,9
+1,"['yang', 'dikirim', 'bahkan', 'newblack', 'touch', 'scren', 'untuk', 'samsung']",5.875,8
+5,"['barang', 'bagus', 'berfungsi', 'baik', 'terima kasih']",7.2,5
+5,"['pesanan', 'sudah', 'sampai', 'terima kasih', 'banyak']",7.2,5
+1,"['barang', 'belum', 'di', 'terima', 'tapi', 'ada', 'notifikasi', 'barang', 'sudah', 'diterima', 'coba', 'cek', 'dulu', 'baik', 'baik', 'sebelum', 'send', 'notifikasi', 'dulu', 'pesan', 'tas', 'anak', 'merek', 'onlan', 'jasa', 'pengiriman', 'lewat', 'lex', 'alhasil', 'barang', 'di', 'send', 'balik', 'ke', 'pusat', 'alasan', 'kata', 'kantor', 'tidak', 'ditemukan', 'buset', 'hotel', 'besar', 'di', 'pusat', 'kota', 'makasar', 'tidak', 'ketemu', 'sekarang', 'pesan', 'fd', 'jasa', 'pengiriman', 'lex', 'barang', 'belum', 'di', 'terima', 'tapi', 'ada', 'notifikasi', 'sudah', 'diterima', 'hadeh']",5.138461538461539,65
+5,"['bagus', 'i', 'suka']",3.3333333333333335,3
+2,"['ini', 'asli', 'tiga', 'tiga', 'gb', 'juragan']",4.0,6
+5,"['bagus', 'desain', 'engough', 'lima', 'puluh', 'enam', 'mbak', 'just', 'what', 'i', 'want']",4.363636363636363,11
+1,"['saya', 'ingin', 'membatalkan', 'pesanan', 'produk', 'ini']",6.0,6
+5,"['barang', 'sudah', 'dtrima', 'tepat', 'waktu', 'lebih', 'baik', 'dari', 'pada', 'yang', 'kabel', 'karena', 'lebih', 'praktis', 'terima kasih', 'lazada']",5.5625,16
+2,"['murah', 'meriah']",5.5,2
+3,"['murah', 'tapi', 'kuningan', 'sering', 'lepas', 'lem', 'kurang', 'kuat']",5.125,8
+1,"['jelek', 'hilang', 'hilang', 'terus', 'data', 'dibuatnya']",5.833333333333333,6
+1,"['kecewa', 'berat', 'pokok', 'buat', 'kamu', 'pada', 'yang', 'mau', 'beli', 'pikir', 'dulu', 'saja', 'saya', 'saranin', 'sih', 'kga', 'ush', 'dibeli', 'respon', 'lama', 'tadi', 'mau', 'buqt', 'kado', 'bahkan', 'jadi', 'kga', 'ngado', 'saler', 'kebanyakan', 'mecin']",4.548387096774194,31
+5,"['difoto', 'ada', 'penutup', 'fd', 'asli', 'tidak', 'ada']",4.285714285714286,7
+5,"['kecil', 'dan', 'sangat', 'unik', 'dan', 'mini', 'sesuai', 'dengan', 'harapan']",4.888888888888889,9
+5,"['sangat', 'bagus', 'barang', 'pengiriman', 'faster', 'than', 'i', 'expected']",5.75,8
+5,"['its', 'oke', 'its', 'bagus', 'untuk', 'me', 'terima kasih', 'lazada', 'working', 'wel', 'dan', 'pengiriman', 'sangat', 'cepat']",5.214285714285714,14
+5,"['sesuai', 'gambar', 'harga', 'terjangkau']",6.75,4
+1,"['ditulis', 'tertawa', 'satu', 'unit', 'yang', 'tersisa', 'ketika', 'dipesan', 'empat', 'hari', 'baru', 'ada', 'pemberitahuan', 'pembatalan', 'pesanan', 'dari', 'pihak', 'lazada']",5.944444444444445,18
+1,"['sudah', 'hampir', 'mingu', 'barang', 'tidak', 'kunjung', 'datang']",5.714285714285714,7
+5,"['sudah', 'mingu', 'belum', 'terima', 'barang', 'terus', 'transfer', 'dengn', 'jumlah', 'uang', 'pembayaran', 'buah', 'tapi', 'di', 'keterangan', 'jumlh', 'hanya', 'satu', 'buah']",5.421052631578948,19
+5,"['produk', 'sudah', 'sampai', 'sesuai', 'estimasi', 'produk', 'sesuai', 'dengan', 'gambar', 'dan', 'deskripsi', 'terima kasih', 'lazada']",6.538461538461538,13
+5,"['barang', 'sangat', 'bagus', 'dan', 'sangat', 'sederhana', 'saya', 'suka', 'sekali', 'recoment', 'tidak', 'usa', 'mikir', 'lagi', 'untuk', 'beli', 'ini', 'saja', 'ma', 'niatan', 'beli', 'lagi', 'but', 'cadangan']",4.875,24
+1,"['saya', 'pesan', 'barang', 'ini', 'dengan', 'nomor', 'pesanan', 'tiga', 'ratus', 'empat', 'puluh', 'sembilan', 'juta', 'tiga', 'ratus', 'dua', 'puluh', 'dua', 'ribu', 'seratus', 'tujuh', 'puluh', 'empat', 'tiga', 'ratus', 'empat', 'puluh', 'sembilan', 'juta', 'tiga', 'ratus', 'dua', 'puluh', 'dua', 'ribu', 'seratus', 'tujuh', 'puluh', 'empat', 'yang', 'sampai', 'bahkan', 'ukuran', 'enam', 'belas', 'gb', 'mohon', 'dapat', 'diproses', 'lagi', 'untuk', 'pengantian']",5.0,52
+4,"['barang', 'sudah', 'diterima', 'sesuai', 'dengan', 'gambar', 'barang', 'bermanfat', 'saya', 'jadi', 'suka', 'belanja', 'daring', 'di sini', 'lazada', 'tetap', 'jadi', 'yang', 'terbaik']",5.7894736842105265,19
+5,"['barang', 'cepat', 'sampai', 'dan', 'pengemasan', 'sangat', 'rapi']",5.714285714285714,7
+5,"['produk', 'sudah', 'digunakan', 'dan', 'berfungsi', 'sangat', 'baik']",6.0,7
+4,"['saya', 'puas', 'sekali', 'dengan', 'barang', 'tapi', 'jne', 'yang', 'lama']",4.555555555555555,9
+1,"['yang', 'dipesan', 'satu', 'satu', '8', 'gb', 'yang', 'tiba', 'enam', 'puluh', 'empat', 'gb', 'penipuan', 'ini', 'nama']",4.066666666666666,15
+2,"['uang', 'sudah', 'sepuluh', 'hri', 'belum', 'di', 'kembalikan', 'proses', 'lama', 'kaya', 'keong']",5.0,11
+2,"['produk', 'bagus', 'dan', 'asli', 'namun', 'pengiriman', 'lama', 'benget', 'kurang', 'lebih', 'satu', 'bulan', 'baru', 'sampai']",5.214285714285714,14
+4,"['barang', 'cepat', 'sampai', 'hari', 'langsung', 'sampai', 'rumah', 'bagus', 'juga', 'barang', 'hanya', 'buka', 'penutup', 'flashdisk', 'agak', 'susahdan', 'agak', 'susah', 'untuk', 'dicabut', 'dari', 'laptop']",5.590909090909091,22
+5,"['sudah', 'dipakai', 'selama', 'berbulan', 'berbulan', 'tidak', 'ada', 'masalah', 'dan', 'lancar', 'lancar', 'saja', 'sengaja', 'kasih', 'rivew', 'lama', 'biar', 'jadi', 'bukti', 'kalau', 'barang', 'di sini', 'memang', 'bagus']",5.458333333333333,24
+1,"['kecewa', 'lah', 'seperti', 'ufd', 'palsu', 'padahal', 'spesifikasi', 'yang', 'dilampirkan', 'di', 'web', 'asli', 'contoh', 'cover', 'pack', 'warna', 'hijau', 'sedangkan', 'yang', 'dikirim', 'warna', 'merah', 'file', 'hasil', 'copy', 'selalu', 'corupt', 'kata', 'terbaik', 'seler', 'tapi', 'kualitas', 'mengecewakan', 'baru', 'kali', 'ini', 'beli', 'di', 'lazada', 'mengecewakan', 'saya', 'minta', 'ditukar', 'barang', 'dengan', 'yang', 'sesuai', 'di', 'spesifikasi']",5.551020408163265,49
+5,"['barang', 'cepat', 'sampai', 'sesuai', 'pesanan', 'lazada', 'memang', 'oke']",5.625,8
+4,"['barang', 'telah', 'sampai', 'dengan', 'pengemasan', 'rapi', 'dan', 'aman', 'barang', 'juga', 'dalam', 'keadan', 'baik']",5.3076923076923075,13
+5,"['barang', 'sesuai', 'pesanan', 'pengiriman', 'cepat', 'dan', 'rapi', 'terima kasih']",6.625,8
+5,"['flashdisk', 'asli', 'pengemasan', 'bagus', 'saya', 'suka', 'terima kasih']",6.857142857142857,7
+2,"['gambar', 'tidak', 'kelihatan']",6.666666666666667,3
+5,"['baik', 'berfungsi', 'dengan', 'baik']",5.75,4
+5,"['tidak', 'bisa', 'untuk', 'save', 'pdf', 'file']",4.166666666666667,6
+5,"['i', 'suka', 'this', 'desain', 'so', 'convenien']",4.333333333333333,6
+4,"['mantap', 'sampai', 'tujuan', 'rapi', 'kemasan', 'nya']",5.333333333333333,6
+2,"['asli', 'tidak', 'kakak']",4.666666666666667,3
+5,['bagus'],5.0,1
+5,"['excelent', 'pengiriman', 'flashdrive', 'bagus', 'working', 'put', 'in', 'pc']",5.875,8
+1,"['barang', 'ini', 'jangan', 'di', 'beli', 'menyesal', 'sebentar', 'barang', 'tidak', 'bisa', 'kepakai']",5.363636363636363,11
+1,"['tertawa', 'bertahan', 'tiga', 'bulan', 'setelah', 'itu', 'rusak']",5.571428571428571,7
+5,"['terima kasih', 'lazada', 'sesuai', 'pesanan', 'dan', 'harga', 'yang', 'terjangkau', 'suces', 'selalu', 'lazada']",6.363636363636363,11
+5,"['barang', 'cepat', 'sampai', 'mantap', 'deh', 'pokok', 'nya']",4.857142857142857,7
+5,"['sesuai', 'ekpektasi', 'mantap', 'jiwa']",6.25,4
+1,"['produk', 'ini', 'bagus', 'di', 'awal', 'tapi', 'pemakaian', 'mingu', 'sudah', 'mengalami', 'masalah', 'satu', 'file', 'yang', 'dicopy', 'sering', 'korupsi', 'banyak', 'file', 'yang', 'masuk', 'dan', 'sekitar', 'delapan', 'puluh', 'persen', 'tidak', 'terbaca', 'tiga', 'tidak', 'bisa', 'digunakan', 'untuk', 'copy', 'langsung', 'ukuran', 'besar', 'pasti', 'ngadat', 'empat', 'sekarang', 'tidak', 'bisa', 'digunakan', 'karena', 'semua', 'yang', 'dimasukan', 'tidak', 'dapat', 'dibuka', 'lima', 'beberapa', 'file', 'hilang', 'sendiri', 'semoga', 'tidak', 'ada', 'yang', 'terkena', 'masalah', 'seperti', 'ini', 'lagi']",5.476923076923077,65
+5,"['bagus', 'sekali', 'puas', 'lah', 'tapi', 'kecil', 'sekali']",4.714285714285714,7
+5,"['produk', 'sesuai', 'dan', 'sampai', 'tepat', 'waktu']",5.166666666666667,6
+1,"['saya', 'pesan', 'usb', 'flashdisk', 'toshiba', 'delapan', 'gb', 'untuk', 'hadiah', 'orang', 'ternyata', 'setelah', 'di', 'cek', 'kapasitas', 'hanya', 'satu', 'satu', 'delapan', 'mbak', 'harga', 'memang', 'murah', 'tapi', 'hati', 'hati', 'waktu', 'terima', 'barang', 'kecewa', 'berat', 'beli', 'tiga', 'buah', 'satu', 'tidak', 'ke', 'detect', 'tidak', 'benar', 'cowok']",5.024390243902439,41
+1,"['sudah', 'pesan', 'nungu', 'semingu', 'pesanan', 'dibatalkan', 'gara', 'gara', 'barang', 'tidak', 'ada', 'ribet', 'uang', 'wes', 'harus', 'tungu', 'tungu']",5.176470588235294,17
+1,"['tenaga', 'bank', 'tidak', 'dapat', 'digunakan']",5.8,5
+1,"['bisa', 'di', 'ganti', 'mi', 'sama', 'flash', 'yang', 'lain', 'Cuma', 'flash', 'dist', 'saja', 'admin']",4.0,13
+4,"['pengemasan', 'an', 'kurang', 'rapi', 'tapi', 'untuk', 'flashdisk', 'bagus', 'tidak', 'ada', 'masalah']",5.454545454545454,11
+1,"['lazada', 'atau', 'penjuan', 'yang', 'koplak', 'barang', 'belum', 'diterima', 'dibilang', 'sudah', 'diterima']",6.090909090909091,11
+1,"['mungkin', 'karena', 'produk', 'negeri', 'luar', 'iya', 'saya', 'nrima', 'agak', 'lama']",4.9,10
+1,"['kecewa', 'sekali']",6.0,2
+3,"['otg', 'kok', 'tidak', 'bisa', 'konek', 'ya']",3.6666666666666665,6
+5,"['barang', 'bagus', 'sesuai', 'pesanan']",6.0,4
+1,"['tidak', 'bisa', 'dipakai', 'alias', 'rusak']",5.2,5
+1,"['ukuran', 'tiga', 'tiga', 'gb', 'tapi', 'mengisi', 'data', 'yang', 'delapan', 'gb', 'ajh', 'tidak', 'muat', 'karena', 'sudah', 'banyak', 'virus', 'padahal', 'di', 'pakai', 'juga', 'belum', 'mhl', 'doank', 'pas', 'saya', 'nyimpen', 'fto', 'bukan', 'kesimpen', 'mlh', 'hilang', 'semua', 'menyesal', 'bli']",4.685714285714286,35
+5,"['material', 'sempurna', 'pengemasan', 'jelek']",7.75,4
+1,"['barang', 'tidak', 'bagus']",5.333333333333333,3
+1,"['ini', 'flasdisk', 'opo', 'flasdisk', 'kok', 'ora', 'iso', 'di', 'buka', 'isi', 'file', 'buang', 'buang', 'uang', 'ae']",4.0,15
+1,"['kali', 'saya', 'memesan', 'barang', 'dari', 'seler', 'ini', 'dan', 'kali', 'dibatalkan', 'pertama', 'saya', 'pesan', 'h', 'dari', 'seler', 'ini', 'kemudian', 'setelah', 'dibayar', 'bahkan', 'dibatalkan', 'saya', 'pikir', 'kesalahan', 'sistem', 'lalu', 'sat', 'saya', 'pesan', 'yang', 'ke', 'kali', 'saya', 'kombinasi', 'dengan', 'seler', 'ini', 'dan', 'seler', 'lain', 'alhasil', 'ternyata', 'tertawa', 'pesanan', 'dari', 'seler', 'ini', 'yang', 'terbatalkan', 'ternyata', 'masalah', 'memang', 'ada', 'di', 'seler', 'ini', 'belanja', 'daring', 'itu', 'paling', 'ribet', 'kalau', 'pengembalian dana']",5.390625,64
+1,"['dari', 'sekian', 'bnyak', 'barang', 'yang', 'saya', 'beli', 'di', 'lazada', 'Cuma', 'di', 'toko', 'ini', 'yang', 'paling', 'parah', 'pengiriman', 'lebih', 'dari', 'estimasi', 'barang', 'yang', 'di', 'kirim', 'pun', 'cacat', 'benar', 'benar', 'cacat']",4.689655172413793,29
+2,"['sudah', 'hari', 'pemesanan', 'kenapa', 'status', 'masih', 'di', 'proses', 'iya']",5.111111111111111,9
+2,"['pb', 'slim', 'merk', 'apa', 'kalau', 'boleh', 'tahu', 'dan', 'berapa', 'mah', 'juragan']",4.181818181818182,11
+5,"['barang', 'ini', 'belum', 'saya', 'terima']",4.8,5
+1,"['barang', 'tidak', 'sesuai', 'barang', 'dan', 'sangat', 'mengecewakan', 'walau', 'kebaca', 'hanya', 'satu', 'data', 'video', 'yang', 'bisa', 'diputar', 'selebih', 'tidak', 'bisa']",5.473684210526316,19
+1,"['file', 'yang', 'dipindahin', 'ke', 'flasdisk', 'hilang', 'sendiri', 'tidak', 'kepakai', 'rugi', 'jadinya']",5.818181818181818,11
+1,"['flasdisk', 'rusakatau', 'error', 'kalau', 'barang', 'rudak', 'tolong', 'jangan', 'di', 'jual']",5.6,10
+1,"['mini', 'peluit', 'trendy', 'usb', 'empat', 'gb', 'sudah', 'saya', 'terima', 'sesuai', 'pesanan', 'terima', 'kasih']",5.0,13
+4,"['asli', 'asli', 'hanya', 'pengiriman', 'lama']",5.4,5
+1,"['di', 'tqwarka', 'asli', 'ternyata', 'palsu', 'kekuatan', 'sudah', 'terbayang', 'pasti', 'takut', 'sama', 'file', 'penting', 'kalau', 'di', 'simpan', 'di', 'flasdik', 'ini']",5.157894736842105,19
+5,"['barang', 'kualitas', 'bagus', 'saya', 'senang', 'dan', 'puas', 'tksh']",5.0,8
+5,"['flashdisk', 'tidak', 'bisa', 'simpan', 'laguatau', 'video', 'alias', 'tidak', 'bisa', 'di', 'pskai']",5.2727272727272725,11
+5,"['barang', 'sudah', 'nyampai', 'pengemasan', 'bagus', 'barang', 'memuaskan', 'walau', 'lama', 'nyampainya']",6.7,10
+3,"['biasa', 'saja']",4.5,2
+1,"['dari', 'flasdish', 'tertawa', 'satu', 'yang', 'berfungsi', 'dengan', 'baik', 'yang', 'lain', 'tidak', 'bisa', 'digunakan']",5.538461538461538,13
+1,"['barang', 'tidak', 'berfungsi']",6.666666666666667,3
+5,"['bagus', 'barang', 'sesuai', 'dengan', 'barang', 'yang', 'tertera', 'dan', 'yang', 'diminta']",5.4,10
+1,"['barang', 'tidak', 'sesuai', 'dan', 'gambar']",5.2,5
+5,"['flashdisk', 'ringkasatau', 'compact', 'kapasitas', 'dan', 'performa', 'sesuai', 'harapan']",7.5,8
+1,"['tidak', 'bisa', 'kebaca', 'deh', 'disimpan', 'pas', 'dibuka', 'di', 'pc', 'lain', 'data', 'tidak', 'ada']",4.230769230769231,13
+5,"['barang', 'lumayan', 'berat', 'dan', 'bagus', 'sih', 'hanya', 'permata', 'hilang', 'satu']",5.1,10
+2,"['pengiriman', 'produk', 'sangat', 'lama']",6.5,4
+1,"['barang', 'belum', 'saya', 'terima', 'mohon', 'bantuan', 'juragan', 'terima kasih']",6.5,8
+5,"['saya', 'suka', 'bermanfat', 'sekali', 'usul', 'kuota', 'ditambah', 'lagi', 'buat', 'ruang', 'penyimpanan']",5.818181818181818,11
+5,"['paket', 'iya', 'aman']",4.0,3
+5,['direkomendasikan'],16.0,1
+5,"['barang', 'diterima', 'oke', 'sesuai']",5.75,4
+5,"['pengemasan', 'aman', 'barang', 'sesuai']",6.5,4
+5,"['rekomendasi', 'sekali', 'ini', 'puas', 'sekali', 'kendala', 'busy', 'tidak', 'terlalu', 'lagi', 'harga', 'murah', 'sangat', 'dan', 'video', 'lebih', 'lncar', 'dan', 'cepat', 'barang', 'sangat', 'sangat', 'super', 'cepat', 'sampai', 'padahal', 'jauh', 'di', 'malinau', 'terima', 'kasih']",5.290322580645161,31
+3,['lumayan'],7.0,1
+5,"['cocok', 'sesuai', 'pesanan']",6.0,3
+4,"['yang', 'kami', 'inginkan', 'merah', 'yang', 'dikirim', 'biru']",5.142857142857143,7
+1,"['barang', 'tidak', 'sampai', 'ke', 'saya', 'tidak tahu', 'sampai', 'kmana']",5.5,8
+3,"['barang', 'sudah', 'di', 'terima', 'untuk', 'sat', 'ini', 'masih', 'normal', 'untuk', 'transfer', 'data', 'agak', 'lambat', 'tapi', 'tetap', 'bisa', 'digunakan', 'wajar', 'saja', 'ini', 'kan', 'barang', 'bukan', 'barang', 'asli']",4.846153846153846,26
+5,"['tidak', 'bisa', 'di', 'pakai']",4.0,4
+3,['tepat'],5.0,1
+3,"['barang', 'sesuai', 'dengan', 'yang', 'dipesan', 'pengemasan', 'baik', 'dan', 'rapi', 'walaupun', 'sampai', 'lebih', 'hari', 'dari', 'estimasi', 'terlama']",5.75,16
+1,"['paket', 'lama', 'sekali']",5.0,3
+1,"['tidak', 'bisa', 'nyimpan', 'data', 'seperti', 'fladish', 'bekas', 'iya', 'padahal', 'saya', 'sudah', 'sering', 'kecewa', 'belnja', 'di', 'lazada']",5.25,16
+5,"['bos', 'pesanan', 'merk', 'so', 'yang', 'datang', 'kok', 'merk', 'toshiba', 'murahan']",4.7,10
+5,"['pengemasan', 'rapi', 'barang', 'cepat', 'sampai', 'sesuai', 'pesanan', 'terima', 'kasih']",6.111111111111111,9
+5,"['barang', 'bagus', 'berfungsi', 'dengan', 'baik']",6.0,5
+1,['kecewa'],6.0,1
+4,"['minta', 'warna', 'hijau', 'seperti', 'gambar', 'tapi', 'yang', 'dikirim', 'warna', 'merah']",5.3,10
+5,"['paket', 'sudah', 'mendarat']",6.0,3
+1,"['barang', 'yang', 'datang', 'tidak', 'sesuai', 'dengan', 'pesanan', 'yang', 'saya', 'terima', 'tertawa', 'satu', 'potongan', 'plastik', 'warna', 'hitam', 'sepanjang', 'nol', 'cuma', 'dengan', 'bentuk', 'tidak', 'jelas']",5.565217391304348,23
+2,"['bungkus', 'tidak', 'profesional', 'seharus', 'memakai', 'gelembung', 'gelembung']",7.857142857142857,7
+4,"['barang', 'sudah', 'diterima', 'dengan', 'baik']",5.8,5
+5,"['barang', 'diterima', 'dengan', 'selamat', 'dan', 'sudah', 'dicoba']",5.857142857142857,7
+2,"['saya', 'pesan', 'flashdisk', 'kunci', 'tapi', 'datang', 'kok', 'model', 'kartu']",5.111111111111111,9
+5,"['oky', 'terima kasih', 'lazada', 'barang', 'sudah', 'diterima', 'sesuai', 'dengan']",6.5,8
+2,"['pengemasan', 'rapi', 'tapi', 'barang', 'agak', 'cacat', 'bagian', 'ujung', 'flashdisk', 'kebuka', 'semoga', 'saja', 'ini', 'awet']",5.428571428571429,14
+5,"['pas', 'sekali']",4.5,2
+4,"['barang', 'sesuai']",6.0,2
+5,"['it', 's', 'working', 'wel']",3.25,4
+5,"['matap', 'barang', 'cepat', 'sampai', 'puas', 'lazada']",5.333333333333333,6
+4,['luar biasa'],10.0,1
+1,"['hd', 'saya', 'jadi', 'rusak', 'karena', 'baru', 'sadar', 'pcb', 'hd', 'nempel', 'pada', 'logam', 'ini']",4.076923076923077,13
+5,"['barang', 'sudah', 'diterima', 'mudahan', 'berfungsi']",7.0,5
+1,"['kecewa', 'yang', 'dteng', 'tidak', 'sesuai', 'dengan', 'gambar', 'a', 'terus', 'tidak', 'bisa', 'kepakek']",5.0,12
+5,"['bagus', 'dan', 'bisa', 'otg', 'kecepatan', 'data', 'tranfers', 'juga', 'bagus']",5.0,9
+1,"['barang', 'tidak', 'bagus', 'kapasitas', 'tidak', 'sesuai']",6.0,6
+5,"['ok', 'befunsi', 'barangnta']",6.0,3
+5,"['barang', 'sesuai', 'discripsi']",7.0,3
+3,"['paket', 'diterima', 'dengan', 'baik', 'dan', 'cepat', 'tapi', 'sayang', 'file', 'yang', 'disimpan', 'dalam', 'memori', 'tersebut', 'mudah', 'hilang', 'kecewa', 'dengan', 'kualitas', 'ini', 'barang']",5.523809523809524,21
+5,"['bagus', 'cepat', 'pngirimanx']",6.666666666666667,3
+5,"['barang', 'bagus', 'dan', 'sesuai', 'mantap', 'direkomendasikan', 'seler']",6.714285714285714,7
+5,"['produk', 'tiba', 'dalam', 'kondisi', 'baik', 'dan', 'berfungsi', 'sesuai', 'dengan', 'harapan', 'thnx']",5.545454545454546,11
+1,"['pesan', 'tiga', 'tiga', 'gb', 'yang', 'datang', 'enam', 'puluh', 'empat', 'gb', 'sayang', 'tidak', 'bisa', 'nyimpen', 'data', 'kecewa', 'sekali', 'terima', 'kasih', 'lazada']",4.8,20
+5,"['barang', 'datang', 'begitu', 'dipakai', 'ternyata', 'error', 'bagaimana', 'ini', 'bisa', 'tukar', 'ngak']",5.7272727272727275,11
+4,"['bagus', 'tapi', 'agak', 'aneh', 'saja', 'tuk', 'kapasitas', 'memori', 'secara', 'kb', 'terbaca', 'sekitar', 'enam', 'puluh', 'empat', 'nol', 'kb']",4.705882352941177,17
+5,"['barang', 'bagus', 'keren', 'bngt']",5.0,4
+5,"['produk', 'asli', 'resmi', 'cepat', 'sampai', 'pula']",5.0,6
+5,"['barang', 'sampai', 'dengan', 'slamat', 'dan', 'lengkap', 'sesuai', 'pesanan', 'tanpa', 'kekurangan']",6.2,10
+5,"['tidak', 'tahu', 'ini', 'asli', 'atau', 'tidak']",4.166666666666667,6
+5,"['terima', 'kasih', 'barang', 'sudah', 'sampai', 'dan', 'sudah', 'saya', 'testing', 'semoga', 'awet']",5.181818181818182,11
+5,"['yang', 'ditrima', 'kok', 'toshiba', 'tidak', 'sesuai', 'dengan', 'yang', 'diminta', 'merek', 'telepon genggam']",6.2727272727272725,11
+1,"['belum', 'di', 'terima', 'siapa', 'penerimanya']",5.8,5
+5,"['berfungsi', 'dengan', 'baik']",6.333333333333333,3
+2,"['tiga', 'tiga', 'gb', 'ternyata', 'enam', 'belas', 'gb', 'saja', 'sedih', 'kecewa']",4.4,10
+1,"['barang', 'sudah', 'saya', 'terima', 'tadi', 'jam', 'sebelas', 'sembilan', 'belas', 'tapi', 'saya', 'kecewa', 'bngt', 'juragan', 'flashdisk', 'memory', 'kenapa', 'tidak', 'bisa', 'dsmpn']",5.4,20
+5,"['zesuai', 'gambar']",6.0,2
+5,"['barang', 'asli']",5.0,2
+5,"['mantap', 'barang', 'sesuai', 'dengan', 'pesanan', 'sangat', 'di', 'rekomen', 'buat', 'di', 'beli']",5.090909090909091,11
+5,"['lumayan', 'bagus', 'bintang', 'yang', 'bicara']",5.8,5
+1,"['sangat', 'mengecewakan', 'pesan', 'flash', 'yang', 'datang', 'casing', 'jangan', 'beli', 'di', 'toko', 'ini', 'kalau', 'tidak', 'mau', 'tertipu', 'juga']",5.117647058823529,17
+3,"['lumayan', 'kecil']",6.0,2
+5,"['barang', 'cukup', 'bagus', 'sudah', 'di', 'coba', 'dan', 'berfungsi', 'dengan', 'baik']",4.9,10
+2,"['flash', 'disk', 'terlalu', 'kecil', 'bisa', 'dipakai', 'otg', 'tidak', 'bisa', 'dipakai', 'bagaimana', 'cara', 'mengembalikan', 'lain', 'kali', 'kalau', 'kirim', 'dicek', 'dulu']",5.473684210526316,19
+5,"['sesuai', 'deskripsi', 'nyala', 'oke', 'charger', 'oke', 'tqs', 'lazada', 'terima kasih', 'seler', 'bagus', 'pengemasan']",6.166666666666667,12
+5,"['boneka', 'lucu']",5.0,2
+5,['okelah'],6.0,1
+5,"['sesuai', 'terima kasih', 'lazada']",8.0,3
+5,"['gimn', 'cara', 'datg', 'sms', 'paketan', 'dahbterima', 'dari', 'hongkong', 'iya', 'aku', 'belum', 'terima', 'barang', 'mohon', 'bantuan', 'lasada', 'sudah', 'lama', 'lagi', 'nungu', 'tolong', 'di', 'hubungi', 'kembali', 'saya', 'belum', 'terima', 'barang', 'pesanan', 'saya']",5.233333333333333,30
+4,"['produk', 'okay']",5.0,2
+5,"['barang', 'diterima', 'dalam', 'kondisi', 'dan', 'berfungsi', 'baik', 'semoga', 'awet']",5.777777777777778,9
+5,"['terima kasih', 'bos', 'sudah', 'saya', 'terima', 'sesuai', 'pesanan', 'mantap betul']",6.875,8
+1,"['rusak', 'sim', 'cart', 'rusak', 'tidak', 'bisa', 'di', 'pakai', 'minta', 'ganti', 'dong']",4.2727272727272725,11
+5,"['barang', 'sudah', 'tiba', 'dengan', 'baik', 'flashdisk', 'bagus', 'dan', 'utama', 'berfugsi', 'dengan', 'baik', 'terima', 'kasih', 'untuk', 'lazada', 'dan', 'seler']",5.277777777777778,18
+5,"['sudah', 'dicoba', 'tapi', 'ada', 'berapa', 'lagu', 'yang', 'tidak', 'bisa', 'loading', 'oke', 'lah']",4.5,12
+5,"['pertama', 'ragu', 'tapi', 'setelah', 'datang', 'barang', 'datang', 'langsung', 'test', 'wow', 'its', 'complite', 'bagus', 'pekerjaan', 'terima kasih', 'seler']",6.0625,16
+5,"['saya', 'belum', 'terima', 'pesanan', 'ini', 'tapi', 'imformsi', 'sudah', 'rerima', 'tlg', 'bantu', 'iya']",4.916666666666667,12
+5,"['barang', 'sangat', 'bagus']",5.666666666666667,3
+5,"['lampu', 'tiba', 'tiba', 'mati', 'langsung', 'tidak', 'berfungsi']",5.571428571428571,7
+5,"['barang', 'asli', 'bagus', 'pengiriman', 'cepat', 'terima', 'kasih', 'seler', 'dan', 'lazada']",5.5,10
+5,"['al', 'bagus', 'dan', 'nomor', 'masalah', 'at', 'al']",3.7142857142857144,7
+5,"['sangat', 'oke', 'dan', 'bermanfat']",5.25,4
+5,"['berfungsi', 'dengan', 'baik', 'sesuai', 'deskripsi']",6.8,5
+5,"['sangat', 'puas', 'sesuai', 'dengan', 'pesanan', 'terima kasih', 'seler', 'dan', 'lazada']",6.111111111111111,9
+4,"['barang', 'bagus', 'sesuai', 'deskripsi', 'tertawa', 'saja', 'saya', 'tidak', 'dapat', 'memakai', 'di', 'telepon genggam', 'xiaomi', 'note', 'lima', 'sebab', 'mounting', 'mini', 'usb', 'note', 'lima', 'yang', 'tipis', 'sementara', 'otg', 'yang', 'saya', 'beli', 'mounting', 'mini', 'usb', 'agak', 'besar', 'sikit', 'saja', 'pengiriman', 'jdan', 't', 'sekarang', 'lama', 'biasa', 'ke', 'tanjungpinang', 'empat', 'hari', 'saja', 'ini', 'nyampai', 'lima', 'hari']",5.22,50
+3,"['barang', 'sudah', 'sampai', 'kok', 'langsung', 'ke', 'telepon genggam', 'tidak', 'bisa', 'iya', 'saya', 'pemesanan', 'biru', 'dtng', 'merah', 'ehm']",5.375,16
+5,"['bhineka', 'baru', 'sehari', 'dipakai', 'flashdisk', 'error', 'write', 'protected', 'setelah', 'copy', 'data', 'apa', 'bisa', 'di', 'garansikan']",5.733333333333333,15
+5,"['sesuai', 'bagus', 'dan', 'lucu']",4.5,4
+5,['mantap betul'],12.0,1
+1,"['pengiriman', 'lama', 'dan', 'kapasitas', 'tidak', 'sesuai']",6.166666666666667,6
+3,"['flasdik', 'tidak', 'bisa', 'di', 'format']",4.8,5
+5,"['kecewa', 'kata', 'usb', 'satu', 'satu', '8', 'gb', 'tapi', 'ternyata', 'satu', 'satu', '9', 'gb', 'tidak', 'sesuai', 'dengan', 'pesanan', 'kita']",4.166666666666667,18
+5,"['barang', 'jelek']",5.5,2
+5,"['sangat', 'bagus', 'barang', 'cepat', 'pengiriman', 'baran']",6.166666666666667,6
+4,"['lumayan', 'sesuai', 'cuma', 'tidak', 'bisa', 'nymbung', 'otg', 'ke', 'telepon seluler']",5.888888888888889,9
+1,"['kecewa', 'sekali', 'sudah', 'pokok', 'pengiriman', 'lama', 'sudah', 'lagi', 'mesen', 'yang', 'enam', 'puluh', 'empat', 'gb', 'yang', 'dikirim', 'tiga', 'tiga', 'gb', 'pas', 'dicek', 'ternyata', 'hanya', 'tulisan', 'saja', 'tiga', 'tiga', 'gb', 'ternyata', 'asli', 'bahkan', 'lima', 'ratus', 'mbak', 'parah', 'syekali', 'modusnya']",4.972972972972973,37
+1,"['mengecewekan', 'jangan', 'beli', 'lagi', 'di', 'toko', 'ini', 'bong', 'kalau', 'bisa', 'toko', 'ini', 'di', 'blokir', 'saja']",4.466666666666667,15
+5,"['tidak', 'memuaskan', 'suli', 'dicolokan', 'ke', 'laptop', 'ukuran', 'kecil', 'makasi']",5.777777777777778,9
+2,"['tertawa', 'tertawa', 'tidak', 'seperti', 'yang', 'di', 'bayangkan']",5.857142857142857,7
+1,"['kecewa', 'berat', 'kata', 'enam', 'puluh', 'empat', 'gb', 'ternyata', 'tertawa', 'gb', 'pokok', 'kecewa', 'baru', 'awal', 'beli', 'barang', 'di', 'lazada', 'sudah', 'kena', 'tipu']",4.666666666666667,21
+2,"['layaratau', 'scren', 'pecah', 'dan', 'barang', 'sudah', 'di', 'kembalikan', 'ke', 'semart', 'komp', 'saya', 'tungu', 'laptop', 'dikirim', 'kembali', 'yang', 'sesuai', 'dengan', 'permintan', 'saya']",5.476190476190476,21
+5,"['barang', 'asli', 'dan', 'berfungsi', 'dengan', 'baik']",5.333333333333333,6
+3,"['visual', 'barang', 'mulus', 'dan', 'bagus', 'kelengkapan', 'hardisk', 'sudah', 'bukan', 'asli', 'thinkpad', 'tas', 'ada', 'charger', 'ada', 'fungsional', 'window', 'tujuh', 'plus', 'ofice', 'lengkap', 'driver', 'oke', 'batery', 'tahan', 'lima', 'jam']",5.37037037037037,27
+5,"['mas', 'ini', 'flasdisk', 'sudah', 'sampai', 'tapi', 'dikirim', 'film', 'kok', 'filmya', 'tidak', 'bisa', 'diputar', 'video', 'yang', 'disimpan', 'di', 'folder', 'tiba', 'tiba', 'hilang', 'kenapa', 'iya', 'mas', 'bisa', 'beri', 'pe']",4.666666666666667,27
+1,"['saya', 'belum', 'menerima', 'paket', 'saya', 'tapi', 'diulasan', 'sudah', 'terkirim', 'dibukti', 'pengiriman', 'tertulis', 'tertawa', 'satuan pengamanan', 'biasa', 'bila', 'yang', 'menerima', 'satuan pengamanan', 'dia', 'menulis', 'nama', 'satuan pengamanan', 'diperumahan', 'kami', 'amanah', 'ini', 'siapa', 'yang', 'tidak', 'jujur', 'kurir', 'atau', 'seler', 'saya', 'sangat', 'kecewa', 'dan', 'marah', 'baru', 'kali', 'ini', 'saya', 'tertipu', 'belanja', 'dilazada']",6.239130434782608,46
+5,"['mudah', 'mudahan']",6.0,2
+5,"['paket', 'diterima', 'dalam', 'keadan', 'baik', 'terima', 'kasih']",5.571428571428571,7
+1,"['ini', 'bohong', 'bukan', 'tiga', 'tiga', 'gb', 'tapis', 'lebih', 'kecil', 'kalau', 'saya', 'hitung', 'elkuran', 'file', 'lebih', 'kecil', 'jadi', 'jangi', 'barang']",4.7368421052631575,19
+5,"['sudah', 'sampai', 'ternyata', 'dan', 'barang', 'bagus', 'sekali']",5.571428571428571,7
+5,"['mantap', 'sesuai', 'ekspektasi']",7.333333333333333,3
+1,"['flashdisk', 'error', 'dijual', 'tidak', 'brfungsi', 'cuma', 'jadi', 'rongsok']",6.0,8
+1,"['barang', 'pas', 'diterima', 'bagus', 'tapi', 'pas', 'sudah', 'di', 'pakai', 'error', 'mengecewakan', 'kalau', 'nyimpen', 'foto', 'atau', 'lagu', 'selalu', 'hilang', 'sendiri', 'atau', 'keformat']",5.380952380952381,21
+1,"['barang', 'tidak', 'berfungsi', 'sama', 'sekali', 'tolong', 'donk', 'kalau', 'mau', 'jualan', 'itu', 'yang', 'jujur']",5.076923076923077,13
+5,"['barang', 'sudah', 'saya', 'terima', 'dengan', 'kemasan', 'baik']",5.428571428571429,7
+5,"['bagus', 'berfungsi', 'dengan', 'baik']",6.0,4
+5,"['barang', 'sudah', 'saya', 'terima', 'seler', 'respon', 'cepat', 'saya', 'dikasih', 'bonus', 'sarung', 'tangan', 'he', 'pembelian', 'ke', 'lima', 'barang', 'sesuai', 'deskripsi', 'clas', 'sepuluh', 'memang', 'direkomendasikan', 'nanti', 'beli', 'di sini', 'lagi']",5.777777777777778,27
+1,"['kabel', 'otg', 'tidak', 'dikirim', 'saya', 'kecewa']",5.0,6
+5,['teratas'],7.0,1
+5,"['ngak', 'menyesal', 'belanja', 'barang', 'sampai', 'tepat', 'waktu']",5.857142857142857,7
+5,"['puas', 'sekali', 'dengan', 'barang', 'pengiriman', 'juga', 'cepat', 'sekali']",5.875,8
+5,"['penjual', 'respon', 'sekali', 'pengiriman', 'cepat', 'barang', 'sesuai', 'dengan', 'gambar']",6.444444444444445,9
+5,"['barang', 'bagus', 'sekali', 'pengiriman', 'cepat']",6.4,5
+5,"['sesuai', 'dengan', 'harga', 'mantap', 'kali']",5.4,5
+5,"['terima', 'kasih', 'pengiriman', 'cepat']",6.5,4
+5,"['produk', 'bagus', 'dan', 'asli']",4.5,4
+3,"['ternyata', 'kecele', 'dengan', 'produk', 'ini', 'cuma', 'ada', 'colokan', 'untuk', 'usb', 'tipe', 'c', 'untuk', 'masuk', 'ke', 'telepon genggam', 'saja', 'tidak', 'ada', 'colokan', 'usb', 'standar', 'untuk', 'di', 'sambungkan', 'ke', 'laptop', 'kurang', 'etail', 'baca', 'deskripsi', 'produknya']",5.3125,32
+5,"['ciri', 'ciri', 'keaslian', 'sudah', 'jelas', 'barang', 'bagus', 'work', 'wel', 'kapasitas', 'tidak', 'mungkin', 'ada', 'yang', 'pas', 'enam', 'puluh', 'empat', 'gb', 'kalau', 'ada', 'yang', 'pas', 'at', 'lebih', 'aku', 'bahkan', 'curiga', 'itu', 'bukan', 'barang', 'asli', 'puas', 'kalau', 'dapat', 'barang', 'asli', 'patut', 'dicontoh', 'itu', 'penjual', 'terima kasih']",4.880952380952381,42
+1,"['tidak', 'bisa', 'dipakai', 'begitu', 'copy', 'file', 'hilang']",5.142857142857143,7
+5,"['respon', 'cepat', 'barang', 'sesuai', 'pesanan', 'mantap']",6.0,6
+5,"['mantap betul', 'mas', 'saudara laki-laki']",10.666666666666666,3
+5,"['kcwa', 'produk', 'tidak', 'mbaca', 'fail']",4.8,5
+5,"['usb', 'sudah', 'dicoba', 'lumayan', 'bagus', 'kapasitas', 'mendekati', 'tiga', 'tiga', 'gb', 'keseluruhan', 'oke']",5.666666666666667,12
+5,"['bisa', 'ok']",3.0,2
+5,"['terima kasih', 'juragan', 'terbaca', 'sempurna', 'terima', 'kasih', 'seler', 'jayalah', 'lazada']",7.0,9
+5,"['produk', 'oke', 'sekali']",5.0,3
+3,"['mudah', 'mudahan', 'tanpa', 'kendala']",6.0,4
+5,"['barang', 'sesuai']",6.0,2
+5,"['otg', 'flashdisk', 'ya', 'tidak', 'dikirim', 'kata', 'habis', 'bagaimana', 'cara', 'pengembalian dana', 'juragan']",6.545454545454546,11
+5,"['barang', 'bagus', 'memang', 'capacity']",6.25,4
+5,"['barang', 'bagus', 'sesuai', 'iklan']",5.5,4
+2,"['memang', 'harga', 'cukup', 'terjangkau', 'untuk', 'ukuran', 'kapasitas', 'tiga', 'tiga', 'gb', 'tapi', 'untuk', 'kualitas', 'mengecewakan', 'flash', 'disk', 'bisa', 'menyimpan', 'file', 'tapi', 'beberapa', 'file', 'langsung', 'corupted', 'karena', 'ber', 'virus', 'beberapa', 'kali', 'menyimpan', 'file', 'langsung', 'corupted', 'dan', 'tidak', 'bisa', 'dibuka']",5.837837837837838,37
+1,"['kapasitas', 'asli', 'tertawa', 'seratus', 'delapan', 'belas', 'tujuh', 'mbak', 'jika', 'mengcopy', 'file', 'lebih', 'dari', 'ukuran', 'tersebut', 'akan', 'corupt']",5.705882352941177,17
+5,"['harga', 'murah', 'tapi', 'tidak', 'murahan', 'terbaca', 'dengan', 'baik', 'terima', 'kasih', 'lazada', 'dan', 'seler']",5.230769230769231,13
+5,"['kapasitas', 'memang', 'terbaca', 'dengan', 'baik']",6.4,5
+5,"['belum', 'dicoba']",5.5,2
+5,"['terbaca', 'dengan', 'baik', 'terima', 'kasih']",5.6,5
+1,"['luar', 'oke', 'kapasitas', 'oke', 'tapi', 'sayang', 'tidak', 'bisa', 'simpan', 'video']",4.9,10
+5,"['bentuk', 'beda', 'sama', 'yang', 'digambar', 'tapi', 'nomor', 'pronlem', 'lah', 'yang', 'pnting', 'bisa', 'dipake']",5.0,13
+3,['ke'],2.0,1
+5,"['bagus', 'semoga', 'awet', 'dan', 'tahan', 'lama', 'terima kasih', 'lasada']",5.625,8
+5,"['produk', 'bagus', 'dicoba', 'langsung', 'conec']",6.0,5
+5,"['produk', 'bagus', 'pengiriman', 'cepat']",6.5,4
+5,"['pengiriman', 'super', 'cepat', 'barang', 'oke']",5.8,5
+5,"['barang', 'sesuai', 'deskripsi', 'berfungsi', 'dengan', 'baik', 'pengiriman', 'tanpa', 'masalah', 'tapi', 'sayang', 'telepon genggam', 'saya', 'konektor', 'voc', 'jadi', 'tidak', 'kepakai', 'secara', 'keseluruhan', 'oke', 'terima', 'kasih']",6.478260869565218,23
+5,"['produk', 'bagus', 'asli', 'sesuai', 'dengan', 'deskripsi']",6.0,6
+5,"['mantap betul', 'benar', 'pengiriman', 'cepat', 'ke', 'papua', 'hanya', 'empat', 'hari']",5.888888888888889,9
+5,['puas'],4.0,1
+1,"['apan', 'flashdisk', 'dari', 'hongkong', 'ini', 'nama', 'flashdisk', 'pesan', 'satu', 'flashdisk', 'sama', 'mainan', 'kok', 'dikirim', 'mainan', 'semua', 'mana', 'sama', 'lagi', 'mau', 'dipake', 'flashdisk', 'mohon', 'pertangung', 'jawaban']",5.68,25
+5,"['barang', 'sudah', 'sampai']",5.666666666666667,3
+5,"['barang', 'tidak', 'ada', 'yang', 'jadi', 'tidak', 'bisa', 'menyimpan', 'data', 'kapasitas', 'enam', 'enam', 'gb', 'tapi', 'data', 'tidak', 'terbaca', 'atau', 'tidak', 'bisa', 'menyimpan', 'data', 'maklum', 'barang', 'palsu']",5.04,25
+5,"['lancar', 'jaya', 'buat', 'di', 'pakai']",4.2,5
+5,"['alhamdulilah', 'sesuai', 'gbrnya']",8.0,3
+3,"['sayang', 'sekali', 'juragan', 'di', 'telepon genggam', 'q', 'vivo', 'ylima', 'puluh', 'tiga', 'tidak', 'suport']",5.5,12
+5,"['sedikit', 'sedih', 'flashdisk', 'harus', 'telepon genggam', 'samsung']",8.0,6
+5,"['lucu', 'dan', 'bisa', 'berfungsi', 'dengan', 'baik', 'walaupun', 'agak', 'lama', 'sampai', 'saya', 'suka']",5.0,12
+5,"['bagus', 'barang', 'sesuai', 'dengan', 'gambar', 'tapi', 'belum', 'di', 'cobra']",5.0,9
+5,"['sangat', 'cepat', 'pengiriman', 'pesan', 'terakhir', 'datang', 'paling', 'dahulu']",6.5,8
+5,"['barang', 'sudah', 'sampai', 'kualitas', 'juga', 'oke', 'mkasih', 'iya']",5.125,8
+5,"['barang', 'datang', 'dengan', 'selamat', 'he', 'he', 'ada', 'gratis', 'juga', 'mantap', 'pokoknya']",5.090909090909091,11
+5,"['sesuai', 'deskripsi']",7.5,2
+2,"['biarkan', 'bintang', 'yang', 'bicara']",6.0,4
+5,"['mantap', 'kurir', 'super', 'baik', 'dan', 'ramah']",4.666666666666667,6
+1,"['mengecewakan', 'barang', 'rusak', 'tidak', 'bisa', 'di', 'pakai', 'kualitas', 'sangat', 'buruk']",5.8,10
+1,"['produk', 'bohong', 'fre', 'otg', 'tidak', 'ada', 'mohon', 'di', 'ban', 'toko', 'seperti', 'begini', 'lazada']",4.538461538461538,13
+5,"['sangat', 'memuaskan']",7.5,2
+5,"['pelayanan', 'seler', 'sangat', 'memuaskn']",7.0,4
+1,"['barang', 'ngak', 'sesuai', 'dengan', 'gambar']",5.6,5
+5,"['mantap betul', 'juragan', 'barang']",8.333333333333334,3
+5,"['mantap', 'barang', 'bagus', 'kemasan', 'pakai', 'plastik', 'buble', 'rapi', 'dan', 'pasti', 'sesuai', 'harapan', 'rekomendasi', 'seler', 'thanks', 'layananya']",6.0625,16
+5,"['sudah', 'ditrima', 'dengan', 'selamat', 'memang', 'pick', 'sesuai', 'gambar', 'terima kasih', 'lazada']",6.5,10
+5,"['mantap', 'memang', 'kapasitas', 'terbaca', 'dengan', 'baik']",6.333333333333333,6
+2,"['kapan', 'datang', 'lagi']",5.0,3
+5,"['barang', 'sesuai', 'deskripsi', 'dan', 'berfungsi', 'terima', 'ksih', 'lazada', 'dan', 'juga', 'seler']",5.545454545454546,11
+5,"['mantap', 'semoga', 'awet']",5.333333333333333,3
+5,"['lazada', 'hai', 'barang', 'siap', 'uatau', 'pemesanan', 'ada', 'whatsap', 'delapan', 'ratus', 'lima', 'puluh', 'tiga', 'seribu', 'empat', 'ratus', 'tiga', 'seribu', 'seratus', 'enam', 'puluh', 'lima', 'respon', 'langsung', 'aman', 'dan', 'terpercaya', 'proses', 'cepat', 'hapy', 'shoping', 'lazada', 'co', 'indonesia', 'terima', 'kasih']",5.416666666666667,36
+5,"['produk', 'memuaskan', 'harga', 'termurah', 'kualitas', 'juarah', 'meskipun', 'sempat', 'dapat', 'barang', 'defect', 'langsung', 'ditangani', 'dengan', 'cepat']",6.733333333333333,15
+4,"['berapa', 'inci', 'itu', 'barang', 'boz']",4.4,5
+1,"['hai', 'we', 'are', 'tidak', 'receive', 'yang', 'tv', 'but', 'kamu', 'remarked', 'that', 'gods', 'already', 'received']",4.571428571428571,14
+1,"['harga', 'ternyata', 'sangat', 'mahal', 'dibanding', 'dengan', 'daring', 'shoping', 'lain', 'terutama', 'yang', 'inisial', 't', 'sangat', 'menyesal']",6.0,15
+4,"['penjual', 'dichat', 'berkali', 'berkali', 'tidak', 'balas', 'padahal', 'sudah', 'di', 'read', 'dikacangin', 'begitu', 'dapat', 'uang', 'langsung', 'kabur']",5.8125,16
+5,"['barang', 'bagus', 'mulus', 'uji', 'coba', 'dengan', 'wifi', 'aman', 'lancar', 'tapi', 'untuk', 'bluetoth', 'kenapa', 'tidak', 'bisa']",5.0,15
+5,"['barang', 'bagus', 'mantap', 'tidak', 'perlu', 'beli', 'tv', 'androit', 'cukup', 'pakai', 'alat', 'ini', 'wis', 'bagus']",4.642857142857143,14
+1,"['tv', 'dmna', 'pak', 'saya', 'tertawa', 'menerima', 'surat', 'invoice', 'saja', 'tapi', 'barang', 'tidak', 'ada', 'mohon', 'untuk', 'ditindak', 'lanjuti']",5.117647058823529,17
+1,"['kecewa', 'merek', 'yang', 'dipesan', 'mito', 'yang', 'datangatau', 'dikirim', 'merek', 'coca']",5.6,10
+3,"['everthing', 'adalah', 'oke', 'terima kasih', 'lazada']",7.2,5
+5,['suka'],4.0,1
+4,"['ini', 'kalau', 'cicilan', 'syarat', 'apa', 'saja', 'bos']",4.428571428571429,7
+4,"['pengiriman', 'sangat', 'cepat', 'barang', 'diterima', 'sesuai', 'saya', 'pesan', 'mingu', 'malam', 'jam', 'tiga', 'barang', 'diterima', 'esok', 'hari', 'di', 'hari', 'senin', 'lewat', 'gojek', 'jam', 'lima', 'belas']",5.083333333333333,24
+5,"['sesuai', 'harapan']",6.5,2
+5,"['imformasi', 'karena', 'marak', 'whatsapp', 'waspam', 'bisa', 'mengaku', 'dari', 'lazada', 'maka', 'kamu', 'dari', 'lazadaco', 'indonesia', 'mengeluarkan', 'whatsapp', 'trbaru', 'delapan', 'ratus', 'lima', 'puluh', 'tiga', 'lima', 'belas', 'lima', 'belas', '4', 'tiga', 'ribu', 'delapan', 'ratus', 'enam', 'puluh', 'enam', 'supaya', 'kmi', 'bisa', 'merespon', 'dan', 'dengan', 'cepat', 'jadi', 'yang', 'ingin', 'pesan', 'baran', 'slhkn', 'chet', 'kmi', 'di sini', 'juga', 'layani', 'dan', 'belnja', 'dengan', 'yang', 'lain', 'itu', 'di luar', 'tngung', 'jawab', 'lazada', 'terima kasih', 'kasih', 'perhatian', 'hti', 'htipenipuan']",5.432835820895522,67
+5,"['bagus', 'sesuai', 'yang', 'digambarkan', 'pengemasan', 'rapi', 'over', 'al', 'it', 's', 'oke', 'terima kasih', 'ladaza']",5.384615384615385,13
+5,"['bisa', 'tidak', 'saya', 'ambil', 'televisi', 'ini', 'di', 'ngan', 'di', 'kredit']",4.3,10
+5,"['terima', 'kasih', 'pengiriman', 'sangat', 'cepat', 'dan', 'barang', 'memuaskan', 'bagus', 'bngt', 'terima kasih', 'semoga', 'makin', 'jaya', 'lazada']",6.133333333333334,15
+1,"['seler', 'incapable', 'to', 'kep', 'his', 'produk', 'page', 'clear', 'yang', 'tv', 'shown', 'adalah', 'tidak', 'empat', 'puluh', 'tiga', 'klima', 'ratus', 'empat', 'puluh', 'tiga', 'klima', 'ratus', 'it', 'adalah', 'yang', 'empat', 'puluh', 'tiga', 'klima', 'ribu', 'seratus', 'i', 'thought', 'it', 'adalah', 'so', 'i', 'bought', 'it', 'turned', 'out', 'that', 'it', 'was', 'yang', 'wrong', 'one', 'having', 'al', 'yang', 'hasle', 'of', 'bringing', 'a', 'empat', 'puluh', 'tiga', 'inch', 'tv', 'to', 'yang', 'post', 'ofice', 'untuk', 'return', 'terima kasih', 'a', 'lot', 'ngomong-ngomong', 'pengiriman', 'of', 'yang', 'tv', 'was', 'aligned', 'dengan', 'yang', 'courier', 'untuk', 'sepuluh', 'private message', 'dan', 'i', 'waited', 'until', 'sebelas', 'private message', 'but', 'he', 'never', 'came', 'waste', 'of', 'waktu', 'he', 'brought', 'it', 'yang', 'lanjut', 'day', 'without', 'notifying', 'me', 'ahead', 'instead', 'he', 'was', 'terorizing', 'me', 'beli', 'phone', 'why', 'i', 'am', 'tidak', 'home', 'to', 'receive', 'it', 'apa-apaan']",4.636363636363637,121
+5,"['boleh', 'kredit', 'bang']",5.0,3
+3,['gmna'],4.0,1
+5,"['saya', 'sudah', 'mengetes', 'tv', 'ini', 'baik', 'siaran', 'analog', 'ataupun', 'digital', 'juga', 'internet', 'seperti', 'youtube', 'atau', 'pun', 'situs', 'berita', 'dengan', 'browser', 'bawan', 'berjalan', 'lancar', 'yang', 'belun', 'berhasil', 'dites', 'adalah', 'fitur', 'mhl', 'dan', 'scren', 'miroring', 'karena', 'membutuhkan', 'perangkat', 'mobile', 'yang', 'mendukung', 'fitur', 'tersebut']",5.804878048780488,41
+3,"['suara', 'belum', 'teruji']",5.333333333333333,3
+5,"['pengiriman', 'cepat', 'barang', 'sesuai', 'gambar', 'dan', 'pengemasan', 'baik', 'dan', 'rapi']",5.7,10
+5,"['mudah', 'dipakai', 'gambar', 'tajam', 'banyak', 'fungsi', 'tambahan', 'seperti', 'digital', 'tv', 'digital', 'cable', 'tv', 'digital', 'satelite', 'tv', 'receiver', 'yang', 'sudah', 'inbuilt', 'didukung', 'speaker', 'yang', 'hebat', 'harga', 'terjangkau', 'luar', 'biasa', 'sayang', 'banyak', 'yangbelum', 'tahu']",5.84375,32
+2,"['mohon', 'petunjuk', 'nya']",5.333333333333333,3
+5,"['bagi', 'yang', 'minat', 'orderatau', 'pesan', 'barang', 'kami', 'silakan', 'ada', 'whatsapatau', 'whatsapp', 'delapan', 'puluh', 'lima', 'delapan', 'puluh', 'lima', '034340', 'langsung', 'dari', 'reseler', 'toko', 'terimah', 'kasih']",5.791666666666667,24
+3,"['kalau', 'ke', 'toko', 'di', 'bali', 'bisa', 'lewat', 'home', 'kredit']",4.0,9
+5,"['barang', 'sudah', 'di', 'rakit', 'tingal', 'cek', 'saja', 'sebelum', 'kali', 'saya', 'ucap', 'trimkasih']",4.916666666666667,12
+4,"['produk', 'dikirim', 'sesuai', 'gambar', 'tapi', 'spesifikasi', 'agak', 'berbeda', 'awal', 'saya', 'kira', 'bisa', 'menangkap', 'sinyal', 'digital', 'ternyata', 'setelah', 'dipasang', 'antena', 'digital', 'tertawa', 'analog', 'chanel', 'yang', 'tertangkap', 'secara keseluruhan', 'four', 'stars', 'adalah', 'proper']",6.566666666666666,30
+5,"['ada', 'tower', 'speaker', 'tidak', 'ini', 'produk']",4.833333333333333,6
+5,"['gambarplus', 'suara', 'mantap', 'tahun', 'pakai', 'tanpa', 'masalah', 'terima kasih', 'toshiba']",6.888888888888889,9
+1,"['bagaimana', 'cara', 'cicilan']",6.666666666666667,3
+5,"['barang', 'sesuai', 'pesanan', 'dan', 'cepat', 'sampai']",5.5,6
+5,"['speaker', 'yang', 'satu', 'seperti', 'agak', 'pecah', 'suara', 'boleh', 'ganti', 'tidak']",5.1,10
+3,"['cara', 'cicil', 'gmna', 'iya', 'kak']",3.8,5
+5,"['pengiriman', 'cepat', 'barang', 'sesuai', 'ekspektasi']",7.4,5
+5,"['tv', 'iya', 'sudah', 'sampai', 'sejak', 'lama', 'tapi', 'baru', 'bisa', 'kasi', 'ulasan', 'hari', 'ini', 'sudah', 'sampai', 'dengan', 'selamat', 'tv', 'iya', 'dan', 'memang', 'bagus', 'bngt', 'panasonic', 'ini', 'tapi', 'di', 'rumah', 'saya', 'tv', 'iya', 'bures', 'bisa', 'kasi', 'saran', 'kenapa', 'tv', 'iya', 'bersemut', 'begitu', 'salah', 'beli', 'antena', 'atau', 'bagaimana', 'iya', 'kak']",4.468085106382978,47
+5,"['barang', 'sesuai', 'pesanan', 'terima kasih', 'lazada']",7.4,5
+5,"['barang', 'sesuai', 'pesanan', 'pengemasan', 'aman', 'sicepat', 'memang', 'oke', 'direkomendasikan', 'sekali']",7.1,10
+5,"['maksih', 'tv', 'sudah', 'sampai', 'bagus', 'pesan', 'pagi', 'sore', 'datang']",4.777777777777778,9
+5,"['tv', 'bagus', 'harga', 'kompetitif']",5.5,4
+5,"['barang', 'datang', 'tepat', 'waktu', 'dan', 'sesuai', 'dengan', 'ulasan']",5.375,8
+5,"['harga', 'terjangkau', 'tapi', 'kualitas', 'luar', 'biasa', 'layar', 'hd', 'jernih', 'dan', 'nyaman', 'dipakai', 'berasa', 'seperti', 'nyata', 'tv', 'mudah', 'sekali', 'diaplikasi', 'speker', 'super', 'keren', 'merasa', 'sangat', 'beruntung', 'membeli', 'produk', 'ini', 'sangat', 'sangat', 'direkomendasikan']",6.032258064516129,31
+5,"['so', 'far', 'okeh', 'sesuai', 'deskripsi', 'tepat', 'waktu', 'pengiriman']",5.5,8
+5,"['barang', 'bagus', 'pengiriman', 'cepat', 'barang', 'asli', 'terima kasih', 'lazada']",6.75,8
+5,"['harga', 'terjangkau', 'tapi', 'kualitas', 'luar', 'biasa', 'layar', 'hd', 'betul', 'betul', 'jernih', 'dan', 'nyaman', 'digunakan', 'berasa', 'seperti', 'nyata', 'suara', 'speker', 'keren', 'sekali', 'tv', 'juga', 'mudah', 'diaplikasikan', 'cinta', 'it', 'rekomendasi', 'sekali', 'untuk', 'dimiliki']",5.741935483870968,31
+5,"['produk', 'sudah', 'saya', 'terima', 'dalam', 'keadan', 'aman', 'belum', 'di', 'coba']",4.7,10
+5,"['tv', 'keren', 'pengiriman', 'cepat', 'terima kasih', 'lazada']",6.666666666666667,6
+5,"['barang', 'bagus', 'banget', 'mudahan', 'bertahan', 'lama']",6.0,6
+5,"['barang', 'cepat', 'sampai', 'dan', 'dikirim', 'langsung', 'sama', 'pegawai', 'toko']",5.555555555555555,9
+3,"['sudut', 'pandang', 'sempit', 'hanya', 'sekitar', 'nol', 'plus', 'atau', 'keluar', 'dari', 'sudut', 'itu', 'fokus', 'color', 'contrast', 'lari', 'semua', 'kualitas', 'layar', 'kurang', 'memuaskan']",5.428571428571429,21
+5,"['beli', 'di sini', 'sangat', 'memuaskan', 'sudah', 'setaun', 'lebih', 'hampir', 'th', 'tv', 'takperna', 'bermasalah', 'cocok', 'sekali', 'buat', 'anak', 'kosan', 'ditaru', 'dikamar', 'biar', 'tidak', 'bosan']",5.5,22
+5,"['produ', 'oke', 'pengiriman', 'oke']",5.25,4
+5,"['penjual', 'responive', 'qdan', 'a', 'paket', 'cepat', 'rapi', 'aman', 'harga', 'oke', 'kulitas', 'produk', 'respond', 'start', 'cepat', 'akting', 'mudah', 'warna', 'natural', 'secara keseluruhan', 'lima', 'atau', 'lima']",5.6521739130434785,23
+5,"['bagus', 'dan', 'mantap']",4.666666666666667,3
+3,"['ternyata', 'belum', 'compatible', 'digital', 'broadcast', 'dvb', 't', 't', 'siaran', 'digital', 'a', 'kena', 'tipu', 'deskripsi']",5.357142857142857,14
+5,"['barang', 'sampai', 'dengan', 'selamat', 'pengemasan', 'lumayan', 'dan', 'barang', 'berfungsi', 'sesuai', 'yang', 'diharapkan', 'mantap']",6.615384615384615,13
+4,"['pelayanan', 'mantap', 'pesanan', 'datang', 'tepat', 'waktu', 'walau', 'saya', 'di', 'timika', 'papua', 'thks', 'lazada']",5.384615384615385,13
+3,"['pesanan', 'cepat', 'sekali', 'sampai', 'barang', 'sesuai', 'yang', 'di', 'gambar', 'tapi', 'sayang', 'buku', 'panduan', 'tidak', 'ada']",5.133333333333334,15
+5,"['sudah', 'di', 'terima', 'responsif', 'pokok', 'ok', 'lah']",4.571428571428571,7
+1,"['barang', 'sih', 'bagus', 'sesuai', 'pesanan']",5.4,5
+5,['bagus'],5.0,1
+5,"['sudah', 'ditrma', 'pengemasan', 'oke', 'kondisi', 'barang', 'oke', 'dites', 'oke', 'semoga', 'bertahan', 'dalam', 'jabgka', 'waktu', 'sangat', 'lama']",5.5,16
+1,"['velum', 'sebulan', 'sudah', 'matot', 'kecewa', 'sekali']",5.666666666666667,6
+4,"['barang', 'bagus']",5.5,2
+5,"['barang', 'sudah', 'terima', 'tidak', 'sesuai', 'gambar', 'yang', 'diklankan', 'lengkap', 'speaker', 'yang', 'dikirim', 'tanpa', 'speaker', 'kecewa', 'type', 'yang', 'sama', 'tanpa', 'speaker', 'pada', 'seler', 'lain', 'jauh', 'lebih', 'murah']",5.423076923076923,26
+5,['terima kasih'],12.0,1
+5,"['lumayan', 'bagus', 'hanya', 'saya', 'kira', 'ada', 'bluetoth', 'ternyata', 'tidak', 'ada']",5.2,10
+5,"['terima kasih', 'iya', 'membantu', 'alhamdulilah']",8.75,4
+5,"['bagus', 'direkomendasikan', 'seler']",8.666666666666666,3
+2,"['setelah', 'dicolok', 'ke', 'tv', 'dari', 'antena', 'kok', 'banyak', 'semut', 'ya', 'gambar', 'tidak', 'jelas']",4.615384615384615,13
+2,"['magic', 'pointer', 'tidak', 'compatible', 'kenapa', 'iya']",6.0,6
+5,"['lumayan', 'bagus', 'tv', 'nya']",4.25,4
+5,"['barang', 'bagus', 'gambar', 'dan', 'suara', 'juga', 'bagus', 'teratas', 'deh', 'pokok', 'pengemasan', 'juga', 'rapi', 'pakai', 'kayu', 'terima kasih', 'lazada', 'terima kasih', 'juga', 'multi', 'digital', 'semoga', 'barang', 'bisa', 'awet', 'iya']",5.576923076923077,26
+5,"['barang', 'cepat', 'sampai', 'berfungsi', 'baik', 'harga', 'bagus', 'puas', 'sekali', 'terima kasih']",6.2,10
+5,"['bagus', 'pngiriman', 'tepat', 'waktu']",6.0,4
+5,['okey'],4.0,1
+5,"['produk', 'bagus', 'hanya', 'pengiriman', 'lambat', 'pengemasan', 'juga', 'rapi']",6.25,8
+1,"['tv', 'retak', 'bagian', 'atas']",4.25,4
+5,"['tv', 'bagus']",3.5,2
+5,"['sudah', 'diterima', 'dites', 'suara', 'kecil', 'pada', 'sumber', 'masukan', 'hanya', 'ada', 'av', 'ntsc', 'hanya', 'satu', 'tidak', 'ada', 'avsatu', 'av', 'av', 'mohon', 'petunjuk', 'thanks', 'ditungu', 'tangapan', 'segera']",5.04,25
+5,"['baik', 'dan', 'cepat', 'sampai', 'dari', 'prediksi', 'thanks']",5.142857142857143,7
+5,"['respon', 'penjual', 'sangat', 'cepat', 'pesan', 'senin', 'datang', 'sabtu', 'barang', 'diterima', 'dengan', 'utuh', 'pokok', 'e', 'mantap betul']",5.8,15
+5,"['microphone', 'dan', 'converter', 'jack', 'tiga', 'lima', 'm', 'telah', 'diterima', 'dengan', 'baik', 'kualitas', 'sesuai', 'pesanan', 'bagus']",5.6,15
+5,"['barang', 'sampai', 'dengan', 'selamat', 'sesuai', 'estimasi', 'belum', 'di', 'coba', 'semoga', 'memuaskan', 'dan', 'awet']",5.538461538461538,13
+5,"['mantap', 'pengirimna', 'cepat', 'sekali']",6.75,4
+5,"['mantap', 'tv', 'mksih', 'seler', 'mksih', 'lazada', 'mas', 'kurir', 'juga', 'baek', 'sekali']",4.636363636363637,11
+5,"['barang', 'oke', 'pengiriman', 'oke', 'kirim', 'pesan', 'ngak', 'oke', 'ngak', 'di', 'respon', 'suara', 'oke', 'tapi', 'volume', 'di', 'atas', 'lima', 'belas', 'suara', 'jadi', 'kecil', 'subwofer', 'juga', 'mengecil']",4.72,25
+5,"['barang', 'sudah', 'sampai', 'tapi', 'belum', 'saya', 'pakai']",5.0,7
+5,"['tepat', 'waktu']",5.0,2
+5,"['barang', 'bagus', 'dan', 'kiriman', 'cepat', 'respon', 'cepat']",5.285714285714286,7
+2,"['pokok', 'saya', 'minta', 'ganti', 'empat', 'puluh', 'tiga', 'sesuai', 'postingan', 'yang', 'benar', 'saja', 'masuk', 'dikirim', 'tiga', 'puluh', 'dua', 'tiga', 'puluh', 'dua', 'ditungu', 'itikad', 'baik']",4.956521739130435,23
+4,"['barang', 'mantap', 'recomonded']",7.333333333333333,3
+5,"['produk', 'benar', 'benar', 'baru', 'bahkan', 'melebihi', 'ekspetasi', 'saya', 'saya', 'baru', 'membuka', 'sore', 'tadi', 'mingu', 'nol', 'atau', 'lima', 'atau', 'nol', '18', 'dan', 'mulai', 'coba', 'coba', 'saya', 'memperkirakan', 'mendapat', 'rakitan', 'nol', '1', 'tengan', 'os', 'lion', 'ternyata', 'rakitan', 'nol', '1lima', 'os', 'sudah', 'el', 'capitan', 'mantap']",4.857142857142857,42
+1,"['ini', 'new', 'segel', 'atau', 'seconds', 'iya']",4.166666666666667,6
+5,"['produk', 'keren', 'dengan', 'harga', 'empat', 'jt', 'ini', 'rekomen', 'sekali', 'dan', 'bagus', 'sekali', 'buat', 'yang', 'suka', 'main', 'game', 'ini', 'bagus', 'sekali', 'dengan', 'prosesor', 'dan', 'fitur', 'yang', 'memadai', 'terima kasih', 'sekali', 'lazada']",5.172413793103448,29
+4,"['tolong', 'kabari', 'jika', 'sudah', 'ada', 'stoknya']",5.166666666666667,6
+5,"['saya', 'mencari', 'laptop', 'yang', 'ringan', 'dan', 'tipis', 'saya', 'menemukan', 'produk', 'ini', 'dari', 'harga', 'dan', 'spesifikasi', 'yang', 'ditawarkan', 'saya', 'sangat', 'puas', 'cukup', 'ringan', 'dan', 'tipis', 'spesifikasi', 'pun', 'bagus', 'untuk', 'dikelas', 'dan', 'harga', 'oke', 'setelah', 'saya', 'coba', 'semua', 'berjalan', 'dengan', 'sangat', 'baik', 'dan', 'mesin', 'tidak', 'cepat', 'panas', 'batery', 'pun', 'tahan', 'lama', 'saya', 'bisa', 'pakai', 'lima', 'enam', 'jam', 'untuk', 'software', 'sudah', 'include', 'windows', 'delapan', 'satu', 'trackpad', 'dan', 'layar', 'sentuh', 'berfungsi', 'dengan', 'sangat', 'baik', 'direkomendasikan', 'buat', 'yang', 'cari', 'laptop', 'multifungsi', 'dengan', 'harga', 'yang', 'oke', 'dengan', 'spesifikasi', 'yang', 'di', 'ada', 'cukup', 'tipis', 'dan', 'ringan']",5.348314606741573,89
+5,"['harga', 'memikat', 'pengiriman', 'cepat', 'dan', 'kualitas', 'barang', 'tidak', 'kalah', 'hebat', 'walaupun', 'garansi', 'sc', 'semoga', 'aman', 'hari', 'sudah', 'sampai', 'terima kasih', 'lazada', 'dan', 'juga', 'reseler']",5.782608695652174,23
+5,"['produk', 'sesuai', 'iklan']",5.666666666666667,3
+5,"['ini', 'laptop', 'mantel', 'sekali', 'saya', 'beli', 'pakai', 'uang', 'mengambil', 'dari', 'orang', 'tua', 'he', 'mantel', 'lah']",4.666666666666667,15
+5,"['bagus', 'condition', 'cepat', 'pengiriman']",7.25,4
+5,"['pengemasan', 'rapi', 'dan', 'aman', 'barang', 'seratus', 'persen', 'baru', 'apalagi', 'harga', 'benar', 'benar', 'murah', 'dibanding', 'dengan', 'yang', 'lain', 'apalagi', 'yang', 'ini', 'delapan', 'gb', 'ram', 'di', 'terima kasih', 'kotakom', 'dan', 'lazada']",5.357142857142857,28
+3,"['puas', 'sekali', 'begitu', 'kita', 'klick', 'untuk', 'payment', 'dua', 'hari', 'kemudian', 'barang', 'kiriman', 'sudah', 'datang', 'sesuai', 'alamat', 'yang', 'dituju']",5.444444444444445,18
+5,"['mohon', 'informasi', 'saya', 'pesan', 'delapan', 'unit', 'baru', 'terima kasih']",6.25,8
+5,"['sesuai', 'gambar', 'dan', 'deskripsi', 'packaging', 'dengan', 'dus', 'bawan', 'dan', 'berfungsi', 'dengan', 'baik']",5.75,12
+5,"['barang', 'sesuai', 'ekspektasi']",7.333333333333333,3
+5,"['garansi', 'distributor', 'tiga', 'tahun']",6.75,4
+5,"['barang', 'di', 'pengemasan', 'rapi', 'dan', 'sangat', 'memuaskan']",5.714285714285714,7
+5,"['karena', 'saya', 'tertawa', 'bantu', 'untuk', 'membelikan', 'bukan', 'dipakai', 'sendiri', 'saya', 'tidak', 'pu', 'pengalaman', 'terhadap', 'produk', 'tersebut', 'namun', 'saya', 'sedikit', 'melihat', 'secara', 'fisik', 'seharus', 'clima', 'puluh', 'lima', 'lumayan', 'lah', 'untuk', 'suplier', 'kliknklik', 'saya', 'sangat', 'puas', 'dalam', 'memberikan', 'informasi', 'sangat', 'jelas', 'dan', 'menangapi', 'dengan', 'cepat', 'terima', 'kasih', 'iya']",5.891304347826087,46
+3,"['bang', 'kalau', 'plus', 'upgrade', 'ram', 'jadi', 'total', 'berapa']",4.75,8
+4,"['exelent', 'juragan', 'tingkat', 'kan', 'penjualanya']",7.0,5
+5,"['pesan', 'hari', 'senin', 'sampai', 'di', 'sidoarjo', 'pas', 'hari', 'rabu', 'teratas']",4.8,10
+5,"['sampai', 'sekarang', 'masih', 'oke', 'ini', 'laptop']",5.166666666666667,6
+2,"['ram', 'delapan', 'gb', 'atau', 'empat', 'gb']",3.8333333333333335,6
+3,"['delapan', 'hari', 'baru', 'sampai', 'sistem', 'kosong', 'rot', 'saja', 'tampil', 'jadi', 'harus', 'instal', 'ulang', 'packingan', 'rapi', 'dan', 'tersegel']",5.294117647058823,17
+5,"['barang', 'datang', 'cepat', 'mulus', 'semoga', 'tidak', 'ada', 'masalah', 'kedepanya']",5.777777777777778,9
+5,"['pengiriman', 'cepat', 'sekali', 'dan', 'barang', 'sangat', 'bagus', 'direkomendasikan', 'sekali', 'tempat', 'blanja', 'nya']",6.5,12
+5,"['barang', 'sudah', 'sampai', 'dengan', 'kondisi', 'bagus', 'dan', 'sesuai', 'dengan', 'iklan', 'mantap', 'pokok', 'cma', 'pengemasan', 'horor', 'alngkah', 'baik', 'jika', 'di', 'pengemasan', 'kayu', 'agar', 'lebih', 'aman']",5.333333333333333,24
+3,"['ini', 'memori', 'berapa', 'gb', 'iya', 'tolong', 'di', 'jawab']",4.125,8
+3,"['laptop', 'sudah', 'saya', 'terima', 'dan', 'pengemasan', 'bagus', 'tanpa', 'sedikit', 'cacat', 'thankslazada']",6.181818181818182,11
+4,"['bisa', 'dicicil', 'tidak']",5.333333333333333,3
+5,"['maf', 'lama', 'koment', 'kotakom', 'tidak', 'diragukan', 'unit', 'sudah', 'dipakai', 'tiga', 'bulan', 'tidak', 'ada', 'masalah', 'ingin', 'instal', 'game', 'tapi', 'bingung', 'game', 'apa', 'mantap']",5.136363636363637,22
+2,"['barang', 'kira', 'kira', 'bagus', 'tidak', 'ya', 'semoga', 'pas', 'datang', 'nanti', 'bagus']",4.636363636363637,11
+1,"['penjual', 'kasih', 'garansi', 'berapa', 'bulan', 'ini', 'bisa', 'asus', 'empat', 'bulan', 'tapi', 'ini', 'kok', 'Cuma', 'satu', 'tahun', 'jadi', 'ragu', 'mau', 'beli']",4.45,20
+5,"['saya', 'sudah', 'berkali', 'kali', 'beli', 'lewat', 'lazada', 'laptop', 'ini', 'adalah', 'barang', 'terpuas', 'yang', 'pernah', 'saya', 'beli', 'dan', 'pakai', 'memang', 'ram', 'kecil', 'tertawa', 'empat', 'gb', 'tapi', 'jika', 'ingin', 'sped', 'menjadi', 'kenceng', 'akalin', 'dengan', 'hardisk', 'sd', 'terima kasih']",5.171428571428572,35
+3,"['barang', 'oke', 'tapi', 'proses', 'pengiriman', 'agak', 'lambat']",5.571428571428571,7
+4,"['barang', 'asli']",5.0,2
+1,"['warna', 'silver', 'siap', 'tidak', 'bos', 'terima kasih', 'bos']",5.428571428571429,7
+4,"['produk', 'sesuai', 'dengan', 'yang', 'saya', 'mau']",4.833333333333333,6
+3,"['tolong', 'pemberitahua', 'kapan', 'ada', 'lagi']",6.0,5
+5,"['mantap', 'sekali', 'sesuai', 'deskripsi', 'semoga', 'bisa', 'beli', 'lagi', 'untuk', 'kerjan']",5.6,10
+5,"['seler', 'ramah', 'pengiriman', 'aman', 'dan', 'cepat', 'deskripsi', 'sesuai', 'plus', 'dapat', 'diskon', 'voucher', 'dari', 'lazada', 'terima kasih', 'pasar', 'tablet', 'dan', 'lazada']",5.842105263157895,19
+5,"['bisa', 'bayar', 'dngan', 'di', 'cicil', 'juragan']",4.666666666666667,6
+3,"['ini', 'serius', 'juragan', 'murah', 'sekali', 'buset']",5.333333333333333,6
+1,"['bekas', 'iya']",4.0,2
+5,"['barang', 'telah', 'sampai', 'satu', 'tahun', 'yang', 'lalu', 'maf', 'baru', 'sempat', 'tulis', 'ulasan']",4.833333333333333,12
+4,"['gambar', 'dot', 'pixel', 'bisa', 'di', 'whatsapp', 'kan', 'delapan', 'puluh', 'lima', 'miliar', 'tiga', 'puluh', 'satu', 'juta', 'sembilan', 'puluh', 'empat', 'ribu', 'tiga', 'ratus', 'enam', 'puluh', 'delapan']",4.875,24
+5,"['bagi', 'yang', 'minat', 'orderatau', 'pesan', 'barang', 'kami', 'untuk', 'lebih', 'memastikan', 'silakan', 'ada', 'whatsapatau', 'whatsapp', 'delapan', 'puluh', 'lima', 'delapan', 'puluh', 'lima', 'lima', 'ratus', 'tujuh', 'lima', 'ratus', 'tujuh', 'empat', 'puluh', 'empat', 'atau', 'faktur', 'pin', 'dsembilan', 'ribu', 'enam', 'puluh', 'enam', 'cbenam', 'langsung', 'dari', 'reseler', 'toko', 'terimah', 'kasih']",5.4772727272727275,44
+5,"['puas', 'kiriman', 'sesuain', 'barang', 'juga', 'sesuai', 'dengan', 'spec', 'terima kasih']",6.222222222222222,9
+5,"['cara', 'bagaimana', 'bos']",5.333333333333333,3
+3,"['ini', 'asli', 'apa', 'seken']",3.75,4
+4,"['terima kasih', 'tidak', 'barang', 'sesuai', 'deskripsi', 'dan', 'cepat', 'sekali', 'pengiriman', 'direkomendasikan', 'seler']",7.545454545454546,11
+3,"['juragan', 'bisa', 'instal', 'win', 'tujuh', 'ngak', 'iya']",4.571428571428571,7
+5,"['mantap', 'sekali']",6.0,2
+2,"['jenis', 'barang', 'tersebut', 'ternyata', 'harga', 'bekas', 'terbilang', 'lebih', 'mahal', 'dari', 'harga', 'pasaran', 'dan', 'untuk', 'charger', 'tidak', 'stabil', 'agak', 'longar', 'tlng', 'tim', 'lazada', 'diperhatikan', 'untuk', 'jenis', 'barang', 'second']",5.7407407407407405,27
+4,"['barang', 'sudah', 'datang', 'Cuma', 'pengemasan', 'kurang', 'aman', 'tidak', 'pakai', 'kayuatau', 'buble', 'mudah', 'mudah', 'awet']",5.571428571428571,14
+5,"['barang', 'sesuai', 'spesifikasi', 'terima kasih']",8.75,4
+5,"['barang', 'oke', 'sekali']",5.0,3
+4,"['paket', 'telah', 'diterima', 'dengan', 'baik']",5.6,5
+5,"['bagi', 'yang', 'minat', 'orderatau', 'pesan', 'barang', 'kami', 'untuk', 'lebih', 'memastikan', 'silakan', 'ada', 'whatsapatau', 'whatsapp', 'delapan', 'puluh', 'lima', 'delapan', 'puluh', 'lima', '034340', 'langsung', 'dari', 'reseler', 'toko', 'terimah', 'kasih']",5.888888888888889,27
+5,"['sesuai', 'pesanan', 'kalau', 'bisa', 'di', 'kasih', 'fre', 'dong']",4.5,8
+5,['ntabs'],5.0,1
+4,"['mau', 'kredit', 'cicilan', 'berapa', 'kali', 'bayar']",5.166666666666667,6
+5,"['barang', 'oke', 'bagus']",4.666666666666667,3
+1,"['wrn', 'ungu']",3.5,2
+5,"['bagus', 'bisa', 'langsung', 'pakai']",5.5,4
+1,"['ntbk', 'ungu', 'ada']",3.6666666666666665,3
+3,"['sebaik', 'penjualan', 'sekaligus', 'dengan', 'windows', 'atau', 'lebih', 'diperjelas', 'lagi', 'kalau', 'tidak', 'ada', 'windows', 'sebab', 'belum', 'tentu', 'semua', 'orang', 'mengerti', 'hal', 'ini', 'dan', 'tidak', 'di', 'semua', 'tempat', 'mudah', 'untuk', 'menginslal', 'windows']",5.566666666666666,30
+5,"['barang', 'sesuai', 'dan', 'lengkap', 'kiriman', 'cepat', 'sampai', 'seler', 'baik', 'dan', 'ramah']",5.181818181818182,11
+5,"['pengiriman', 'cepat', 'sampai', 'tertawa', 'satu', 'hari', 'lokasi', 'dki', 'jakarta', 'sudah', 'terinstal', 'os', 'endles', 'os', 'dari', 'sana', 'tertawa', 'suport', 'os', 'windows', 'satu', '0', 'enam', 'puluh', 'empat', 'bit', 'saja', 'di', 'deskripsi', 'tertawa', 'ditulis', 'os', 'dos', 'dan', 'non', 'os', 'namun', 'nyata', 'sudah', 'ada', 'os', 'endles', 'os', 'yang', 'jarang', 'sekali', 'orang', 'indonesia', 'pakai', 'include', 'driver', 'yang', 'tertawa', 'untuk', 'windows', 'satu', '0', 'enam', 'puluh', 'empat', 'bit', 'saja', 'mohon', 'cantumkan', 'tertawa', 'suport', 'windows', 'satu', '0', 'enam', 'puluh', 'empat', 'bit', 'saja', 'di', 'deskripsi', 'agar', 'customer', 'paham', 'dari', 'awal']",4.827160493827161,81
+5,"['sangat', 'puas', 'minta', 'sekalian', 'di', 'instal', 'di', 'kabulkan', 'seler', 'komunikatif', 'dan', 'responsif']",5.75,12
+5,"['barang', 'sudah', 'sampai']",5.666666666666667,3
+5,"['barang', 'datang', 'cepat', 'sesuai', 'permintan', 'pengemasan', 'rapi', 'pokok', 'recomendet', 'dan', 'puas']",6.181818181818182,11
+1,"['uang', 'sudah', 'di', 'transfer', 'stlah', 'itu', 'dbatalin', 'karena', 'stock', 'tidak', 'ada', 'dari', 'harbolnas', 'sampai', 'tanggal', 'des', 'tujuh', 'belas', 'belum', 'ada', 'pengembalian', 'uang', 'sudah', 'sepuluh', 'hari', 'dan', 'asli', 'proses', 'ribed', 'kaco']",5.166666666666667,30
+5,"['produk', 'baik', 'pengirimanan', 'cepat']",6.75,4
+4,"['sesuai', 'deskripsi', 'dan', 'spesifikasi']",7.25,4
+1,"['pesan', 'tanggal', 'delapan', 'sekarang', 'belum', 'di', 'kirim', 'bahkan', 'pihak', 'toko', 'minta', 'tambah', 'uang']",5.3076923076923075,13
+5,"['saya', 'puas', 'dengan', 'laptop', 'asus', 'pengemasan', 'rapi', 'barang', 'okay', 'terima kasih']",6.0,10
+4,"['secara', 'keseluruhan', 'cukup', 'baik', 'terima', 'kasih']",6.166666666666667,6
+5,"['diterima', 'sesuai', 'estimasi', 'waktu', 'pengemasan', 'bagus', 'barang', 'oke']",6.375,8
+5,"['macbok', 'pertama', 'dan', 'barang', 'dijamin', 'asli', 'tertawa', 'saja', 'pengemasanatau', 'pengepakan', 'untuk', 'pengiriman', 'barang', 'tertawa', 'mengunakan', 'kardus', 'dan', 'buble', 'bungkus', 'sehinga', 'sangat', 'beresiko', 'takut', 'kenapa', 'kenapa', 'saja', 'barang', 'soal', 'barang', 'elektronik', 'dan', 'mahal', 'buat', 'saya', 'tapi', 'pengemasan', 'hanya', 'kardus', 'untung', 'saja', 'dalam', 'tidak', 'kenapa', 'kenapa', 'karena', 'kardus', 'luar', 'sudah', 'lumayan', 'penyok']",6.04,50
+5,"['produk', 'asli', 'dan', 'segel', 'sangat', 'bagus', 'tanpa', 'cacat', 'sesuai', 'dengan', 'apa', 'yang', 'saya', 'pikirkan', 'terima kasih']",5.466666666666667,15
+5,"['terima', 'tapi', 'kondisi', 'dus', 'sangat', 'kotor']",5.166666666666667,6
+5,"['barang', 'sampai', 'dengan', 'selamat', 'terima', 'kasih']",6.0,6
+4,"['sesuai', 'pesanan', 'terima kasih', 'kasih']",7.5,4
+5,"['pengemasan', 'rapi', 'respown', 'juga', 'baik', 'terima kasih', 'juragan', 'barang', 'mendarat', 'dengan', 'mulus', 'di']",6.25,12
+5,['bagus'],5.0,1
+4,"['mantap', 'tapi', 'mouse', 'dan', 'mouse', 'pad', 'legion', 'tidak', 'ada', 'di', 'paket']",4.2727272727272725,11
+4,"['produk', 'tidak', 'menjelaskan', 'lebih', 'spesifik', 'bhw', 'tidak', 'ada', 'program', 'ofice', 'tas', 'acer', 'yang', 'dikirim', 'tidak', 'matching', 'dengan', 'ukuran', 'note', 'bok', 'tas', 'lebih', 'kecil', 'sehingga', 'note', 'bok', 'tidak', 'bisa', 'masuk']",5.172413793103448,29
+5,"['esel', 'seler', 'paling', 'teratas', 'barang', 'yang', 'dikirim', 'masih', 'tersegel', 'pabrik', 'dan', 'sesuai', 'spesifikasimya', 'lima', 'stars']",6.0,15
+5,"['wah', 'super', 'cepat', 'Cuma', 'tiga', 'hari', 'sudah', 'di', 'gengaman', 'terima kasih', 'banyak', 'profesional']",5.75,12
+5,"['they', 'are', 'bagus', 'selers', 'who', 'are', 'prompt', 'in', 'reply', 'dan', 'responsible', 'my', 'experience', 'of', 'dealing', 'dengan', 'them', 'has', 'ben', 'positive', 'though', 'i', 'have', 'a', 'litle', 'masalah', 'dengan', 'yang', 'produk', 'they', 'made', 'efort', 'to', 'write', 'dan', 'respond', 'to', 'question', 'dan', 'ascertain', 'to', 'my', 'doubt', 'i', 'would', 'coment', 'they', 'are', 'one', 'who', 'belum', 'deal', 'dengan', 'confidence', 'dan', 'reliability', 'wil', 'buy', 'dengan', 'them', 'when', 'there', 'adalah', 'a', 'ned', 'again']",4.5606060606060606,66
+5,"['barang', 'kami', 'terima', 'dalam', 'kedan', 'baik']",5.0,6
+3,"['barang', 'diterima', 'dengan', 'baik', 'barang', 'baik', 'kondisi', 'bekerja', 'dengan', 'baik', 'juga', 'tertawa', 'saja', 'ada', 'berapa', 'hal', 'yang', 'sangat', 'disayangkan', 'yaotu', 'satu', 'tidak', 'ada', 'buku', 'petunjuk', 'pengunan', 'user', 'guide', 'tidak', 'kartu', 'garansi', 'tiga', 'dalam', 'konfirmasi', 'email', 'yang', 'saya', 'dapat', 'dari', 'lazada', 'ditulis', 'akan', 'dikirim', 'dan', 'diterima', 'tanggal', 'oct', '0satu', '8', 'ternyata', 'saya', 'terima', 'pada', 'tanggal', 'empat', 'oct', '0satu', '8', 'jadi', 'untuk', 'apa', 'dong', 'ditulis', 'seperti', 'itu', 'akhir', 'terima', 'tidak', 'sesuai', 'dengan', 'tanggal', 'yang', 'dijanjikan']",5.287671232876712,73
+5,"['barang', 'oke', 'sesuai', 'pesanan']",5.5,4
+2,"['hadiah', 'speaker', 'taro', 'dimanata']",6.25,4
+5,"['puas', 'bgtz', 'barang', 'bagus', 'cepat', 'sampai', 'terima kasih', 'lazada']",6.0,8
+5,['kualitas'],8.0,1
+5,"['maf', 'baru', 'kadih', 'ulasan', 'barang', 'sesuai', 'dengan', 'yang', 'diharapkan']",5.555555555555555,9
+5,"['i', 'suka', 'it', 'bagus']",3.0,4
+5,"['terima', 'kasih']",5.5,2
+5,"['barang', 'bagus', 'asli', 'pengemasan', 'aman', 'dan', 'rapi', 'walaupun', 'pengiriman', 'agak', 'lama', 'tapi', 'barang', 'sampai', 'dengan', 'selamat']",5.6875,16
+5,"['barang', 'diterima', 'dalam', 'kondisi', 'sempurna', 'dan', 'bisa', 'berfungsi', 'dengan', 'baik']",6.0,10
+4,"['baru', 'kali', 'ini', 'belanja', 'predator', 'cuma', 'dapat', 'dos', 'charge', 'sama', 'laptop', 'tanpa', 'buku', 'buku', 'cd', 'acer', 'dan', 'charge', 'tidak', 'ada', 'kotak']",4.523809523809524,21
+5,"['laptop', 'budget', 'yang', 'sangat', 'lengkap', 'di', 'kelas', 'warna', 'biru', 'mewah', 'value', 'untuk', 'uang', 'oke', 'sekali']",4.866666666666666,15
+5,"['laptop', 'berfungsi', 'dengan', 'baik', 'cocok', 'untuk', 'membuat', 'atau', 'mengedit', 'file', 'ms', 'ofice', 'dan', 'browsing', 'internet']",5.6,15
+5,"['aman', 'terkendali', 'cepat', 'sampai', 'seler', 'ramah', 'sekali']",5.857142857142857,7
+5,"['pertama', 'beli', 'dibatalkan', 'karena', 'salah', 'harga', 'pesanan', 'ke', 'lama', 'sekali', 'barang', 'datang']",5.666666666666667,12
+5,"['pengemasan', 'rapi', 'dan', 'produk', 'memuaskan']",6.4,5
+5,"['mantap', 'semoga', 'awet', 'dan', 'barokah']",5.2,5
+5,"['waktu', 'seler', 'telepon', 'warna', 'laptop', 'yang', 'hitam', 'harus', 'indent', 'lalu', 'saya', 'pilih', 'warna', 'grey', 'tapi', 'yang', 'datang', 'bahkan', 'warna', 'silver', 'tapi', 'its', 'oke', 'lah', 'barang', 'mulus', 'baru', 'Cuma', 'belum', 'aku', 'instal', 'ini', 'jadi', 'belum', 'aku', 'kutak', 'katik']",4.648648648648648,37
+5,"['sempat', 'ada', 'isue', 'dengan', 'laptop', 'tapi', 'suport', 'dari', 'bhineka', 'cukup', 'tangap', 'memberikan', 'solusi', 'laptop', 'asus', 'uxtiga', 'ratus', 'tiga', 'puluh', 'satu', 'ual', 'sesuai', 'deskripsi', 'customer service', 'ramah', 'membalas', 'setiap', 'chat', 'so', 'far', 'so', 'bagus', 'laptop', 'super', 'ringan']",5.514285714285714,35
+5,"['kelebihan', 'tipis', 'build', 'kualitas', 'teratas', 'lenovo', 'warna', 'hitam', 'dove', 'keren', 'layar', 'ips', 'sd', 'core', 'ilima', 'sudah', 'delapan', 'th', 'gen', 'fingerprint', 'dapat', 'geforce', 'mxseratus', 'tiga', 'puluh', 'pula', 'paling', 'bernilai', 'it', 'untuk', 'kelas', 'insatu', 'yang', 'bisa', 'lumayan', 'gaming', 'dapat', 'pas', 'harga', 'promo', 'pula', 'kekurangan', 'agak', 'berat', 'ternyata', 'untuk', 'satu', 'tujuh', 'kg', 'kalau', 'dipegang', 'mode', 'tablet']",5.30188679245283,53
+4,"['bagus', 'mantap']",5.5,2
+5,"['barang', 'sudah', 'tiba', 'dengan', 'selamat', 'fungsi', 'baik', 'terima kasih', 'seler', 'lazada', 'dan', 'kurir']",5.75,12
+5,"['barang', 'sesuai', 'dengan', 'yang', 'digambar', 'dikasih', 'tambahan', 'bonus', 'instal', 'gameplus', 'aplikasi', 'mantap']",6.5,12
+5,"['terima', 'kasih', 'untuk', 'telepon genggam', 'chat', 'benar', 'benar', 'cepat', 'sekali', 'respon', 'dan', 'pengiriman', 'juga', 'cepat', 'sekali', 'laptop', 'sampai', 'dengan', 'aman', 'dan', 'selamat']",5.809523809523809,21
+5,"['puas', 'sekali', 'dengan', 'pelayanan', 'lazada', 'tertawa', 'saja', 'dalam', 'informasi', 'produk', 'pihak', 'lazada', 'kurang', 'menguasai', 'l', 'dan', 'mau', 'saya', 'sampaikan', 'ryzen', 'tujuh', 'mengunakan', 'vega', 'sepuluh', 'serta', 'sudah', 'mendukung', 'fingerprint']",6.035714285714286,28
+5,"['produk', 'mantap', 'warbiasah']",7.0,3
+5,"['produk', 'sudah', 'dicoba', 'semua', 'berfungsi', 'baik', 'pengemasan', 'rapi', 'dan', 'pengiriman', 'juga', 'lumayan', 'cepat', 'kalau', 'bisa', 'di', 'tambahkan', 'pengiriman', 'sameday']",6.052631578947368,19
+5,"['alhamdulilah', 'sesuai', 'pesanan', 'terima', 'kasih', 'lazada', 'dan', 'selera', 'semoga', 'sukses', 'selalu']",6.2727272727272725,11
+5,"['setelah', 'lima', 'menit', 'mouse', 'tidak', 'berfungsi', 'dan', 'gambar', 'layar', 'diam', 'dan', 'laptop', 'tidak', 'bisa', 'mati', 'mati', 'jika', 'batrai', 'habis']",4.947368421052632,19
+2,"['saya', 'suka', 'produk', 'tapi', 'produk', 'yang', 'saya', 'terima', 'cacat', 'sudah', 'complain', 'lewat', 'chat', 'tapi', 'pihak', 'acer', 'acuh', 'dan', 'bertele', 'tele', 'perihal', 'kecacatan', 'produk', 'yang', 'saya', 'terima', 'maksud', 'hati', 'ingin', 'menganti', 'barang', 'tapi', 'terpaksa', 'pengembalian dana', 'dana', 'karena', 'seler', 'acer', 'tidak', 'peduli', 'dengan', 'customer', 'mau', 'cacat', 'atau', 'tidak', 'pokok', 'terima', 'saja', 'untunglah', 'pihak', 'lazada', 'mau', 'mengembalikan', 'dana', 'saya', 'terima', 'kasih', 'lazada', 'atas', 'perlindungan', 'customer']",5.661290322580645,62
+5,"['alhamdulilah', 'sesuai', 'dengan', 'pesanan', 'bagus', 'sekali']",7.0,6
+5,"['barang', 'sangat', 'bagus', 'pengemasan', 'baik', 'rapi', 'dan', 'pakai', 'plastik', 'gelembung', 'Cuma', 'saya', 'ingin', 'laptop', 'yang', 'empat', 'belas', 'empat', 'belas']",5.368421052631579,19
+5,"['respon', 'penjual', 'sangat', 'baik', 'kami', 'sangat', 'terbantu', 'terima kasih']",6.625,8
+5,"['terima', 'kasih', 'barang', 'sudah', 'diterima', 'dalam', 'kondisi', 'baik']",5.75,8
+5,"['cepat', 'sampai', 'so', 'far', 'bagus', 'berfungsi', 'semua', 'hanya', 'pengemasan', 'lanjut', 'dikasih', 'buble', 'at', 'kotak', 'kayu', 'dong', 'supaya', 'aman', 'terima kasih']",5.526315789473684,19
+1,"['hardisk', 'rusak', 'tidak', 'bisa', 'instal', 'windows', 'laptop', 'saya', 'kembalikan']",6.0,9
+4,['mantap'],6.0,1
+5,"['sudah', 'sampai', 'pengemasan', 'rapi', 'cepat', 'proses', 'trmksh', 'toko', 'klik', 'dan', 'lazada']",5.363636363636363,11
+3,"['buku', 'panduan', 'ofice', 'tidak', 'dapat', 'respon', 'lambat', 'juga']",5.25,8
+5,"['barang', 'untuk', 'sekelas', 'dari', 'harga', 'dan', 'merek', 'sudah', 'sangat', 'bagus']",5.1,10
+2,"['baterai', 'kok', 'cepat', 'habis', 'jika', 'sambil', 'di', 'charge', 'nyterum', 'pemasangan', 'tidak', 'rapi', 'iya', 'belum', 'saya', 'cek', 'semua', 'semoga', 'tidak', 'lemod']",5.0,20
+2,"['kenapa', 'ada', 'garis', 'di', 'laptop', 'kita', 'minta', 'diganti', 'dengan', 'prodoct', 'yang', 'baru', 'iya']",4.769230769230769,13
+5,"['sesuai', 'deskripsi', 'dan', 'semua', 'berfungsi', 'dengan', 'baik', 'terima', 'kasih', 'lazada', 'walau', 'sempat', 'ada', 'kecemasan', 'tentang', 'pengiriman']",6.1875,16
+5,"['mantap', 'sesuai', 'harapan']",6.333333333333333,3
+1,"['kecewa', 'dan', 'mengecewakan', 'barang', 'tidak', 'bisa', 'digunakan', 'keaslian', 'diragukan', 'dan', 'tidak', 'ada', 'respon']",6.076923076923077,13
+5,"['barang', 'alhamdulilah', 'sudah', 'sampai', 'namun', 'belum', 'bisa', 'dibuka', 'belum', 'ada', 'aplikasi', 'windows', 'jadi', 'nungu', 'di', 'instal', 'dulu', 'belum', 'tahu', 'sih', 'bagus', 'engak', 'nanti', 'kalau', 'sudah', 'bisa', 'aku', 'koment', 'lagi']",5.068965517241379,29
+5,"['mantap', 'semoga', 'awet', 'terima kasih']",7.0,4
+5,"['mantap betul', 'semoga', 'awet', 'bakal', 'langanan']",7.0,5
+5,"['pengiriman', 'cepat', 'selwr', 'mantaps']",6.75,4
+1,"['tidak', 'siap', 'dipake', 'harus', 'di', 'instal', 'dan', 'tertawa', 'dengan', 'win', 'sepuluh', 'tidak', 'direkomendasikan']",5.769230769230769,13
+5,"['barang', 'direkomendasikan', 'tertawa', 'kurir', 'saja', 'yang', 'lama', 'dalam', 'pengiriman', 'terima kasih']",7.3,10
+3,"['barang', 'bagus', 'harga', 'miring', 'sudah', 'ditest', 'dan', 'oke', 'sayang', 'pengemasan', 'agak', 'beresiko', 'karena', 'tertawa', 'buble', 'bungkus', 'tipis', 'terus', 'dipaket', 'tidak', 'ada', 'tanda', 'fragile', 'untung', 'saja', 'tidak', 'dibanting', 'sama', 'kurir']",5.586206896551724,29
+5,"['mantap', 'sesuai', 'spesifikasi']",7.666666666666667,3
+5,"['pengiriman', 'sangat', 'cepat', 'barang', 'asli', 'dan', 'baru', 'seratus', 'persen', 'masih', 'segel', 'direkomendasikan', 'seler', 'terimaksih', 'lazada']",6.533333333333333,15
+5,['bagus'],5.0,1
+5,"['berfungsi', 'dengan', 'baik']",6.333333333333333,3
+5,"['barang', 'mantap', 'terima kasih']",8.0,3
+5,"['mantap betul', 'pakai', 'optane']",7.666666666666667,3
+5,"['produk', 'sesuai']",6.0,2
+2,"['unit', 'kelihatan', 'baru', 'tapi', 'sat', 'pertengahan', 'pakai', 'mouse', 'tidak', 'bisa', 'bergerak', 'layar', 'menyala', 'tapi', 'tidak', 'bisa', 'di', 'operasionalkan', 'saya', 'coba', 'batrai', 'di', 'lepas', 'baru', 'mau', 'nyala', 'kembali', 'dan', 'informasi', 'tampilan', 'batrai', 'masih', 'satu', 'jam', 'tapi', 'mendadak', 'mati']",5.324324324324325,37
+5,"['awal', 'sedikit', 'seram', 'seram', 'sedap', 'untuk', 'beli', 'electronic', 'secara', 'daring', 'apalg', 'saya', 'cek', 'belum', 'ada', 'ulasan', 'sama', 'sekali', 'tapi', 'syukutlah', 'terima', 'kasih', 'laptop', 'diterima', 'dalam', 'kondisi', 'aman', 'tidak', 'ada', 'cacat', 'dan', 'berfungsi']",5.375,32
+3,"['sementara', 'ini', 'laptop', 'belum', 'bisa', 'nyala', 'informasi', 'tampilan', 'instalasi', 'windows', 'gagal', 'dan', 'harus', 'diulang', 'menungu', 'respon', 'seler', 'apakah', 'bisa', 'dikirimi', 'sn', 'windows', 'bawan', 'atau', 'barang', 'bisa', 'ditukar']",5.777777777777778,27
+5,"['produk', 'asli', 'kualitas', 'okey', 'pengemasan', 'teratas', 'sekali', 'sampai', 'dengan', 'aman', 'tanpa', 'lecet', 'sedikitpun', 'kurir', 'dari', 'june', 'chasles', 'ramah']",5.888888888888889,18
+2,"['awal', 'saya', 'menerima', 'barang', 'dan', 'mencoba', 'senin', 'lima', 'agustus', 'sembilan', 'belas', 'laptop', 'terkena', 'masalah', 'di', 'kipas', 'masalah', 'persis', 'seperti', 'di', 'salah', 'satu', 'thread', 'forum', 'msi', 'saya', 'tidak', 'bisa', 'mengirim', 'url', 'di', 'ulasan', 'saya', 'langsung', 'menanyakan', 'ini', 'ke', 'seler', 'dan', 'oficial', 'page', 'msi', 'langsung', 'lima', 'hari', 'berlalu', 'dan', 'tidak', 'ada', 'jawaban', 'sama', 'sekali', 'ini', 'kali', 'pertama', 'saya', 'diperlakukan', 'sebaik', 'ini', 'oleh', 'seler', 'jangan', 'salah', 'paham', 'laptop', 'msi', 'bagus', 'kok', 'mungkin', 'lebih', 'bagus', 'dari', 'produk', 'yang', 'lain', 'dengan', 'harga', 'yang', 'sama', 'jika', 'anda', 'ingin', 'membeli', 'silakan', 'saja', 'tapi', 'jika', 'ada', 'masalah', 'di', 'laptop', 'seperti', 'yang', 'saya', 'alami', 'semoga', 'beruntung']",5.072164948453608,97
+5,"['pengemasan', 'bagus', 'barang', 'sampai', 'dengan', 'aman']",6.166666666666667,6
+4,"['ofice', 'tertawa', 'fre', 'trail', 'reboting', 'sangat', 'lambat', 'dan', 'buka', 'aplikasi', 'bawan', 'lama', 'padahal', 'laptop', 'baru', 'saran', 'saja', 'biar', 'tidak', 'lambat', 'jangan', 'aktifin', 'cloud', 'box', 'atau', 'one', 'drive', 'atau', 'segala', 'tentang', 'back', 'up', 'aktivitas', 'windows', 'dan', 'program', 'auto', 'start', 'up', 'baik', 'dikurangin', 'lewat', 'msconfig', 'tidak', 'ketampil', 'semua', 'pakai', 'apa', 'cleaner', 'baru', 'bisa', 'klihatan', 'start', 'up', 'trnyata', 'banyak', 'biar', 'boting', 'tidak', 'lama', 'hasil', 'jadi', 'kerasa', 'beneran', 'laptop', 'baru', 'bonus', 'juga', 'dapat', 'tas', 'dan', 'stylus', 'backlight', 'keyboard', 'oke']",5.213333333333333,75
+5,"['pengiriman', 'sangat', 'cepat', 'dan', 'produk', 'sesuai', 'terima kasih', 'juragan']",6.875,8
+5,"['oke', 'mantap']",4.5,2
+5,"['barang', 'oke']",4.5,2
+5,"['kardus', 'agak', 'penyok', 'untung', 'isi', 'aman', 'terima kasih']",5.857142857142857,7
+5,"['laptop', 'bagus', 'rekomendasi', 'buat', 'uc', 'technologi']",6.333333333333333,6
+5,"['mantap', 'terima kasih']",9.0,2
+5,"['cepat', 'respon', 'pengiriman', 'cepat', 'pengemasan', 'rapi', 'exceclent']",7.0,7
+5,"['mantap', 'lancar', 'jaya', 'mesen', 'jumat', 'sabtu', 'sampai', 'minta', 'upgrade', 'spesifikasi', 'gapake', 'lama', 'barang', 'mulus', 'pengemasan', 'rapi', 'teratas', 'pokoknya']",6.111111111111111,18
+2,"['kemarin', 'saya', 'sudah', 'kasih', 'bintang', 'lima', 'stlah', 'saya', 'coba', 'pakai', 'hari', 'laptop', 'sudah', 'beratatau', 'lambat', 'hari', 'ini', 'saya', 'mau', 'coba', 'instl', 'ofice', 'dak', 'bisa', 'karena', 'sudah', 'lambat', 'duluan', 'dak', 'bisa', 'nyelesaikan', 'sampai', 'sore', 'dak', 'selesai', 'pasang', 'ofice', 'mohon', 'solusi', 'dari', 'seler']",5.048780487804878,41
+5,"['luar', 'biasa', 'laptop', 'mantap', 'jasa', 'pengiriman', 'cepat', 'hari', 'saja', 'pengemasan', 'rapi', 'dan', 'aman', 'barang', 'datang', 'dhnkeadan', 'sangat', 'baik', 'melebihi', 'expetasi', 'bahkan']",5.809523809523809,21
+4,"['kok', 'ngak', 'dapat', 'tasatau', 'bag', 'iya']",4.166666666666667,6
+5,"['sangat', 'baik']",5.0,2
+5,"['bagus', 'pengemasan', 'rapi', 'dan', 'aman', 'hanya', 'pengiriman', 'saja', 'agak', 'lama']",5.3,10
+5,"['laptop', 'ini', 'bagus', 'slim', 'dan', 'enteng', 'performa', 'juga', 'bagus', 'belum', 'buka', 'aplikasi', 'berat', 'sih', 'tapi', 'waktu', 'buka', 'file', 'foto', 'cepat', 'sekali', 'ngak', 'mau', 'kalah', 'sama', 'komputer', 'kantor', 'yang', 'itujuh', 'ram', 'enam', 'belas', 'gb', 'besok', 'coba', 'buat', 'edit', 'foto', 'ngomong-ngomong', 'untuk', 'slot', 'sd', 'kartu', 'hanya', 'bisa', 'micro', 'sd', 'jadi', 'buat', 'fotografer', 'yang', 'pakai', 'sd', 'kartu', 'harus', 'beli', 'adapter', 'lagi', 'esel', 'pengiriman', 'cepat', 'sekali', 'tidak', 'sampai', 'empat', 'jam', 'dalam', 'kota', 'jakarta', 'pengemasan', 'pakai', 'buble', 'meski', 'box', 'sempat', 'penyok', 'dikit', 'tapi', 'untung', 'di', 'bagian', 'bawah', 'penjual', 'mesti', 'wanti', 'wanti', 'ke', 'kurir', 'untuk', 'lebih', 'hati', 'hati']",4.913043478260869,92
+5,"['asli', 'pengemasan', 'bagus']",6.333333333333333,3
+5,"['barang', 'mantap', 'sesuai', 'harapan', 'dan', 'tidak', 'diragukan', 'lagi']",5.75,8
+5,"['mantap', 'barang', 'sesuai', 'pesanan']",6.25,4
+5,"['barang', 'bagus']",5.5,2
+5,"['produk', 'mantap']",6.0,2
+5,"['terima kasih', 'paket', 'sudah', 'diterima', 'sesuai', 'dengan', 'pesanan', 'pengemasan', 'bagus', 'namun', 'kalau', 'boleh', 'saran', 'sat', 'pengemasan', 'mohon', 'gunakan', 'pengemasan', 'dari', 'kayu', 'supaya', 'sat', 'proses', 'pengiriman', 'terhindar', 'dari', 'ke', 'khawatiran', 'benturan']",6.379310344827586,29
+1,"['barang', 'datang', 'tepat', 'waktu', 'tapi', 'tidak', 'bisa', 'di', 'charge', 'bagaimana', 'solusi', 'ini', 'mohon', 'pertangung', 'jawaban']",5.533333333333333,15
+5,"['barang', 'diterima', 'sesuai', 'pesanan', 'mantap', 'lazada', 'terima kasih']",7.285714285714286,7
+2,"['lumayan', 'tapi', 'sayang', 'lambat', 'dan', 'belum', 'download', 'aplikasi', 'baterai', 'cepat', 'habis']",5.818181818181818,11
+5,"['tampa', 'sidik', 'jari', 'tampa', 'pen', 'tampa', 'led', 'harga', 'tidak', 'pernah', 'bohong', 'sesuia', 'dengan', 'anka', 'terima kasih']",5.333333333333333,15
+5,"['keren', 'habis', 'harga', 'murah', 'kualitas', 'nomor', 'murahan']",5.714285714285714,7
+5,"['pengemasan', 'rapi', 'dan', 'pengiriman', 'sangat', 'cepat']",6.333333333333333,6
+5,"['pengiriman', 'cepat', 'semoga', 'umur', 'lama']",5.8,5
+5,"['memang', 'gambar', 'tapi', 'belum', 'di', 'coba']",4.5,6
+3,"['dari', 'barang', 'sih', 'oke', 'hanya', 'pengemasan', 'yalord', 'biasa', 'aku', 'beli', 'barang', 'kayak', 'begini', 'sama', 'yang', 'jualan', 'itu', 'dikasih', 'safety', 'kayu', 'tapi', 'ini', 'hanya', 'bublewrap', 'yang', 'kecil', 'mudah', 'mudahan', 'dalam', 'tidak', 'kenapa', 'kenapa']",5.125,32
+5,"['secara keseluruhan', 'build', 'bagus', 'kukuh', 'hanya', 'kaget', 'saja', 'pas', 'sampai', 'kok', 'tujuh', 'belas', 'tujuh', 'belas', 'dikira', 'lima', 'belas', 'lima', 'belas', 'v', 'buat', 'harga', 'kaya', 'susah', 'nemu', 'laptop', 'lain', 'dengan', 'spesifikasi', 'sama', 'dan', 'yang', 'paling', 'ketara', 'itu', 'built', 'in', 'speakers', 'tidak', 'menyangka', 'bisa', 'denger', 'bass', 'yang', 'lumayan', 'jernih', 'dan', 'berdentum', 'untuk', 'sekelas', 'speaker', 'laptop', 'apalagi', 'kalau', 'ditaro', 'di', 'atas', 'meja', 'kayu', 'iya', 'ini', 'speaker', 'ada', 'di', 'bawah', 'keyboard', 'menghadap', 'ke', 'meja', 'performa', 'sih', 'iya', 'sesuai', 'spesifikasi', 'kalau', 'pun', 'ada', 'kekurangan', 'iya', 'di', 'baterai', 'untuk', 'spesifikasi', 'agak', 'sangar', 'begini', 'memang', 'tidak', 'bakal', 'bisa', 'dipake', 'main', 'game', 'ful', 'tenaga', 'kalau', 'tidak', 'dicolok', 'ada', 'bonus', 'backpack', 'juga', 'dan', 'meski', 'bonus', 'ini', 'backpack', 'serius', 'bisa', 'muat', 'macam', 'sampai', 'tablet', 'segala', 'di luar', 'laptop', 'sama', 'kabel', 'plus', 'adaptor', 'kalau', 'perlu', 'bawa', 'laptop', 'coler', 'tujuh', 'belas', 'tujuh', 'belas', 'juga', 'hayuk', 'bahan', 'juga', 'bagus', 'pading', 'cukup', 'ada', 'tiga', 'kantong', 'dengan', 'ziper', 'di', 'luar', 'dan', 'ada', 'tempat', 'botol', 'minum', 'yang', 'adjustable', 'juga']",5.125827814569536,151
+1,"['i', 'belum', 't', 'login', 'to', 'activated', 'this', 'netbok', 'because', 'ned', 'pasword', 'i', 'ned', 'help', 'untuk', 'this', 'masalah']",4.352941176470588,17
+5,"['oke', 'ok']",2.5,2
+5,"['keren', 'saudara laki-laki']",11.0,2
+5,"['Cuma', 'kabel', 'tenaga', 'kurang', 'bagus']",5.2,5
+5,"['barang', 'kondisi', 'oke', 'respon', 'cepat', 'dan', 'sangat', 'baik']",5.0,8
+5,"['barang', 'sampai', 'tepat', 'waktu', 'sesuai', 'target', 'lazada', 'barang', 'sesuai', 'spekyg', 'ada', 'sayang', 'masih', 'kosongan', 'belum', 'ada', 'windows', 'tapi', 'stil', 'oke', 'great', 'lazada']",5.318181818181818,22
+5,"['pelayanan', 'sangat', 'bagus', 'barang', 'sesuai', 'dengan', 'yang', 'dipesan', 'dan', 'pengiriman', 'cepat', 'sekali', 'pesan', 'jumat', 'malam', 'sabtu', 'sore', 'sudah', 'sampai', 'mantap']",5.7,20
+5,"['barang', 'sampai', 'lebih', 'cepat', 'dan', 'dalam', 'kondisi', 'sangat', 'baik', 'sudah', 'di', 'test', 'dan', 'sejauh', 'ini', 'puas', 'dengan', 'performa']",4.888888888888889,18
+3,"['bonus', 'bohong', 'tidak', 'ada']",4.75,4

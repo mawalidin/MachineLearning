@@ -1,0 +1,801 @@
+rating,review,aspect_category,polarity
+3,"[""'membantu'"", "" 'kondisi'"", "" 'pandemi'"", "" 'tolong'"", "" 'dievaluasi'"", "" 'ketersedian'"", "" 'obat'"", "" 'apotek'"", "" 'rekanan'"", "" 'halodoc'"", "" 'kota'"", "" 'manado'"", "" 'resep'"", "" 'obat'"", "" 'batuk'"", "" 'apotek'"", "" 'suka'"", "" 'habis'"", "" 'sia'"", "" 'sia'"", "" 'konsultasi'"", "" 'dokter'"", "" 'ujung'"", "" 'ujung'"", "" 'obat'"", "" 'diresepkan'"", "" 'apotek'"", "" 'rugi'"", "" 'chat'"", "" 'dobel'"", "" 'biaya'"", "" 'masukan'"", "" 'halodoc'"", "" 'pakai'"", "" 'fitur'"", "" 'chat'"", "" 'us'"", "" 'customer service'"", "" 'halodoc'"", "" 'sb'"", "" 'customer service'"", "" 'mengubah'"", "" 'produk'"", "" 'obat'"", "" 'menyarankan'"", "" 'konsultasi'"", "" 'dokter'""]",Pelayanan,negatif
+5,"[""'konsultasi'"", "" 'dokter'"", "" 'halo'"", "" 'doc'"", "" 'bagus'"", "" 'sih'"", "" 'durasi'"", "" 'cepat'"", "" 'ta'"", "" 'ta'"", "" 'dokter'"", "" 'sdb'"", "" 'di akhir'"", "" 'dokter'"", "" 'chatingan'"", "" 'oke'"", "" 'bantu'"", "" 'terima kasih'"", "" 'iya'""]",Pelayanan,negatif
+1,"[""'astaga'"", "" 'obat'"", "" 'beli'"", "" 'obat'"", "" 'halo'"", "" 'doc'"", "" 'harga'"", "" 'masuk'"", "" 'akal'"", "" 'kali'"", "" 'lipat'"", "" 'replay'"", "" 'chat'"", "" 'bantuan'"", "" 'belas'"", "" 'kali'"", "" 'coba'"", "" 'pembayaran'"", "" 'resep'"", "" 'c'"", "" 'bank'"", "" 'berbeda'"", "" 'obat'"", "" 'gagal'"", "" 'solusi'"", "" 'penyelesain'"", "" 'berulang'"", "" 'kali'"", "" 'gagal'"", "" 'harga'"", "" 'obat'"", "" 'masuk'"", "" 'akal'"", "" 'semoga'"", "" 'halo'"", "" 'doc'"", "" 'banding'"", "" 'pesaing'""]",Harga,negatif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'pelayanan'"", "" 'cepat'"", "" 'pengiriman'"", "" 'thanks'"", "" 'tertawa'"", "" 'nambahkan'"", "" 'halodoc'"", "" 'pelayanan'"", "" 'pengiriman'"", "" 'obat'"", "" 'thanks'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'menelepon'"", "" 'nomor'"", "" 'halodoc'"", "" 'hadiah'"", "" 'halodoc'"", "" 'konfirmasi'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'mengadakan'"", "" 'hadiah'"", "" 'email'"", "" 'nomor'"", "" 'telepon genggam'""]",Sistem,netral
+5,"[""'sumpah'"", "" 'alternatif'"", "" 'miris'"", "" 'keuangan'"", "" 'tempered glass'"", "" 'sakit'"", "" 'dirasa'"", "" 'hemat'"", "" 'pakai'"", "" 'aplikasi'"", "" 'bagus'"", "" 'pekerjaan'"", "" 'halodoc'"", "" 'cocok'"", "" 'anak'"", "" 'kosan'""]",Harga ,positif
+1,"[""'konfirmasi'"", "" 'customer service'"", "" 'berguna'"", "" 'selesai'"", "" 'dikomunikasikan'"", "" 'diulang'"", "" 'di mana'"", "" 'dikasih'"", "" 'bukti'"", "" 'screnshot'"", "" 'ampun'"", "" 'ampun'"", "" 'iya'"", "" 'munculin'"", "" 'aplikasi'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'disat'"", "" 'darurat'"", "" 'rumah'"", "" 'anak'"", "" 'tetiba'"", "" 'anak'"", "" 'sakit'"", "" 'obat'"", "" 'habis'"", "" 'pesan'"", "" 'dihalodoc'"", "" 'harga'"", "" 'obat'"", "" 'enak'"", "" 'dicarikan'"", "" 'termurah'"", "" 'terima kasih'""]",Harga,positif
+4,"[""'suka'"", "" 'suka'"", "" 'aplikasi'"", "" 'berbeda'"", "" 'aplikasi'"", "" 'sebelah'"", "" 'penjelasan'"", "" 'rekomendasi'"", "" 'obat'"", "" 'dokter'"", "" 'kesel'"", "" 'konsultasi'"", "" 'dokter'"", "" 'melewatkan'"", "" 'ganti'"", "" 'dokterpun'"", "" 'saldo'"", "" 'berkurang'"", "" 'dikembalikan'"", "" 'semingu'"", "" 'mohon'"", "" 'diperhatikan'"", "" 'dokter'"", "" 'sibuk'"", "" 'aktivitas'"", "" 'menyalakan'"", "" 'konsultasi'"", "" 'penguna'"", "" 'tertawa'"", "" 'mengunakan'"", "" 'apl'"", "" 'keadan'"", "" 'darurat'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'konsultasi'"", "" 'whatsapp'"", "" 'sat'"", "" 'pandemi'"", "" 'chat'"", "" 'respon'"", "" 'plus'"", "" 'prihal'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'kali'"", "" 'telepon'"", "" 'mengatas'"", "" 'nama'"", "" 'halodoc'"", "" 'aneh'"", "" 'penelpon'"", "" 'email'"", "" 'bilang'"", "" 'uang'"", "" 'juta'"", "" 'rupiah'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'memprivasi'"", "" 'email'"", "" 'sehinga'"", "" 'mengambil'"", "" 'keuntungan'"", "" 'menipu'"", "" 'tolong'"", "" 'privasi'"", "" 'perketat'""]",Sistem,negatif
+5,"[""'keren'"", "" 'cepat'"", "" 'bagus'"", "" 'membantu'"", "" 'tertawa'"", "" 'rumah'"", "" 'cek'"", "" 'kesehatan'"", "" 'aman'"", "" 'dimasa'"", "" 'pandemik'"", "" 'covid'"", "" 'sembilan'"", "" 'belas'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'jam'"", "" 'anak'"", "" 'sakit'"", "" 'konsultasi'"", "" 'dokter'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'"", "" 'adi'"", "" 'suryadinata'"", "" 'sp'"", "" 'a'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'mempermudah'"", "" 'mencari'"", "" 'obat'"", "" 'obatan'"", "" 'respon'"", "" 'cepat'"", "" 'pesan'"", "" 'puluh'"", "" 'terima kasih'""]",Pelayanan,positif
+1,"[""'pulang'"", "" 'hapus'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'kecewa'"", "" 'profesional'"", "" 'di bagian'"", "" 'chat'"", "" 'customer'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,negatif
+2,"[""'konsultasi'"", "" 'pembayaran'"", "" 'pakai'"", "" 'c'"", "" 'kali'"", "" 'gagal'"", "" 'walopun'"", "" 'keterangan'"", "" 'dana'"", "" 'dikembalikan'"", "" 'konsultasi'"", "" 'coba'"", "" 'malas'"", "" 'tolong'"", "" 'sistem'"", "" 'pembayaran'"", "" 'diperbaiki'""]",Sistem,negatif
+5,"[""'ngebantu'"", "" 'disat'"", "" 'pergi'"", "" 'rumah'"", "" 'sakit'"", "" 'antrian'"", "" 'dekat sekali'"", "" 'aplikasi'"", "" 'ngebantu'"", "" 'praktis'"", "" 'takut'"", "" 'langsung'"", "" 'konsultasi'"", "" 'dokter'"", "" 'dikasi'"", "" 'resep'"", "" 'makasi'""]",Anekdot/Serbaneka,positif
+1,"[""'ralat'"", "" 'kembalikan'"", "" 'bayar'"", "" 'aplikasi'"", "" 'membantu'""]",Sistem,negatif
+1,"[""'jujur'"", "" 'puas'"", "" 'nasihat'"", "" 'nasihat'"", "" 'penjelasan'"", "" 'dokter'"", "" 'disayangkan'"", "" 'konsultasi'"", "" 'aplikasi'"", "" 'puluh'"", "" 'menit'"", "" 'otomatis'"", "" 'berhenti'"", "" 'berta'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'obat'"", "" 'dicari'"", "" 'dibeberapa'"", "" 'apotek'"", "" 'kosong'"", "" 'lengkap'"", "" 'pemakaian'"", "" 'gampang'"", "" 'thanks'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'kesehatan'"", "" 'produk'"", "" 'kesehatan'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'konsultasi'"", "" 'penyakit'"", "" 'beli'"", "" 'obat'"", "" 'obatan'"", "" 'produk'"", "" 'kesehatan'"", "" 'aplikasi'"", "" 'memilih'"", "" 'halodoc'"", "" 'langsung'"", "" 'konek'"", "" 'akun'"", "" 'gojek'"", "" 'terima kasih'"", "" 'pelayanan'"", "" 'sukses'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+1,"[""'tolong'"", "" 'iya'"", "" 'ditindaklanjuti'"", "" 'respon'"", "" 'email'"", "" 'chat'"", "" 'transaksi'"", "" 'kali'"", "" 'beli'"", "" 'gopay'"", "" 'kurir'"", "" 'mengantar'"", "" 'kecewa'"", "" 'pengembalian dana'""]",Pelayanan,negatif
+5,"[""'aplikasi'"", "" 'bagus'"", "" 'Cuma'"", "" 'saran'"", "" 'adakan'"", "" 'opsi'"", "" 'pembayaran'"", "" 'gerai'"", "" 'kaya'"", "" 'alfamartatau'"", "" 'indomart'"", "" 'ngebantu'"", "" 'remaja'"", "" 'orang'"", "" 'orang'"", "" 'gapu'"", "" 'gopayatau'"", "" 'catau'"", "" 'debitatau'"", "" 'et cetera'""]",Anekdot/Serbaneka,netral
+5,"[""'oke'"", "" 'aplikasi'"", "" 'ketemu'"", "" 'di mana'"", "" 'respon'"", "" 'dokter'"", "" 'cepat'"", "" 'bagus'"", "" 'pertahankan'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'nomor'"", "" 'ribet'"", "" 'membantu'"", "" 'keliling'"", "" 'apotek'"", "" 'obat'"", "" 'obat'"", "" 'jarang'"", "" 'tersedia'"", "" 'diapotik'"", "" 'konsultasi'"", "" 'dokter'"", "" 'mudah'"", "" 'pelayanan'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'aplikas'"", "" 'khawatir'"", "" 'mendadak'"", "" 'malam'"", "" 'butuh'"", "" 'obat'"", "" 'halodoc'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'sangan'"", "" 'membantu'"", "" 'sat'"", "" 'isoman'"", "" 'membeli'"", "" 'obat'"", "" 'sehinga'"", "" 'mencegah'"", "" 'penularan'"", "" 'virus'"", "" 'orang'""]",Pelayanan,positif
+5,"[""'halo'"", "" 'kakak'"", "" 'kakak'"", "" 'daftar'"", "" 'iya'"", "" 'masukan'"", "" 'email'"", "" 'nomor'"", "" 'telepon'"", "" 'masuk'"", "" 'nungu'"", "" 'iya'""]",Sistem,negatif
+5,"[""'membantu'"", "" 'orang'"", "" 'malas'"", "" 'rumah'"", "" 'aplgi'"", "" 'nungu'"", "" 'antre'"", "" 'dokter'"", "" 'pelayanan'"", "" 'cepat'"", "" 'resep'"", "" 'akurat'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'coba'"", "" 'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'covid'"", "" 'rumah'"", "" 'diagnosis'"", "" 'beli'"", "" 'obat'""]",Pelayanan,positif
+5,"[""'halodoc'"", "" 'memudahkan'"", "" 'antre'"", "" 'rumah'"", "" 'sakit'"", "" 'konsultasi'"", "" 'aplikasi'"", "" 'obat'"", "" 'diantar'"", "" 'rumah'"", "" 'so'"", "" 'helpful'""]",Pelayanan,positif
+5,"[""'alhamdulilah'"", "" 'halodoc'"", "" 'membantu'"", "" 'sat'"", "" 'pandemic'"", "" 'dokter'"", "" 'spesialis'"", "" 'juara'"", "" 'juara'"", "" 'semoga'"", "" 'pertahankan'"", "" 'bagus'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'admin'"", "" 'suntik'"", "" 'vaksin'"", "" 'dosis'"", "" 'tanggal'"", "" 'sembilan'"", "" 'tanggal'"", "" 'sebelas'"", "" 'teman'"", "" 'sms'"", "" 'suntik'"", "" 'vaksin'"", "" 'dosis'"", "" 'admin'"", "" 'mohon'"", "" 'pencerahanya'""]",Anekdot/Serbaneka,netral
+5,"[""'konsultasi'"", "" 'pertanyan'"", "" 'pertanyan'"", "" 'antisipasi'"", "" 'rumah'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'sudh'"", "" 'menyediakam'"", "" 'apliksi'""]",Pelayanan,positif
+5,"[""'terbantu'"", "" 'aplikasi'"", "" 'kemarin'"", "" 'cari'"", "" 'resep'"", "" 'dokter'"", "" 'muter'"", "" 'muter'"", "" 'apotek'"", "" 'terdekat'"", "" 'ketemu'"", "" 'aplikasi'"", "" 'terbantu'"", "" 'capek'"", "" 'capek'"", "" 'muter'"", "" 'muter'""]",Pelayanan,positif
+3,"[""'umur'"", "" 'enam'"", "" 'belas'"", "" 'pu'"", "" 'uang'"", "" 'konsultasi'"", "" 'dokter'"", "" 'konsultasi'"", "" 'bayar'"", "" 'solosi'"", "" 'pertanyan'"", "" 'it'"", "" 'tolong'""]",Anekdot/Serbaneka,netral
+5,"[""'aplikasi'"", "" 'bagus'"", "" 'chat'"", "" 'psikiatris'"", "" 'mudah'"", "" 'daring'"", "" 'dokter'"", "" 'ramah'"", "" 'menghakimi'"", "" 'mengerti'"", "" 'keadan'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'bermanfat'"", "" 'aplikasi'"", "" 'konsultasi'"", "" 'dokter'"", "" 'mudah'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'vaksin'"", "" 'i'"", "" 'kendala'"", "" 'efek'"", "" 'samping'"", "" 'tertawa'"", "" 'timbul'"", "" 'ngantuk'"", "" 'divaksin'""]",Anekdot/Serbaneka,positif
+5,"[""'kecepatan'"", "" 'pengiriman'"", "" 'kilat'"", "" 'harga'"", "" 'obat'"", "" 'obatan'"", "" 'berbeda'"", "" 'apotek'"", "" 'langsung'"", "" 'over'"", "" 'al'"", "" 'i'"", "" 'proud'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'aplikasi'"", "" 'jelek'"", "" 'kali'"", "" 'pesan'"", "" 'apotek'"", "" 'obat'"", "" 'suruh'"", "" 'dibatalkan'"", "" 'dibatalkan'"", "" 'bermslh'"", "" 'telepon'"", "" 'customer service'"", "" 'batalin'"", "" 'tempered glass'"", "" 'jam'"", "" 'batalin'"", "" 'pas'"", "" 'btl'"", "" 'saldo'"", "" 'halo'"", "" 'doc'"", "" 'tempered glass'"", "" 'kerja'""]",Pelayanan,negatif
+5,"[""'bagus'"", "" 'konsultasi'"", "" 'dokter'"", "" 'rumah'"", "" 'sakit'"", "" 'khawatir'"", "" 'kena'"", "" 'covid'"", "" 'murah'"", "" 'harga'"", "" 'berkonsultasi'""]",Harga,positif
+3,"[""'pelayanan'"", "" 'cepat'"", "" 'aneh'"", "" 'pembayaran'"", "" 'memakai'"", "" 'kartu'"", "" 'kredit'"", "" 'kartu'"", "" 'tersedia'"", "" 'available'""]",Sistem,negatif
+2,"[""'aplikasi'"", "" 'ngelag'"", "" 'coba'"", "" 'uninstal'"", "" 'telepon genggam'"", "" 'aplikasi'"", "" 'berat'"", "" 'telepon genggam'"", "" 'jalan'"", "" 'halodoc'""]",Sistem,negatif
+5,"[""'dokter'"", "" 'hebat'"", "" 'hebat'"", "" 'fokus'"", "" 'keluhan'"", "" 'derita'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'mengunakan'"", "" 'halodoc'"", "" 'efektif'"", "" 'murah'""]",Harga,positif
+5,"[""'bagus'"", "" 'membantu'"", "" 'pu'"", "" 'luang'"", "" 'dokter'"", "" 'dokter'"", "" 'bagus'"", "" 'layanan'"", "" 'kesehatan'"", "" 'beragam'""]",Pelayanan,positif
+5,"[""'respon'"", "" 'keluhan'"", "" 'team'"", "" 'customer service'"", "" 'sat'"", "" 'respon'"", "" 'update'"", "" 'respon'"", "" 'team'"", "" 'customer service'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'konsultasi'"", "" 'dokter'"", "" 'langsung'"", "" 'repot'"", "" 'rumah'"", "" 'sakit'"", "" 'faskes'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'menelpon'"", "" 'agen'"", "" 'helodoc'"", "" 'kerna'"", "" 'nomor'"", "" 'rekening'""]",Anekdot/Serbaneka,netral
+1,"[""'bintang'"", "" 'kode'"", "" 'voucher'"", "" 'vaksinasi'"", "" 'kasih'"", "" 'bintang'"", "" 'semingu'""]",Pelayanan,negatif
+5,"[""'bagus'"", "" 'dokter'"", "" 'responsif'"", "" 'lumayan'"", "" 'enak'"", "" 'diajak'"", "" 'diskusi'"", "" 'logis'"", "" 'analisis'"", "" 'sat'"", "" 'deg'"", "" 'degan'"", "" 'dokter'"", "" 'dirs'"", "" 'ketemu'"", "" 'senang'""]",Pelayanan,positif
+5,"[""'enak'"", "" 'antre'"", "" 'disat'"", "" 'sakit'"", "" 'chat'"", "" 'langsung'"", "" 'dibales'"", "" 'obat'"", "" 'diantar'"", "" 'terima'"", "" 'kasih'"", "" 'holodoc'""]",Pelayanan,positif
+5,"[""'puas'"", "" 'konsultasi'"", "" 'di sini'"", "" 'sat'"", "" 'pandemi'"", "" 'dokter'"", "" 'ramah'""]",Pelayanan,positif
+4,"[""'memuaskan'"", "" 'balas'"", "" 'cepat'"", "" 'pilihan'"", "" 'dokter'"", "" 'meresepkan'"", "" 'obat'"", "" 'mahal'"", "" 'semoga'"", "" 'cocok'""]",Harga,positif
+3,"[""'selamat'"", "" 'sore'"", "" 'admin'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'bekerjasama'"", "" 'medicilin'"", "" 'mohon'"", "" 'admin'"", "" 'terima'"", "" 'kasih'""]",Anekdot/Serbaneka,netral
+5,"[""'membantu'"", "" 'sat'"", "" 'urgent'"", "" 'langsung'"", "" 'tindakan'"", "" 'selanjut'"", "" 'dokter'"", "" 'ramah'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+4,"[""'konsultasi'"", "" 'putri'"", "" 'farisa'"", "" 'sp'"", "" 'konsultasi'"", "" 'selesai'"", "" 'resep'"", "" 'obat'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'suka'"", "" 'menu'"", "" 'konsultasi'"", "" 'dokter'"", "" 'memudahkan'"", "" 'mencari'"", "" 'informasi'"", "" 'tempered glass'"", "" 'kesehatan'"", "" 'tubuh'""]",Pelayanan,positif
+4,"[""'aplikasi'"", "" 'membantu'"", "" 'dokter'"", "" 'ramah'"", "" 'ramah'"", "" 'profesional'"", "" 'sukses'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'posisi'"", "" 'di luar'"", "" 'kota'"", "" 'kondisi'"", "" 'badan'"", "" 'fit'"", "" 'susah'"", "" 'cari'"", "" 'dokter'"", "" 'butuh'"", "" 'obat'"", "" 'sesuai'"", "" 'dosis'"", "" 'terbantu'"", "" 'aplikasi'"", "" 'super'"", "" 'terima kasih'"", "" 'to'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'membatu'"", "" 'terbantu'"", "" 'sat'"", "" 'dokter'"", "" 'konsultasi'"", "" 'di sini'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'coba'"", "" 'gomed'"", "" 'cepat'"", "" 'respon'"", "" 'pengiriman'"", "" 'tingkatkan'""]",Pelayanan,positif
+5,"[""'alhamdulilah'"", "" 'konsultasi'"", "" 'psikologi'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'bagus'"", "" 'penjelasan'"", "" 'detail'"", "" 'saran'"", "" 'saran'"", "" 'pas'"", "" 'obat'"", "" 'diresepkan'"", "" 'oke'""]",Pelayanan,positif
+5,"[""'pelayanan'"", "" 'konsultasi'"", "" 'iya'"", "" 'enak'"", "" 'puas'"", "" 'terima kasih'"", "" 'dokter'"", "" 'iman'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'aplikasi'"", "" 'disat'"", "" 'lelah'"", "" 'rumah'"", "" 'dibantu'"", "" 'tertawa'"", "" 'aplikasi'"", "" 'wow'""]",Anekdot/Serbaneka,positif
+1,"[""'tangapan'"", "" 'lambat'"", "" 'mengetik'"", "" 'keluhan'"", "" 'sokter'"", "" 'chat'"", "" 'masuk'"", "" 'pakai'"", "" 'pangilan'"", "" 'suara'"", "" 'suara'"", "" 'perbaiki'"", "" 'pemakaian'"", "" 'berbayar'"", "" 'gratis'""]",Pelayanan,negatif
+5,"[""'cangih'"", "" 'berobat'"", "" 'di mana'"", "" 'keren'"", "" 'pas'"", "" 'cobain'"", "" 'fre'"", "" 'skrng'"", "" 'bayar'"", "" 'ehehe'""]",Anekdot/Serbaneka,netral
+5,"[""'kendala'"", "" 'boking'"", "" 'tes'"", "" 'swab'"", "" 'antigen'"", "" 'klinik'"", "" 'tutup'"", "" 'operasial'"", "" 'di mana'"", "" 'boking'"", "" 'tes'"", "" 'swab'"", "" 'antigen'"", "" 'tim'"", "" 'halodoc'"", "" 'cepat'"", "" 'respon'"", "" 'menelpon'"", "" 'konfirmasi'"", "" 'pengembalian dana'"", "" 'masukan'"", "" 'kordinasi'"", "" 'klinik'"", "" 'rumah sakit'"", "" 'rekanan'"", "" 'ditingkatkan'"", "" 'sisa'"", "" 'bagus'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'pakai'"", "" 'langsung'"", "" 'merasakan'"", "" 'puas'"", "" 'semoga'"", "" 'layanan'"", "" 'konsisten'"", "" 'prima'"", "" 'sehinga'"", "" 'menambah'"", "" 'kepercayan'"", "" 'thanks'"", "" 'iya'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+4,"[""'pelayanan'"", "" 'oke'"", "" 'tertawa'"", "" 'pembayaran'"", "" 'mengunanakan'"", "" 'debit'"", "" 'kartu'"", "" 'kendala'"", "" 'walopun'"", "" 'opsi'"", "" 'pembayaran'""]",Pelayanan,netral
+1,"[""'dengar'"", "" 'sih'"", "" 'aplikasi'"", "" 'bagus'"", "" 'instal'"", "" 'eh'"", "" 'sat'"", "" 'masuk'"", "" 'aplikasi'"", "" 'ngak'"", "" 'ngerespon'"", "" 'sih'""]",Sistem,negatif
+5,"[""'lumayan'"", "" 'lengkap'"", "" 'pelayanan'"", "" 'cepat'"", "" 'aplikasi'"", "" 'mudah'"", "" 'membantu'""]",Sistem,positif
+5,"[""'terima kasih'"", "" 'kasih'"", "" 'silfia'"", "" 'mandasari'"", "" 'sp'"", "" 'dv'"", "" 'respon'"", "" 'cepat'"", "" 'arahan'"", "" 'resep'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'respon'"", "" 'cepat'"", "" 'akurat'"", "" 'sukses'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'kemudahan'"", "" 'tertawa'"", "" 'rumah'"", "" 'sakit'"", "" 'ter'"", "" 'obati'""]",Pelayanan,positif
+5,"[""'pelayanan'"", "" 'dokter'"", "" 'ramah'"", "" 'cepat'"", "" 'balas'"", "" 'kali'"", "" 'terkesan'""]",Pelayanan,positif
+5,"[""'terbantu'"", "" 'situasi dan kondisi'"", "" 'sukses'"", "" 'halodoc'""]",anekdot/serbaneka,positif
+1,"[""'pesan'"", "" 'obat'"", "" 'dibayar'"", "" 'dibatalkan'"", "" 'bayar'"", "" 'obat'"", "" 'ratusan'"", "" 'ribu'""]",Pelayanan,negatif
+1,"[""'pengembalian dana'"", "" 'uang'"", "" 'telepon'"", "" 'customer'"", "" 'pelayanan'""]",Pelayanan,negatif
+1,"[""'kali'"", "" 'konsultasi'"", "" 'bagus'"", "" 'kali'"", "" 'konsultasi'"", "" 'drh'"", "" 'pelayanan'"", "" 'parah'"", "" 'blsin'"", "" 'chat'"", "" 'luama'"", "" 'wktu'"", "" 'puluh'"", "" 'menit'"", "" 'habis'"", "" 'menyarankan'"", "" 'klinik'"", "" 'drh'"", "" 'langsung'"", "" 'curahan hati'"", "" 'kucing'"", "" 'bla'"", "" 'bla'"", "" 'bla'"", "" 'konsultasi'"", "" 'drh'"", "" 'mencari'"", "" 'solusi'"", "" 'kucing'"", "" 'jwbn'"", "" 'mencla'"", "" 'mencle'"", "" 'bahasa'"", "" 'sopan'"", "" 'mangil'"", "" 'bpkatau'"", "" 'saudara'"", "" 'tlg'"", "" 'seleksi'"", "" 'rekrut'"", "" 'dokter'"", "" 'jelek'"", "" 'pelayanan'"", "" 'kuapok'"", "" 'deh'""]",Pelayanan,negatif
+4,"[""'customer service'"", "" 'halodoc'"", "" 'mengalami'"", "" 'kendala'"", "" 'sehinga'"", "" 'be'"", "" 'menelponatau'"", "" 'chat'"", "" 'tim'"", "" 'help'"", "" 'halodoc'""]",Anekdot/Serbaneka,netral
+2,"[""'sat'"", "" 'selesai'"", "" 'pembayaran'"", "" 'sukses'"", "" 'terpotong'"", "" 'saldo'"", "" 'eh'"", "" 'dokter'"", "" 'sibuk'"", "" 'pengembalian'"", "" 'dana'"", "" 'butuh'"", "" 'hinga'"", "" 'belas'"", "" 'terhitung'"", "" 'belas'"", "" 'masuk'"", "" 'konfirmasi'"", "" 'bank'"", "" 'terkait'"", "" 'aduh'"", "" 'otomatis'"", "" 'dana'"", "" 'dikembalikan'"", "" 'masuk'"", "" 'rekening'"", "" 'konfirmasi'"", "" 'bank'"", "" 'ribet'"", "" 'tolong'"", "" 'permudah'"", "" 'pengembalian dana'"", "" 'orang'"", "" 'rumah'"", "" 'bank'""]",Sistem,negatif
+5,"[""'sederhana'"", "" 'aplikasi'"", "" 'kebutuhan'"", "" 'medis'"", "" 'pesan'"", "" 'mudah'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+1,"[""'memgecewakan'"", "" 'kali'"", "" 'daftar'"", "" 'vaksin'"", "" 'csembilan'"", "" 'belas'"", "" 'lanjut usia'"", "" 'ditolak'"", "" 'alasan'"", "" 'mesti'"", "" 'pakai'"", "" 'ktp'"", "" 'suket'"", "" 'domisili'"", "" 'sebenar'"", "" 'vaksinasi'"", "" 'csembilan'"", "" 'belas'"", "" 'mengunakan'"", "" 'suket'"", "" 'domisili'"", "" 'nama'"", "" 'vaksin'"", "" 'gratis'"", "" 'iya'"", "" 'warga'"", "" 'negara'"", "" 'indonesia'"", "" 'semoga'"", "" 'ulasan'"", "" 'dihapus'"", "" 'admin'"", "" 'halodoc'""]",Pelayanan,negatif
+5,"[""'terima'"", "" 'kasih'"", "" 'gojek'"", "" 'vaksinasi'"", "" 'prambanan'"", "" 'bagus'"", "" 'pelayanan'"", "" 'le'"", "" 'nyuntik'"", "" 'blas'"", "" 'ra'"", "" 'loro'""]",Pelayanan,positif
+5,"[""'halodoc'"", "" 'profesional'"", "" 'halodoc'"", "" 'terbantu'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'konsultasi'"", "" 'dokter'"", "" 'tatap'"", "" 'muka'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'konsultasi'"", "" 'puas'"", "" 'dokter'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'halodoc'"", "" 'bermanfat'"", "" 'cepat'"", "" 'respon'"", "" 'jempolan'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+4,"[""'temanhidupsehat'"", "" 'membantu'"", "" 'konsultasi'"", "" 'informasi'"", "" 'terkait'"", "" 'kesehatan'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'anak'"", "" 'cepat'"", "" 'respon'"", "" 'aplikasi'"", "" 'membantu'"", "" 'sat'"", "" 'kondisi'""]",Pelayanan,positif
+5,"[""'apliaksi'"", "" 'membantu'"", "" 'sat'"", "" 'darurat'"", "" 'tengkyu'"", "" 'halodoc'"", "" 'ditungu'"", "" 'promo'"", "" 'menarik'""]",Pelayanan,positif
+5,"[""'alhamdulilah'"", "" 'memudahkan'"", "" 'konsultasi'"", "" 'dokter'"", "" 'spesialis'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'dokter'"", "" 'keluarga'"", "" 'sahabat'"", "" 'dijangkau'"", "" 'berjarak'"", "" 'pu'"", "" 'aplikasi'"", "" 'sakit'"", "" 'pencuri'"", "" 'panik'"", "" 'pastikan'"", "" 'saldo'"", "" 'gopay'"", "" 'sederhana'"", "" 'hub'"", "" 'dokter'"", "" 'infokan'"", "" 'keluhan'"", "" 'dibantu'"", "" 'obati'"", "" 'tungu'"", "" 'obat'"", "" 'dikirim'"", "" 'instant'"", "" 'beli'"", "" 'gojek'"", "" 'sunguh'"", "" 'terobosan'"", "" 'bermanfat'"", "" 'era'"", "" 'pandemi'"", "" 'mjd'"", "" 'berjarak'"", "" 'halodoc'"", "" 'mendekatkn'"", "" 'dokter'"", "" 'sukses'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+1,"[""'sih'"", "" 'dokter'"", "" 'ngelewatin'"", "" 'chat'"", "" 'gtu'"", "" 'terima'"", "" 'ajuan'"", "" 'saldo'"", "" 'diambil'"", "" 'uang'"", "" 'diambil'"", "" 'konsultasi'"", "" 'tolong'"", "" 'customer'"", "" 'pelayanan'"", "" 'sih'"", "" 'keluhan'"", "" 'rugi'"", "" 'mengecewakan'"", "" 'halodoc'""]",Pelayanan,negatif
+2,"[""'kemarin'"", "" 'kamis'"", "" 'tanggal'"", "" 'maret'"", "" 'puluh'"", "" 'puluh'"", "" 'jam'"", "" 'puluh'"", "" 'wita'"", "" 'telepon'"", "" 'mengatasnamakan'"", "" 'cal'"", "" 'center'"", "" 'halo'"", "" 'dokter'"", "" 'halodoc'"", "" 'menginfokan'"", "" 'fitur'"", "" 'halodoc'"", "" 'menyuruh'"", "" 'aktivasi'"", "" 'biaya'"", "" 'paket'"", "" 'bulanan'"", "" 'rp'"", "" 'puluh'"", "" 'sembilan'"", "" 'nol'"", "" 'auto'"", "" 'debit'"", "" 'bank'"", "" 'infokan'"", "" 'email'"", "" 'aktif'"", "" 'terdaftar'"", "" 'percaya'"", "" 'halodoc'"", "" 'menyetujui'"", "" 'informasi'"", "" 'gmailatau'"", "" 'email'"", "" 'dana'"", "" 'terpotong'""]",Anekdot/Serbaneka,negatif
+5,"[""'membant'"", "" 'konsultasi'"", "" 'rumah'"", "" 'kondisi'"", "" 'covid'""]",Pelayanan,positif
+1,"[""'parah'"", "" 'vaksin'"", "" 'lanjut usia'"", "" 'dosis'"", "" 'di sini'"", "" 'parah'"", "" 'nungu'"", "" 'jam'"", "" 'tertawa'"", "" 'antre'"", "" 'heran'"", "" 'vaksin'"", "" 'lancar'"", "" 'habis'"", "" 'buruk'"", "" 'kasian'"", "" 'orgtua'"", "" 'vaksin'"", "" 'di sini'"", "" 'lebih baik'"", "" 'aplikasi'"", "" 'sebelah'""]",Pelayanan,positif
+4,"[""'dokter'"", "" 'di sini'"", "" 'luamayan'"", "" 'berpengalaman'"", "" 'fitur'"", "" 'fitur'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'thankyou'"", "" 'halodoc'"", "" 'membantu'"", "" 'panik'"", "" 'keluhan'""]",Anekdot/Serbaneka,positif
+2,"[""'kali'"", "" 'instal'"", "" 'daftarin'"", "" 'vaksin'"", "" 'lanjut usia'"", "" 'tangal'"", "" 'bertuliskan'"", "" 'slot'"", "" 'tersedia'"", "" 'isi'"", "" 'data'"", "" 'upload'"", "" 'ktp'"", "" 'giliran'"", "" 'submit'"", "" 'penuh'"", "" 'tulis'"", "" 'auto'"", "" 'recheck'"", "" 'eh'"", "" 'tep'"", "" 'tersedia'"", "" 'slot'"", "" 'resubmit'"", "" 'penuh'"", "" 'banget'"", "" 'perbaiki'""]",Sistem,negatif
+5,"[""'membantu'"", "" 'pembelian'"", "" 'obat'"", "" 'kota'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'memudahkan'"", "" 'pasien'"", "" 'keluarga'"", "" 'pelayanan'"", "" 'kesehatan'""]",Pelayanan,positif
+5,"[""'konsultasi'"", "" 'memuaskan'"", "" 'direkomendasikan'"", "" 'sat'"", "" 'rumah'"", "" 'mengurangi'"", "" 'mobilitas'"", "" 'semoga'"", "" 'dokter'"", "" 'dokter'"", "" 'halodoc'"", "" 'sehat'"", "" 'membantu'"", "" 'melayani'"", "" 'keluhan'"", "" 'pasien'"", "" 'membutuhkan'"", "" 'direkomendasikan'""]",Pelayanan,positif
+5,"[""'kasih'"", "" 'bintang'"", "" 'semoga'"", "" 'aplikasi'"", "" 'pelayanan'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'dokter'"", "" 'enak'"", "" 'cepat'"", "" 'respon'""]",Pelayanan,positif
+5,"[""'puas'"", "" 'pelayanan'"", "" 'dilapangan'"", "" 'terkait'"", "" 'vaksin'"", "" 'terima'"", "" 'lancar'"", "" 'cepat'"", "" 'petugas'"", "" 'ramah'"", "" 'sabar'"", "" 'penuh'"", "" 'perhatian'"", "" 'terima kasih'"", "" 'halodoc'"", "" 'salam'"", "" 'sehat'""]",Pelayanan,positif
+4,"[""'tolong'"", "" 'kasih'"", "" 'chat'"", "" 'docter'"", "" 'pembayaran'""]",Pelayanan,negatif
+5,"[""'konsultasi'"", "" 'dokter'"", "" 'menghemat'"", "" 'thanks'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'terbaik'"", "" 'situasi'"", "" 'apapun'"", "" 'jam'"", "" 'konsultasi'""]",Pelayanan,positif
+5,"[""'menyenangkan'"", "" 'langsung'"", "" 'konsultasi'"", "" 'dokter'"", "" 'rumah'""]",Pelayanan,positif
+1,"[""'janji'"", "" 'sesuai'"", "" 'jadwal'"", "" 'tersedia'"", "" 'lab'"", "" 'prodia'"", "" 'mega'"", "" 'galaxy'"", "" 'sby'"", "" 'sebelas'"", "" 'maret'"", "" 'jam'"", "" 'sembilan'"", "" 'pagi'"", "" 'h'"", "" 'prodia'"", "" 'tutup'"", "" 'heran'"", "" 'jadwal'"", "" 'tersedia'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'orang'"", "" 'kecele'"", "" 'chat'"", "" 'bantuan'"", "" 'halodoc'"", "" 'slow'"", "" 'respon'"", "" 'tujuh'"", "" 'jam'"", "" 'solusi'"", "" 'sms'"", "" 'halodoc'"", "" 'membatalkanatau'"", "" 'mereschedul'"", "" 'coba'"", "" 'aplikasi'"", "" 'aplikasi'"", "" 'pembatalan'"", "" 'h'"", "" 'berlaku'"", "" 'hinga'"", "" 'jam'"", "" 'jdwl'"", "" 'konsultasi'"", "" 'reshedule'"", "" 'jam'"", "" 'jdwl'"", "" 'konsultasi'"", "" 'ampun'"", "" 'ampun'"", "" 'deh'""]",Pelayanan,negatif
+5,"[""'semoga'"", "" 'halodoc'"", "" 'membantu'"", "" 'pasien'"", "" 'konsultasi'"", "" 'rumah'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'pesan'"", "" 'obat'"", "" 'halodoc'"", "" 'pelayanan'"", "" 'cepat'"", "" 'respon'"", "" 'langsung'"", "" 'dikirim'"", "" 'pas'"", "" 'urgent'""]",Pelayanan,positif
+5,"[""'suka'"", "" 'aplikasi'"", "" 'membantu'"", "" 'pelayanan'"", "" 'bagus'"", "" 'kali'"", "" 'case'"", "" 'kirim'"", "" 'barang'"", "" 'kekurangan'"", "" 'langsung'"", "" 'kirim'"", "" 'kesokan'"", "" 'sukses'"", "" 'halodoc'"", "" 'ditingkatkan'"", "" 'pelayanan'""]",Pelayanan,positif
+5,"[""'menolong'"", "" 'pertolongan'"", "" 'kucing'"", "" 'drh'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'melayani'"", "" 'bijaksna'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'vaksin'"", "" 'covid'"", "" 'efek'"", "" 'segnifikan'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'membantu'"", "" 'urusan'"", "" 'kesehatan'"", "" 'jam'""]",Pelayanan,positif
+5,"[""'enak'"", "" 'dipakai'"", "" 'aplikasi'"", "" 'cari'"", "" 'obat'"", "" 'harga'"", "" 'terjangkau'""]",Harga,positif
+5,"[""'keren'"", "" 'cepat'"", "" 'respon'"", "" 'konsultasi'"", "" 'dokter'"", "" 'kandungan'""]",Pelayanan,positif
+5,"[""'kasih'"", "" 'bintang'"", "" 'kasih'"", "" 'sepuluh'"", "" 'aplikasi'"", "" 'terbaik'"", "" 'pembelian'"", "" 'kebutuhan'"", "" 'medis'"", "" 'disat'"", "" 'darurat'"", "" 'rumah'"", "" 'bagus'"", "" 'masukan'"", "" 'tertawa'"", "" 'semoga'"", "" 'apotek'"", "" 'aplikasi'"", "" 'jarak'"", "" 'pickup'"", "" 'obat'""]",Pelayanan,netral
+5,"[""'puas'"", "" 'konsultasi'"", "" 'dokter'"", "" 'halodoc'"", "" 'pas'"", "" 'papua'"", "" 'susah'"", "" 'nebus'"", "" 'obat'"", "" 'tertawa'"", "" 'nunjukin'"", "" 'chat'"", "" 'obat'"", "" 'untung'"", "" 'tanda'"", "" 'tangan'""]",Pelayanan,negatif
+2,"[""'niat'"", "" 'instal'"", "" 'aplikasi'"", "" 'mempermudah'"", "" 'beli'"", "" 'obat'"", "" 'kondisi'"", "" 'sakit'"", "" 'kos'"", "" 'beli'"", "" 'estimasi'"", "" 'aplikasi'"", "" 'cocok'"", "" 'kondisi'"", "" 'urgent'"", "" 'beli'"", "" 'obat'"", "" 'orang'"", "" 'sakit'"", "" 'parah'"", "" 'terlanjur'"", "" 'wasalam'"", "" 'obat'"", "" 'mengedit'"", "" 'ulasan'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'diperbaiki'"", "" 'sistemnya'""]",Sistem,negatif
+3,"[""'selamat'"", "" 'siang'"", "" 'salam'"", "" 'telepon'"", "" 'mengatas'"", "" 'namakan'"", "" 'halodoc'"", "" 'biaya'"", "" 'claim'"", "" 'pengaktifan'"", "" 'biaya'"", "" 'bulanan'"", "" 'menyebut'"", "" 'nomor'"", "" 'rek'"", "" 'sistem'"", "" 'pemotongan'"", "" 'puluh'"", "" 'sembilan'"", "" 'ribu'"", "" 'mohon'"", "" 'konfirmasi'"", "" 'halodoc'"", "" 'takut'"", "" 'saldo'"", "" 'tepotong'"", "" 'terima'"", "" 'kasih'""]",Anekdot/Serbaneka,netral
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+4,"[""'konsultasi'"", "" 'dokter'"", "" 'nyaman'"", "" 'sat'"", "" 'keluhan'"", "" 'foto'"", "" 'langsung'"", "" 'area'"", "" 'sakit'"", "" 'pertanyan'"", "" 'dokter'"", "" 'detail'"", "" 'semoga'"", "" 'resep'"", "" 'cocok'"", "" 'mengatasi'"", "" 'keluhan'"", "" 'terima kasih'"", "" 'dok'""]",Pelayanan,positif
+5,"[""'praktis'"", "" 'oke'"", "" 'dokter'"", "" 'keluhan'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'aplikasi'"", "" 'terpercaya'"", "" 'chat'"", "" 'langsung'"", "" 'dokter'""]",Pelayanan,positif
+3,"[""'coba'"", "" 'kaji'"", "" 'vaksin'"", "" 'mitra'"", "" 'ojol'"", "" 'sejati'"", "" 'mitra'"", "" 'pakai'"", "" 'ojol'"", "" 'mencari'"", "" 'rezeki'"", "" 'gojek'"", "" 'grab'"", "" 'indriver'"", "" 'maxim'"", "" 'ntr'"", "" 'wajib'"", "" 'vaksin'"", "" 'mitran'"", "" 'repot'"", "" 'batalin'"", "" 'krj'"", "" 'vaksin'"", "" 'biar'"", "" 'mitra'"", "" 'vaksin'"", "" 'aparatur'"", "" 'pemerintah'""]",Anekdot/Serbaneka,negatif
+5,"[""'halo'"", "" 'dokter'"", "" 'anak'"", "" 'bayi'"", "" 'berusia'"", "" 'anak'"", "" 'rawat'"", "" 'rumah'"", "" 'sakit'"", "" 'hasil'"", "" 'rongsen'"", "" 'mengidap'"", "" 'penyakit'"", "" 'radang'"", "" 'paru'"", "" 'tolong'"", "" 'dokter'"", "" 'anak'"", "" 'sembuh'"", "" 'total'"", "" 'penyakit'"", "" 'trimaksih'""]",Anekdot/Serbaneka,netral
+5,"[""'respon'"", "" 'dokter'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'berguna'"", "" 'terima'"", "" 'kasih'"", "" 'mengadakan'"", "" 'kegiatan'"", "" 'vaksin'"", "" 'serentak'"", "" 'prambanan'"", "" 'sleman'"", "" 'terima'"", "" 'kasih'"", "" 'pemerintahan'"", "" 'diy'"", "" 'yogyakarta'"", "" 'sponsor'"", "" 'kegiatan'"", "" 'semoga'"", "" 'pembuatan'"", "" 'kegiatan'"", "" 'pahala'"", "" 'berlimpah'"", "" 'tuhan'"", "" 'maha'"", "" 'esa'"", "" 'terima'"", "" 'kasih'"", "" 'terbaik'"", "" 'regard'"", "" 'beny'""]",Pelayanan,positif
+2,"[""'posisi'"", "" 'pengambilan'"", "" 'obat'"", "" 'rumah'"", "" 'menungu'""]",Pelayanan,negatif
+1,"[""'janji'"", "" 'buka'"", "" 'pas'"", "" 'jam'"", "" 'dokter'"", "" 'ngak'"", "" 'balas'"", "" 'balas'"", "" 'tbtb'"", "" 'dibatalkan'"", "" 'tulisan'"", "" 'aplikasi'"", "" 'daring'"", "" 'mengecewakan'"", "" 'mendownload'"", "" 'butuh'"", "" 'mah'"", "" 'ngak'"", "" 'berguna'"", "" 'donasikan'"", "" 'menu'"", "" 'donasi'"", "" 'pilihan'"", "" 'pembayaran'"", "" 'saldo'"", "" 'halodoc'"", "" 'menunjukan'"", "" 'pelayanan'"", "" 'sebanding'"", "" 'aplikasi'"", "" 'sebelah'""]",Pelayanan,negatif
+1,"[""'halo'"", "" 'doc'"", "" 'klg'"", "" 'periksa'"", "" 'pacar'"", "" 'hasil'"", "" 'h'"", "" 'periksa'"", "" 'tanggal'"", "" 'maret'"", "" 'jam'"", "" 'puluh'"", "" 'drive'"", "" 'thru'"", "" 'kemayoran'"", "" 'tanggal'"", "" 'maret'"", "" 'jam'"", "" 'delapan'"", "" 'hsl'"", "" 'sih'"", "" 'butuh'"", "" 'hsl'"", "" 'cepat'"", "" 'pelayanan'"", "" 'pemeriksan'"", "" 'covid'"", "" 'dihalo'"", "" 'doc'"", "" 'menurun'"", "" 'iya'"", "" 'periksa'"", "" 'gratis'"", "" 'lho'""]",Pelayanan,negatif
+5,"[""'pengalaman'"", "" 'asyik'"", "" 'konsultasi'"", "" 'dokter'"", "" 'pilihan'""]",Pelayanan,positif
+1,"[""'mohon'"", "" 'maf'"", "" 'kasih'"", "" 'bintang'"", "" 'jelek'"", "" 'pelayanan'"", "" 'pesan'"", "" 'vitamin'"", "" 'tangal'"", "" 'estimasi'"", "" 'tangal'"", "" 'skrng'"", "" 'proses'"", "" 'tolong'"", "" 'customer service'"", "" 'telepon'"", "" 'chat'"", "" 'cek'"", "" 'cek'"", "" 'cek'"", "" 'pembatalan'"", "" 'pesanan'"", "" 'beli'"", "" 'e'"", "" 'comerce'"", "" 'saldo'"", "" 'tarik'"", "" 'rekening'"", "" 'tolong'"", "" 'tingkatkan'"", "" 'pelayanan'"", "" 'tolong'"", "" 'kirim'"", "" 'pesanan'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'terima'"", "" 'ksh'"", "" 'dokter'"", "" 'aplikasi'""]",Pelayanan,positif
+5,"[""'memudahkan'"", "" 'konsultasi'"", "" 'dokter'"", "" 'bertemu'"", "" 'langsung'""]",Pelayanan,positif
+5,"[""'konsultasi'"", "" 'keluhan'"", "" 'mudah'"", "" 'ribet'"", "" 'antre'"", "" 'rumah'"", "" 'sakit'""]",Pelayanan,positif
+1,"[""'dokter'"", "" 'gratis'"", "" 'iya'""]",Pelayanan,negatif
+5,"[""'tertolong'"", "" 'zaman'"", "" 'covid'"", "" 'takut'"", "" 'rumah'"", "" 'sakit'"", "" 'lho'"", "" 'konsultasi'"", "" 'hewan'"", "" 'peliharan'"", "" 'konsultasi'"", "" 'gigi'"", "" 'pokok'"", "" 'tertolong'"", "" 'terima'"", "" 'kasih'"", "" 'halo'"", "" 'doc'""]",Pelayanan,positif
+5,"[""'penjelasan'"", "" 'dokter'"", "" 'lengkap'"", "" 'ramah'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'halodoc'"", "" 'terbaik'"", "" 'diandalkan'""]",Anekdot/Serbaneka,positif
+5,"[""'malam'"", "" 'malam'"", "" 'sat'"", "" 'sakit'"", "" 'bingung'"", "" 'na'"", "" 'ke mana'"", "" 'halodoc'"", "" 'keluhan'"", "" 'obat'"", "" 'langsung'"", "" 'diantar'"", "" 'tertawa'"", "" 'kendala'"", "" 'pengiriman'"", "" 'kadang'"", "" 'driver'"", "" 'kontak'"", "" 'langsung'"", "" 'teleponya'""]",Pelayanan,negatif
+5,"[""'daring'"", "" 'sat'"", "" 'pilihan'"", "" 'aman'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'transaksi'"", "" 'biaya'"", "" 'permudah'"", "" 'iya'""]",Harga,negatif
+5,"[""'percakapan'"", "" 'dokter'"", "" 'arahan'"", "" 'bagus'""]",Pelayanan,positif
+5,"[""'ta'"", "" 'vaksin'"", "" 'csembilan'"", "" 'belas'"", "" 'tanggal'"", "" 'sembilan'"", "" 'maret'"", "" 'nol'"", "" 'daftar'"", "" 'vaksin'"", "" 'kode'"", "" 'kupon'"", "" 'dikirim'"", "" 'urus'"", "" 'terima'"", "" 'kasih'""]",Anekdot/Serbaneka,netral
+5,"[""'membantu'"", "" 'berkonsultasi'"", "" 'langsung'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'manteb'"", "" 'sih'"", "" 'dokter'"", "" 'susah'"", "" 'mahal'""]",Harga,positif
+2,"[""'bayar'"", "" 'dokter'"", "" 'sibuk'"", "" 'chat'"", "" 'ulang'"", "" 'digubris'"", "" 'nyapa'"", "" 'bilang'"", "" 'dokter'"", "" 'sibuk'"", "" 'gopay'"", "" 'kpotong'"", "" 'pengembalian'"", "" 'dana'"", "" 'mohon'"", "" 'diprtimbngkan'"", "" 'dokter'"", "" 'gubris'"", "" 'dilaporkan'"", "" 'sibuk'"", "" 'sedang apa'"", "" 'coba'"", "" 'berani'"", "" 'daftar'"", "" 'halodoc'"", "" 'risiko'"", "" 'nerima'"", "" 'permintan'"", "" 'konsultasi'"", "" 'pasien'"", "" 'manapun'"", "" 'donk'"", "" 'diemin'"", "" 'gajls'"", "" 'pengembalian dana'"", "" 'flexible'"", "" 'kali'"", "" 'xempat'"", "" 'jam'"", "" 'respon'"", "" 'sesi'"", "" 'berbayar'"", "" 'hak'"", "" 'pasien'"", "" 'jangn'"", "" 'makan'"", "" 'gaji'"", "" 'buta'"", "" 'chat'"", "" 'puluh'"", "" 'diam'"", "" 'diam'""]",Pelayanan,negatif
+1,"[""'tangal'"", "" 'delapan'"", "" 'maret'"", "" 'puluh'"", "" 'puluh'"", "" 'saldo'"", "" 'anjungan tunai mandiri'"", "" 'ambil'"", "" 'puluh'"", "" 'sembilan'"", "" 'nol'"", "" 'program'"", "" 'adakan'"", "" 'halodocter'"", "" 'kemarin'"", "" 'telepon'"", "" 'mengatasnamakan'"", "" 'customer service'"", "" 'halodocter'"", "" 'rugikan'"", "" 'berhenti'"", "" 'berhenti'"", "" 'langanan'""]",Pelayanan,negatif
+1,"[""'transaksi'"", "" 'gagal'"", "" 'saldo'"", "" 'kepotong'"", "" 'pas'"", "" 'diliat'"", "" 'riwayat'"", "" 'transaksi'""]",Sistem,negatif
+2,"[""'layanan'"", "" 'proses'"", "" 'cepat'"", "" 'catatan'"", "" 'pasien'"", "" 'status'"", "" 'gejala'"", "" 'covid'"", "" 'dokter'"", "" 'kasih'"", "" 'himbauan'"", "" 'mengasih'"", "" 'pil'"", "" 'tidur'"", "" 'sesuai'"", "" 'dosis'"", "" 'perlukan'"", "" 'orsng'"", "" 'sakit'"", "" 'butuh'"", "" 'istirahat'""]",Pelayanan,positif
+4,"[""'beli'"", "" 'obat'"", "" 'layanan'"", "" 'dokter'"", "" 'bagus'"", "" 'ganguan'"", "" 'iya'"", "" 'ganti'"", "" 'nomor'"", "" 'nomor'"", "" 'ganti'"", "" 'pakai'"", "" 'email'"", "" 'riwayat'"", "" 'transaksi'"", "" 'hilang'"", "" 'tertawa'"", "" 'aplikasi'""]",Pelayanan,negatif
+5,"[""'senang'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'cepat'"", "" 'respon'"", "" 'obat'"", "" 'langsung'"", "" 'diantar'"", "" 'resep'"", "" 'pelayanan'"", "" 'jam'"", "" 'dokter'"", "" 'informatif'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'halodoc'"", "" 'pembayaran'"", "" 'diperluas'"", "" 'iya'"", "" 'gopay'"", "" 'bca'"", "" 'mandiri'"", "" 'debit'"", "" 'maksud'"", "" 'ragu'"", "" 'cobain'"", "" 'aplikasi'"", "" 'dokter'"", "" 'langsung'"", "" 'pandemi'"", "" 'pembayaran'"", "" 'di mana'"", "" 'indomaret'"", "" 'alfamart'"", "" 'dan sebagainya'"", "" 'kota'"", "" 'akses'"", "" 'gampang'"", "" 'desa'"", "" 'susah'"", "" 'inti'"", "" 'ditingkatkan'"", "" 'mohon'""]",Sistem,negatif
+5,"[""'membantu'"", "" 'lanjut usia'"", "" 'biaya'"", "" 'kesehatan'"", "" 'terbatas'""]",Anekdot/Serbaneka,positif
+5,"[""'sat'"", "" 'konsultasi'"", "" 'dokter'"", "" 'tertawa'"", "" 'line'"", "" 'memudahkan'"", "" 'pilihan'"", "" 'dokter'"", "" 'range'"", "" 'biaya'"", "" 'disesuaikan'"", "" 'terima'"", "" 'kasih'"", "" 'halo'"", "" 'doc'""]",Pelayanan,positif
+4,"[""'aplikasi'"", "" 'membantu'"", "" 'kalangan'"", "" 'luas'"", "" 'terbatas'"", "" 'khusus'"", "" 'milenial'"", "" 'konsultasi'"", "" 'tipis'"", "" 'tipis'"", "" 'saran'"", "" 'muculkan'"", "" 'saldo'"", "" 'profile'"", "" 'pemilik'"", "" 'akun'"", "" 'permudah'"", "" 'mengisi'"", "" 'saldo'"", "" 'berbagi'"", "" 'bank'"", "" 'aplikasi'"", "" 'bayar'"", "" 'bayar'""]",Sistem,netral
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'bermanfat'"", "" 'orang'"", "" 'membutuhkan'"", "" 'bantuan'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'cangih'"", "" 'langsung'"", "" 'konsultasi'"", "" 'dokter'"", "" 'ahli'"", "" 'rumah'"", "" 'sakit'"", "" 'respon'"", "" 'cepat'"", "" 'dokter'"", "" 'membantu'"", "" 'membutuhkan'"", "" 'pelayanan'"", "" 'kesehatan'""]",Pelayanan,positif
+1,"[""'kali'"", "" 'janji'"", "" 'ravid'"", "" 'tutup'""]",Anekdot/Serbaneka,negatif
+1,"[""'aplikasi'"", "" 'ambil'"", "" 'antrian'"", "" 'daring'"", "" 'iya'"", "" 'aplikasi'"", "" 'terintegras'"", "" 'dita'"", "" 'hasil'"", "" 'cek'"", "" 'upayakan'"", "" 'laporan'"", "" 'laporan'"", "" 'laporan'"", "" 'laporan'"", "" 'sehat'"", "" 'ribet'"", "" 'halodoc'"", "" 'expetasi'"", "" 'sebenar'"", "" 'tujuan'"", "" 'utama'"", "" 'halodoc'"", "" 'boh'"", "" 'iya'"", "" 'fair'"", "" 'slogan'"", "" 'customer'"", "" 'klinik'"", "" 'bolak'"", "" 'na'"", "" 'hasil'"", "" 'test'"", "" 'sedang apa'"", "" 'pakai'"", "" 'daring'""]",Pelayanan,negatif
+5,"[""'semenjak'"", "" 'halodoc'"", "" 'terbantu'"", "" 'konsultasi'"", "" 'beli'"", "" 'obat'"", "" 'rumah'"", "" 'antre'"", "" 'rumah'"", "" 'sakit'"", "" 'apotek'"", "" 'enak'"", "" 'diskon'"", "" 'sesi'"", "" 'konsultasi'"", "" 'dokter'"", "" 'makasi'"", "" 'iya'"", "" 'halodoc'"", "" 'memudahkan'"", "" 'hidup'"", "" 'semoga'"", "" 'promo'"", "" 'sukses'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'mengalami'"", "" 'kekesalan'"", "" 'mendaftar'"", "" 'vaksinasi'"", "" 'lanjut usia'"", "" 'berhubung'"", "" 'lanjut usia'"", "" 'janji'"", "" 'tangal'"", "" 'vaksinasi'"", "" 'semingu'"", "" 'dibatalkan'""]",Pelayanan,negatif
+1,"[""'aplikasi'"", "" 'jelek'"", "" 'aktivasi'"", "" 'loading'"", "" 'terusan'"", "" 'diklik'""]",Sistem,negatif
+5,"[""'puas'"", "" 'bagus'"", "" 'ulasan'"", "" 'cocok'"", "" 'ramah'"", "" 'cocok'"", "" 'obat'""]",Pelayanan,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'konsultasi'"", "" 'halodoc'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'pelayanan'"", "" 'halo'"", "" 'doc'"", "" 'memudahkan'"", "" 'obat'"", "" 'keliling'"", "" 'apotek'"", "" 'lengkap'"", "" 'halodoc'"", "" 'solusi'"", "" 'terbaik'"", "" 'kelengkapan'"", "" 'obat'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pas'"", "" 'pesan'"", "" 'obat'"", "" 'darurat'"", "" 'butuh'"", "" 'enam'"", "" 'sedih'"", "" 'histori'"", "" 'perjalanan'"", "" 'paket'"", "" 'obat'"", "" 'kaya'"", "" 'menungu'"", "" 'update'"", "" 'terima kasih'"", "" 'tim'"", "" 'halodoc'"", "" 'cepat'"", "" 'merespon'"", "" 'kejelasan'""]",Pelayanan,negatif
+5,"[""'bermanfat'"", "" 'sat'"", "" 'anak'"", "" 'sakit'"", "" 'dimalam'"", "" 'rumah sakit'"", "" 'tertawa'"", "" 'chat'"", "" 'dokter'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'beres'"", "" 'pandemic'"", "" 'bgini'"", "" 'terima kasih'"", "" 'bantuan'"", "" 'dokter'"", "" 'terima kasih'"", "" 'aplikasi'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'cepat'"", "" 'konsultasi'"", "" 'terima kasih'"", "" 'halodock'""]",Pelayanan,positif
+5,"[""'halo'"", "" 'dokter'"", "" 'kamar'"", "" 'terpisahkan'"", "" 'dipakai'"", "" 'isolasi'"", "" 'mandiri'"", "" 'angota'"", "" 'keluarga'"", "" 'kena'"", "" 'covid'"", "" 'sembilan'"", "" 'belas'"", "" 'sembuh'"", "" 'kamar'"", "" 'disterilkan'"", "" 'dipakai'"", "" 'masuk'"", "" 'kamar'""]",Anekdot/Serbaneka,positif
+3,"[""'diperbarui'"", "" 'aplikasi'"", "" 'dibuka'""]",Sistem,negatif
+5,"[""'aplikasi'"", "" 'bermanfat'"", "" 'pembelian'"", "" 'obat'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'bagus'"", "" 'informasi'"", "" 'iya'"", "" 'menolong'""]",Pelayanan,positif
+5,"[""'senang'"", "" 'berobat'"", "" 'konsultasi'"", "" 'doktet'"", "" 'shanti'"", "" 'tandayu'"", "" 'internist'"", "" 'ramah'"", "" 'bertele'"", "" 'obat'"", "" 'arahan'"", "" 'alhamdulilah'"", "" 'isk'"", "" 'membaik'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'"", "" 'bermanfat'""]",Pelayanan,positif
+3,"[""'driver'"", "" 'gojek'"", "" 'kemarin'"", "" 'pesan'"", "" 'tuk'"", "" 'vaksin'"", "" 'covid'"", "" 'bawa'"", "" 'orang'"", "" 'lanjut usia'"", "" 'mendapatkn'"", "" 'vaksin'"", "" 'tnp'"", "" 'membawa'"", "" 'orang'"", "" 'lanjut usia'""]",Anekdot/Serbaneka,netral
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'di tengah'"", "" 'pandemi'"", "" 'covidsembilan'"", "" 'belas'"", "" 'rumah'"", "" 'tingal'"", "" 'memgunakan'"", "" 'aplikasi'"", "" 'terima kasih'"", "" 'halodoc'"", "" 'tingkatkan'"", "" 'kualitas'"", "" 'iya'""]",Anekdot/Serbaneka,positif
+5,"[""'halodoc'"", "" 'janji'"", "" 'dokter'"", "" 'vaksin'"", "" 'manula'"", "" 'drive'"", "" 'thru'"", "" 'mudah'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'berpartisipasi'"", "" 'penangulangan'"", "" 'covid'"", "" 'sembilan'"", "" 'belas'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'memuaskan'"", "" 'informasi'"", "" 'pelayanan'""]",Pelayanan,positif
+5,"[""'kasih'"", "" 'bintang'"", "" 'kendala'"", "" 'pembayay'"", "" 'gopay'"", "" 'penyelesaian'"", "" 'tim'"", "" 'halodoc'"", "" 'cepat'"", "" 'membantu'"", "" 'terima kasih'"", "" 'tim'"", "" 'halodoc'""]",Sistem,positif
+5,"[""'beruntung'"", "" 'pu'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'antre'"", "" 'antre'"", "" 'rumah sakit'"", "" 'klinik'"", "" 'obat'"", "" 'obat'"", "" 'rekomendasikan'"", "" 'manjur'""]",Pelayanan,positif
+3,"[""'vaksin'"", "" 'sertifikat'"", "" 'vaksin'"", "" 'iya'"", "" 'admin'""]",Anekdot/Serbaneka,netral
+5,"[""'aplikasi'"", "" 'bagus'"", "" 'pelayanan'"", "" 'konsultasi'"", "" 'cepat'"", "" 'respon'"", "" 'apotek'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'pemesanan'"", "" 'obat'"", "" 'fitur'"", "" 'chat'"", "" 'tolong'"", "" 'dialihkan'"", "" 'fitur'"", "" 'sms'"", "" 'butuh'"", "" 'pulsa'"", "" 'dialihkan'"", "" 'fitur'"", "" 'gojek'"", "" 'fitur'"", "" 'chat'"", "" 'aplikasi'"", "" 'halo'"", "" 'doc'"", "" 'konfirmasi'"", "" 'driver'"", "" 'pakai'"", "" 'pulsa'""]",Sistem,negatif
+5,"[""'waw'"", "" 'dokter'"", "" 'ramah'"", "" 'diskusi'"", "" 'enak'"", "" 'lancar'"", "" 'salut'"", "" 'ngak'"", "" 'sangka'"", "" 'bagus'"", "" 'ngak'"", "" 'jam'"", "" 'obat'"", "" 'ditangan'""]",Pelayanan,positif
+1,"[""'asli'"", "" 'parah'"", "" 'aplikasi'"", "" 'niat'"", "" 'mempercepat'"", "" 'urusan'"", "" 'rapid'"", "" 'antigen'"", "" 'terkendala'"", "" 'aplikasi'"", "" 'sia'"", "" 'sia'"", "" 'berharap'"", "" 'berharap'"", "" 'berangkat'"", "" 'kerja'"", "" 'parah'"", "" 'dana'"", "" 'sekr'"", "" 'ng'"", "" 'dikembalikan'"", "" 'halodoc'""]",Pelayanan,negatif
+5,"[""'kali'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'sat'"", "" 'konsultasi'"", "" 'dokter'"", "" 'bermanfat'"", "" 'sat'"", "" 'kondisi'"", "" 'keluhan'"", "" 'salah'"", "" 'diagnosis'""]",Pelayanan,positif
+5,"[""'cepat'"", "" 'hemat'"", "" 'efesien'"", "" 'janji'"", "" 'vaksinasi'"", "" 'covidsembilan'"", "" 'belas'"", "" 'lanjut usia'"", "" 'aplikasi'"", "" 'membantu'"", "" 'tingal'"", "" 'janji'"", "" 'vaksinasi'"", "" 'sukses'"", "" 'amanah'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'halo'"", "" 'doc'"", "" 'sat'"", "" 'pandemi'"", "" 'aman'"", "" 'kesini'"", "" 'konsultasi'"", "" 'dokter'"", "" 'senior'"", "" 'langanan'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+4,"[""'bagus'"", "" 'kadang'"", "" 'obat'"", "" 'tersedia'"", "" 'apotek'"", "" 'terdekat'"", "" 'pesan'"", "" 'daring'"", "" 'semoga'"", "" 'ke depan'""]",Pelayanan,negatif
+1,"[""'sumpah'"", "" 'chat'"", "" 'dokter'"", "" 'pakai'"", "" 'bayar'"", "" 'enga'"", "" 'aplikasi'"", "" 'membantu'"", "" 'orang'"", "" 'susah'"", "" 'konsultasi'"", "" 'bayar'"", "" 'kecuali'"", "" 'beli'"", "" 'obat'"", "" 'periksa'"", "" 'oke'"", "" 'chat'"", "" 'bayar'"", "" 'membantu'"", "" 'kali'""]",Pelayanan,negatif
+5,"[""'bermanfat'"", "" 'aplikasi'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+1,"[""'aplikasi'"", "" 'jalan'"", "" 'merespon'"", "" 'menyebalkan'""]",Sistem,negatif
+5,"[""'konsultasi'"", "" 'di sini'"", "" 'memuaskan'"", "" 'pergi'"", "" 'apotek'"", "" 'ucapkan'"", "" 'terima'"", "" 'kasi'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'semoga'"", "" 'halodoc'"", "" 'manfat'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'aplikasi'"", "" 'respon'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'ngebantu'"", "" 'disat'"", "" 'urgent'"", "" 'long'"", "" 'wekend'"", "" 'terima kasih'"", "" 'dokter'"", "" 'stand'"", "" 'beli'"", "" 'wekend'"", "" 'chat'"", "" 'asik'"", "" 'ramah'"", "" 'informasi'"", "" 'akurat'""]",Pelayanan,positif
+5,"[""'informasi'"", "" 'mudah'"", "" 'terjawab'""]",Pelayanan,positif
+1,"[""'aplikasi'"", "" 'berbayar'"", "" 'heheheheh'"", "" 'aplikasi'"", "" 'bagus'"", "" 'nyobain'"", "" 'diliat'"", "" 'download'"", "" 'sih'"", "" 'bagus'"", "" 'pas'"", "" 'download'"", "" 'berbayar'"", "" 'langsung'"", "" 'kecewa'"", "" 'sih'"", "" 'tolong'"", "" 'dikembangin'"", "" 'biar'"", "" 'aplikasi'"", "" 'berbayar'"", "" 'gratis'"", "" 'aplikasi'"", "" 'sblh'"", "" 'kasih'"", "" 'bintang'"", "" 'fitur'"", "" 'ta'"", "" 'dokter'"", "" 'gratis'"", "" 'kasih'"", "" 'bintang'""]",Anekdot/Serbaneka,negatif
+1,"[""'membantu'"", "" 'apan'"", "" 'ribet'"", "" 'bayar'"", "" 'ribet'"", "" 'aplikasi'"", "" 'berguna'"", "" 'sumpah'"", "" 'sih'"", "" 'ngehack'"", "" 'aplikasi'"", "" 'sumpah'"", "" 'janji'"", "" 'rapid'"", "" 'persulit'""]",Pelayanan,negatif
+5,"[""'berguna'"", "" 'efesien'"", "" 'memesan'"", "" 'obat'"", "" 'dimanapun'"", "" 'cari'"", "" 'apotek'"", "" 'menyediakan'"", "" 'obat'"", "" 'cinta'"", "" 'this'"", "" 'kembangkan'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pelayanan'"", "" 'ramah'"", "" 'bagus'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'puas'"", "" 'dokter'"", "" 'dokter'"", "" 'ramah'"", "" 'ramah'"", "" 'diaknosa'"", "" 'obat'"", "" 'alhamdulilah'"", "" 'cocok'"", "" 'semoga'"", "" 'dokter'"", "" 'sehat'"", "" 'amin'""]",Pelayanan,positif
+5,"[""'pengirim'"", "" 'ramah'"", "" 'sesuai'"", "" 's'"", "" 'o'"", "" 'p'"", "" 'pemesan'"", "" 'salut'"", "" 'drivernya'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'dimasa'"", "" 'pandemi'"", "" 'konsultasi'"", "" 'obat'"", "" 'rumah'"", "" 'serasa'"", "" 'pu'"", "" 'dokter'"", "" 'pribadi'""]",Pelayanan,positif
+2,"[""'asalamualaikum'"", "" 'maf'"", "" 'berta'"", "" 'habis'"", "" 'unduh'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'playstore'"", "" 'buka'"", "" 'aplikasi'"", "" 'masuk'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'klik'"", "" 'chat'"", "" 'dokter'"", "" 'lihat'"", "" 'di situ'"", "" 'pilihan'"", "" 'dokter'"", "" 'chat'"", "" 'konsultasi'"", "" 'kesehatan'"", "" 'sebenar'"", "" 'konsultasi'"", "" 'kesehatan'"", "" 'dokter'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'membayar'"", "" 'chat'"", "" 'konsultasi'"", "" 'dokter'"", "" 'chat'"", "" 'halodoc'""]",Anekdot/Serbaneka,netral
+5,"[""'solusi'"", "" 'praktis'"", "" 'biaya'"", "" 'murah'"", "" 'dokter'"", "" 'responsif'""]",Harga,positif
+1,"[""'daring'"", "" 'sesi'"", "" 'petunjuk'"", "" 'konsultasi'"", "" 'beli'"", "" 'text'"", "" 'vc'"", "" 'buang'"", "" 'buang'"", "" 'uang'"", "" 'bayar'"", "" 'konsultasi'""]",Harga,negatif
+1,"[""'uang'"", "" 'diterima'"", "" 'status'"", "" 'tes'"", "" 'antigen'"", "" 'dikonfirmasi'"", "" 'dikonfirmasi'"", "" 'nerima'"", "" 'uang'"", "" 'iya'"", "" 'ngelayanin'"", "" 'customer'"", "" 'respon'"", "" 'lancar'"", "" 'lancar'"", "" 'kali'"", "" 'kecewa'"", "" 'berat'""]",Pelayanan,negatif
+5,"[""'aplikasi'"", "" 'halodoc'"", "" 'membantu'"", "" 'keluarga'"", "" 'membeli'"", "" 'obat'"", "" 'obatan'"", "" 'vitamin'"", "" 'tes'"", "" 'pacar'"", "" 'pandemic'"", "" 'mantap'"", "" 'deh'"", "" 'pokok'""]",Pelayanan,positif
+1,"[""'aplikasi'"", "" 'enak'"", "" 'sih'"", "" 'scheduling'"", "" 'dokter'"", "" 'antre'"", "" 'rumah sakit'"", "" 'Cuma'"", "" 'pelayanan'"", "" 'mengecewakan'"", "" 'hasil'"", "" 'tes'"", "" 'infokan'"", "" 'sms'"", "" 'selesai'"", "" 'sat'"", "" 'hasil'"", "" 'tes'"", "" 'hardcopy'"", "" 'softcopy'"", "" 'ambil'"", "" 'tes'"", "" 'media'"", "" 'chat'"", "" 'customer service'"", "" 'respon'"", "" 'lambat'"", "" 'respon'"", "" 'menit'"", "" 'memutuskan'"", "" 'jalur'"", "" 'komunikasi'"", "" 'ulang'"", "" 'merespon'"", "" 'lambat'"", "" 'customer service'"", "" 'konfirmasi'"", "" 'konfirmasi'"", "" 'terkait'"", "" 'arti'"", "" 'sla'"", "" 'sisi'"", "" 'halodoc'"", "" 'responsif'""]",Pelayanan,negatif
+5,"[""'dokter'"", "" 'co'"", "" 'operative'"", "" 'nyaman'"", "" 'konsultasi'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sulit'"", "" 'rumah'""]",Anekdot/Serbaneka,positif
+5,"[""'keren'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'membantu'"", "" 'sat'"", "" 'hectic'"", "" 'khusus'"", "" 'terima'"", "" 'kasih'"", "" 'fen'"", "" 'ramah'"", "" 'sat'"", "" 'konsultasi'"", "" 'resep'"", "" 'cocok'""]",Pelayanan,positif
+1,"[""'halo'"", "" 'halodoc'"", "" 'iwan'"", "" 'setiawan'"", "" 'be'"", "" 'ribu'"", "" 'enam'"", "" 'puluh'"", "" 'delapan'"", "" 'ag'"", "" 'salah'"", "" 'driver'"", "" 'gojek'"", "" 'bandar'"", "" 'lampung'"", "" 'konfirmasi'"", "" 'orderan'"", "" 'halodoc'"", "" 'apotek'"", "" 'jesaya'"", "" 'farma'"", "" 'orderan'"", "" 'pengambilan'"", "" 'obat'"", "" 'harap'"", "" 'menungu'"", "" 'barang'"", "" 'persiapkan'"", "" 'obat'"", "" 'pemesanan'"", "" 'tersedia'"", "" 'aplikasi'"", "" 'gojek'"", "" 'jalankan'"", "" 'holodoc'"", "" 'pemesanan'"", "" 'gojek'"", "" 'barang'"", "" 'driver'"", "" 'tingal'"", "" 'bawa'"", "" 'barang'"", "" 'menjalankan'"", "" 'orderan'"", "" 'berdasarkan'"", "" 'konfirmasi'"", "" 'pelangan'"", "" 'apotek'"", "" 'apl'""]",Anekdot/Serbaneka,negatif
+2,"[""'niat'"", "" 'make'"", "" 'aplikasi'"", "" 'cepat'"", "" 'rumah'"", "" 'nyata'"", "" 'apotek'"", "" 'apotek'"", "" 'bumn'"", "" 'swasta'"", "" 'diskitar'"", "" 'kali'"", "" 'fitur'"", "" 'ngebuat'"", "" 'pembeliatau'"", "" 'driver'"", "" 'milih'"", "" 'apotek'"", "" 'terdekat'"", "" 'pakai'"", "" 'manual'"", "" 'nahan'"", "" 'sakit'"", "" 'posisi'"", "" 'kota'""]",Pelayanan,negatif
+1,"[""'chat'"", "" 'berbayar'"", "" 'lebih baik'"", "" 'pakai'"", "" 'oke'"", "" 'gogle'"", "" 'gratis'""]",Pelayanan,negatif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'metode'"", "" 'pembayaran'"", "" 'tambahin'"", "" 'pembesaran'"", "" 'cash'"", "" 'tingkatkan'"", "" 'sukses'"", "" 'halodoc'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,negatif
+5,"[""'bagus'"", "" 'puas'"", "" 'halodoc'"", "" 'petugas'"", "" 'ramah'"", "" 'memahami'"", "" 'dibidang'"", "" 'kepemilikan'"", "" 'halodoc'"", "" 'sehinga'"", "" 'kustomer'"", "" 'layani'"", "" 'ramah'"", "" 'kustomer'"", "" 'merasakan'"", "" 'puas'"", "" 'halodoc'"", "" 'upgrade'"", "" 'bidang'"", "" 'kedokteran'"", "" 'update'"", "" 'terbaru'"", "" 'medicine'"", "" 'informasi'"", "" 'virus'"", "" 'corona'"", "" 'virus'"", "" 'vaksin'"", "" 'umur'"", "" 'servis'"", "" 'drivethru'"", "" 'dimudahkan'"", "" 'pengajuan'"", "" 'sertifikat'"", "" 'hasil'"", "" 'harga'"", "" 'terjangkau'""]",Anekdot/Serbaneka,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'halodoc'"", "" 'membntu'"", "" 'era'"", "" 'pandemi'"", "" 'ribet'"", "" 'rumah sakit'"", "" 'konsultasi'"", "" 'diam'"", "" 'rumah'"", "" 'tingal'"", "" 'chat'"", "" 'dokter'"", "" 'ramah'"", "" 'responsif'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pademi'""]",Anekdot/Serbaneka,positif
+3,"[""'membantu'"", "" 'konsultasi'"", "" 'kesehatan'""]",Pelayanan,positif
+3,"[""'selamat'"", "" 'malam'"", "" 'mohon'"", "" 'maf'"", "" 'berta'"", "" 'halodoc'"", "" 'berbayar'"", "" 'konsultasi'"", "" 'salah'"", "" 'dokter'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'terima kasih'""]",Pelayanan,netral
+5,"[""'mencari'"", "" 'obat'"", "" 'gampang'"", "" 'pelayanan'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'sabar'"", "" 'akurat'"", "" 'terima kasih'"", "" 'dok'"", "" 'bosen'"", "" 'ya'"", "" 'dok'"", "" 'kali'"", "" 'kesehatan'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'anak'"", "" 'anak'"", "" 'keluarga'"", "" 'sehat'"", "" 'berangkat'"", "" 'klinik'"", "" 'langsung'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+1,"[""'uang'"", "" 'pengembalian dana'"", "" 'juta'"", "" 'pembatalan'"", "" 'pacar'"", "" 'dikirim'"", "" 'tangal'"", "" 'februari'"", "" 'februari'"", "" 'status'"", "" 'proses'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'musim'"", "" 'pandemi'""]",Anekdot/Serbaneka,negatif
+5,"[""'alhamdulilah'"", "" 'dokter'"", "" 'ramah'"", "" 'puas'"", "" 'berkeluh'"", "" 'kesah'"", "" 'biaya'"", "" 'murah'"", "" 'di rumah'"", "" 'memudahkan'"", "" 'diksi'"", "" 'resep'"", "" 'dikasi'"", "" 'penjelasan'"", "" 'detail'"", "" 'bayar'"", "" 'konsultasi'"", "" 'diskon'"", "" 'terima kasih'"", "" 'so'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'disat'"", "" 'pandemi'"", "" 'dokter'"", "" 'dokter'"", "" 'bagus'"", "" 'obat'"", "" 'obatan'"", "" 'efektif'"", "" 'apalagisuka'"", "" 'disc'"", "" 'konsultasi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'sat'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'membantu'"", "" 'keluarga'"", "" 'setahun'"", "" 'mengunakan'"", "" 'halodoc'"", "" 'alhamdulilah'"", "" 'hasiat'"", "" 'obat'"", "" 'obatan'"", "" 'kasih'"", "" 'bagus'"", "" 'bagus'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'harga'"", "" 'konsultasi'"", "" 'bersahabat'"", "" 'dokter'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'respo'"", "" 'cepat'"", "" 'direkomendasikan'"", "" 'bersyukur'"", "" 'halodoc'"", "" 'repot'"", "" 'repot'"", "" 'kerumah'"", "" 'sakit'"", "" 'obat'"", "" 'langsung'"", "" 'dikirim'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'membantu'"", "" 'respon'"", "" 'dokter'"", "" 'cepat'"", "" 'rumah sakit'"", "" 'tertawa'"", "" 'konsultasi'"", "" 'obat'"", "" 'dikirim'"", "" 'rumah'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'rumah'"", "" 'beli'"", "" 'obat'"", "" 'anak'"", "" 'sakit'"", "" 'suruh'"", "" 'terima kasih'"", "" 'aplikasi'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'konsultasi'"", "" 'kesehatan'""]",Pelayanan,positif
+4,"[""'pakai'"", "" 'aplk'"", "" 'halodoc'"", "" 'bingung'"", "" 'konsultasi'"", "" 'doc'"", "" 'ramah'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'senang'"", "" 'deh'"", "" 'aplikasi'"", "" 'mempermudah'"", "" 'sehat'"", "" 'konsultasi'"", "" 'daring'"", "" 'disat'"", "" 'kondisi'"", "" 'pandemi'""]",Pelayanan,positif
+5,"[""'pertanyan'"", "" 'kesehatan'"", "" 'konsultasi'"", "" 'dokter'"", "" 'dokter'"", "" 'ramah'"", "" 'ramah'"", "" 'jawabanya'""]",Pelayanan,positif
+5,"[""'anjuran'"", "" 'kasih'"", "" 'obat'"", "" 'tips'"", "" 'berguna'""]",Pelayanan,positif
+5,"[""'trimaksih'"", "" 'mas'"", "" 'amirul'"", "" 'cepat'"", "" 'merespon'"", "" 'surat'"", "" 'bagus'"", "" 'pekerjaan'"", "" 'man'"", "" 'kesulitan'"", "" 'aktifkan'"", "" 'lokasi'"", "" 'login'"", "" 'tolong'"", "" 'dibantu'"", "" 'senoari'""]",Sistem,negatif
+5,"[""'mantap'"", "" 'secepat'"", "" 'kilat'"", "" 'penjelasan'"", "" 'detail'""]",Anekdot/Serbaneka,positif
+5,"[""'ramah'"", "" 'ramah'"", "" 'mantapo'"", "" 'selaumemberikan'"", "" 'penjelasan'"", "" 'butuhkan'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'kondisi'"", "" 'covid'""]",Anekdot/Serbaneka,positif
+4,"[""'maf'"", "" 'ta'"", "" 'rapid'"", "" 'antigen'"", "" 'kemayoran'"", "" 'metode'"", "" 'pembayaran'"", "" 'pakai'"", "" 'anjungan tunai mandiri'"", "" 'bri'"", "" 'terima kasih'""]",Anekdot/Serbaneka,netral
+5,"[""'dokter'"", "" 'ramah'"", "" 'penjelasan'"", "" 'akurat'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'dok'"", "" 'semoga'"", "" 'bermanfat'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'mantap'"", "" 'murah'"", "" 'terima kasih'""]",Harga,positif
+5,"[""'membantu'"", "" 'bermanfat'"", "" 'disat'"", "" 'pandemi'"", "" 'obat'"", "" 'dianjurkan'"", "" 'cepat'"", "" 'menyembuhkan'"", "" 'sesuai'"", "" 'penyakit'"", "" 'sasaran'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'mantap'"", "" 'konsultasi'"", "" 'jam'"", "" 'nol'"", "" 'sepuluh'"", "" 'obat'"", "" 'langsung'"", "" 'jam'"", "" 'sebelas'"", "" 'aplikasi'"", "" 'membantu'"", "" 'semoga'"", "" 'obat'"", "" 'cocok'""]",Pelayanan,positif
+5,"[""'dokter'""]",Pelayanan,positif
+1,"[""'pembayaran'"", "" 'ovo'"", "" 'dana'"", "" 'iya'""]",Anekdot/Serbaneka,netral
+5,"[""'bagus'"", "" 'kasih'"", "" 'informasi'"", "" 'menarik'""]",Pelayanan,positif
+5,"[""'mantap'"", "" 'murah'"", "" 'konsultasi'"", "" 'dokter'"", "" 'bayar'"", "" 'gopay'""]",Harga,positif
+5,"[""'membantu'"", "" 'pengalaman'""]",Pelayanan,positif
+5,"[""'penanganan'"", "" 'suka'"", "" 'panik'"", "" 'self'"", "" 'diagnose'"", "" 'berta'"", "" 'langsung'"", "" 'ahli'"", "" 'teman-teman'""]",Pelayanan,positif
+5,"[""'pemesanan'"", "" 'pengiriman'"", "" 'obat'"", "" 'cepat'"", "" 'membantu'"", "" 'keadan'"", "" 'mendesak'"", "" 'ayah'"", "" 'obat'"", "" 'jantung'"", "" 'secepat'"", "" 'jam'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'mantap'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'bagus'"", "" 'dokter'"", "" 'respon'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'pelayanan'"", "" 'hasil'"", "" 'cepat'"", "" 'diterima'"", "" 'customer'""]",Pelayanan,positif
+5,"[""'chat'"", "" 'dokter'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'praktis'"", "" 'membantu'"", "" 'terima kasih'""]",Anekdot/Serbaneka,positif
+3,"[""'w'"", "" 'kirim'"", "" 'mata'"", "" 'm'"", "" 'yun'"", "" 'ukm'"", "" 'j'"", "" 'mi'""]",Anekdot/Serbaneka,netral
+5,"[""'puas'"", "" 'halodoc'"", "" 'cepat'"", "" 'tangap'""]",Anekdot/Serbaneka,positif
+4,"[""'berbayar'"", "" 'gratis'"", "" 'na'"", "" 'obat'"", "" 'batuk'"", "" 'pilek'"", "" 'terbaik'"", "" 'dijual'"", "" 'warung'"", "" 'ngak'"", "" 'paham'"", "" 'perbedan'"", "" 'obat'"", "" 'lumayan'"", "" 'lihat'"", "" 'dokter'"", "" 'cantik'"", "" 'pengalaman'"", "" 'lulusan'"", "" 'bintang'"", "" 'pas'""]",Pelayanan,negatif
+5,"[""'terima kasih'"", "" 'dokter'"", "" 'uji'"", "" 'asiah'"", "" 'm'"", "" 'sc'"", "" 'dokter'"", "" 'ramah'"", "" 'penjelasan'"", "" 'senang'"", "" 'konsultasi'"", "" 'bu'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'sedang apa'"", "" 'mengantri'"", "" 'klinik'"", "" 'rumah'"", "" 'sakit'"", "" 'dokter'"", "" 'lebih baik'"", "" 'halodoc'"", "" 'tingal'"", "" 'klik'"", "" 'konsultasi'"", "" 'keluhan'"", "" 'tungu'"", "" 'obat'"", "" 'beres'"", "" 'halodoc'"", "" 'keren'"", "" 'terima kasih'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+2,"[""'bintang'"", "" 'pilihan'"", "" 'pembayaran'"", "" 'terbatas'"", "" 'dievaluasi'"", "" 'pilihan'"", "" 'pembayaran'"", "" 'linkaja'"", "" 'transfer'"", "" 'mengunakan'"", "" 'rekening'"", "" 'virtual'""]",Sistem,negatif
+3,"[""'paket'"", "" 'pertangung'"", "" 'terima kasih'"", "" 'dana'"", "" 'diganti'"", "" 'proses'""]",Pelayanan,negatif
+2,"[""'sat'"", "" 'bintang'"", "" 'coba'"", "" 'masuk'"", "" 'halodoc'"", "" 'langsung'"", "" 'sinyal'"", "" 'telepon genggam'"", "" 'mendukung'""]",Sistem,negatif
+5,"[""'alhamdulilah'"", "" 'konsultasi'"", "" 'langsung'"", "" 'dokter'"", "" 'spesialis'"", "" 'semoga'"", "" 'sukses'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'konsultasi'"", "" 'memuaskan'"", "" 'lumayan'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'penolong'"", "" 'user'"", "" 'friendly'""]",Sistem,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'kondisi'"", "" 'dtng'"", "" 'rumah'"", "" 'sakit'"", "" 'pasien'"", "" 'aman'"", "" 'sehat'"", "" 't'"", "" 'jaga'"", "" 'terima'"", "" 'kasih'"", "" 'halo'"", "" 'doc'"", "" 'pertahankan'"", "" 'respon'"", "" 'cepat'"", "" 'dokter'""]",Pelayanan,positif
+1,"[""'konsultasi'"", "" 'pakai'"", "" 'bayar'"", "" 'kaya'"", "" 'lebih baik'"", "" 'langsung'"", "" 'rumah sakit'"", "" 'langsung'"", "" 'kasih'"", "" 'obat'"", "" 'buka'"", "" 'membantu'"", "" 'inimah'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'disat'"", "" 'urgent'"", "" 'membutuhkan'"", "" 'obat'"", "" 'malam'"", "" 'haripun'"", "" 'chat'"", "" 'dokter'"", "" 'spesialis'"", "" 'obat'"", "" 'cepat'"", "" 'terima kasih'"", "" 'gosend'""]",Pelayanan,positif
+1,"[""'kode'"", "" 'voucher'"", "" 'bilang'"", "" 'invalid'""]",Anekdot/Serbaneka,netral
+5,"[""'proses'"", "" 'mudah'"", "" 'cepat'"", "" 'pemesanan'"", "" 'obat'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'mudah'"", "" 'konsultasi'"", "" 'dokter'"", "" 'semoga'"", "" 'sakit'"", "" 'sembuh'"", "" 'amin'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sakit'"", "" 'mag'"", "" 'kosan'"", "" 'berjalan'"", "" 'apotek'"", "" 'pesan'"", "" 'halodoc'"", "" 'beli'"", "" 'gojek'"", "" 'puji'"", "" 'tuhan'"", "" 'langsung'"", "" 'minum'"", "" 'obat'"", "" 'sembuh'"", "" 'untung'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'bermanfat'"", "" 'teratas'""]",Anekdot/Serbaneka,positif
+5,"[""'praktis'"", "" 'dokter'"", "" 'pelayanan'"", "" 'ramah'"", "" 'oke'""]",Pelayanan,positif
+5,"[""'praktis'"", "" 'puas'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'halodoc'"", "" 'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'hamil'"", "" 'puas'"", "" 'respon'"", "" 'ramah'"", "" 'dokter'"", "" 'dokter'"", "" 'halodoc'"", "" 'terbaik'""]",Anekdot/Serbaneka,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'setidak'"", "" 'apotek'"", "" 'pesan'"", "" 'obat'"", "" 'rutin'"", "" 'suami'"", "" 'semoga'"", "" 'smakin'"", "" 'bagus'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'konsultasi'"", "" 'dokter'"", "" 'antre'"", "" 'pembelian'"", "" 'obat'"", "" 'mudah'"", "" 'langsung'"", "" 'diantar'"", "" 'rumah'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'tangap'"", "" 'cepat'"", "" 'respon'""]",Pelayanan,positif
+2,"[""'halo'"", "" 'doc'"", "" 'cal'"", "" 'center'"", "" 'halo'"", "" 'dokter'"", "" 'menelepon'"", "" 'menawarkan'"", "" 'prodak'"", "" 'unlimited'"", "" 'perbulan'"", "" 'puluh'"", "" 'sembilan'"", "" 'nol'"", "" 'sistem'"", "" 'auto'"", "" 'debit'"", "" 'fasilitas'"", "" 'bebas'"", "" 'chat'"", "" 'dokter'"", "" 'fitur'"", "" 'aplikasi'"", "" 'berubah'"", "" 'tarif'"", "" 'fre'"", "" 'ulasan'"", "" 'lengkap'""]",Sistem,negatif
+5,"[""'dokter'"", "" 'balas'"", "" 'cepat'"", "" 'ramah'""]",Pelayanan,positif
+3,"[""'halo'"", "" 'doc'"", "" 'barusan'"", "" 'telepon'"", "" 'mengatas'"", "" 'namakan'"", "" 'halodoc'"", "" 'email'"", "" 'pribadi'"", "" 'data'"", "" 'nmor'"", "" 'rekening'"", "" 'anjungan tunai mandiri'"", "" 'bner'"", "" 'halodoc'"", "" 'mohon'"", "" 'informasi'"", "" 'bner'"", "" 'iya'"", "" 'bong'"", "" 'data'"", "" 'anjungan tunai mandiri'"", "" 'membawa'"", "" 'kepihak'"", "" 'ulasan'"", "" 'lengkap'""]",Anekdot/Serbaneka,negatif
+5,"[""'bingung'"", "" 'biaya'"", "" 'penanganan'"", "" 'biaya'"", "" 'ongkos kirim'"", "" 'tidak tahu'"", "" 'biaya'"", "" 'penanganan'"", "" 'ongkos kirim'"", "" 'tertawa'"", "" 'jatoh'"", "" 'murah'"", "" 'tengkyu'"", "" 'halodoc'""]",Harga,positif
+1,"[""'respon'"", "" 'customer service'"", "" 'lambat'"", "" 'keluhan'""]",Pelayanan,negatif
+3,"[""'pesan'"", "" 'obat'"", "" 'susah'"", "" 'mencari'"", "" 'driver'"", "" 'pesan'"", "" 'ofline'"", "" 'sih'"", "" 'langsung'"", "" 'apotek'"", "" 'kasih'"", "" 'lihat'"", "" 'resep'""]",Pelayanan,negatif
+5,"[""'mantap'"", "" 'konsultasi'"", "" 'dokter'"", "" 'enak'""]",Pelayanan,positif
+2,"[""'mf'"", "" 'download'"", "" 'aplikasi'"", "" 'pingn'"", "" 'gejala'"", "" 'sakit'"", "" 'alami'"", "" 'kenakan'"", "" 'biaya'"", "" 'bulanan'""]",Anekdot/Serbaneka,negatif
+5,"[""'alhamdulilah'"", "" 'terbantu'"", "" 'konsultasi'"", "" 'penyakit'"", "" 'obat'"", "" 'terima'""]",Pelayanan,positif
+5,"[""'alhamdulilah'"", "" 'aplikasi'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'serba'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'pagi'"", "" 'pagi'"", "" 'konsultasi'"", "" 'bu'"", "" 'dokter'"", "" 'cantik'"", "" 'diagnosis'"", "" 'resep'"", "" 'terjangkau'"", "" 'bahasa'"", "" 'ramah'"", "" 'terima'"", "" 'kasih'"", "" 'iya'"", "" 'dok'""]",Pelayanan,positif
+5,"[""'halodoc'"", "" 'map'"", "" 'sebelumnyah'"", "" 'ta'"", "" 'mingu'"", "" 'hidung'"", "" 'mencium'"", "" 'bau'"", "" 'coba'"", "" 'doc'""]",Anekdot/Serbaneka,netral
+5,"[""'rekomendasi'"", "" 'didownload'"", "" 'kesulitan'"", "" 'mencari'"", "" 'membeli'"", "" 'obat'"", "" 'dibutuhkan'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'mag'"", "" 'kambuh'"", "" 'berat'"", "" 'dokter'"", "" 'untung'"", "" 'halodoc'"", "" 'selesai'"", "" 'konsultasi'"", "" 'daring'"", "" 'resep'"", "" 'langsung'"", "" 'diorder'"", "" 'lewar'"", "" 'gojek'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'mantap'"", "" 'super'"", "" 'cepat'"", "" 'pengiriman'"", "" 'semoga'"", "" 'obat'"", "" 'manjur'"", "" 'cepat'"", "" 'berkhasiat'"", "" 'secepat'"", "" 'pengiriman'"", "" 'sukses'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'pelayanan'"", "" 'pengobatan'"", "" 'penyembuhan'""]",Pelayanan,positif
+5,"[""'halo'"", "" 'doc'"", "" 'balita'"", "" 'usia'"", "" 'puluh'"", "" 'beberap'"", "" 'telinga'"", "" 'anak'"", "" 'sebelah'"", "" 'kanan'"", "" 'cairan'"", "" 'bau'"", "" 'sih'"", "" 'anak'"", "" 'kdang'"", "" 'memukul'"", "" 'telingan'"", "" 'telapak'"", "" 'tangan'"", "" 'iya'"", "" 'doc'"", "" 'dikasih'"", "" 'obat'"", "" 'terima'"", "" 'kasih'""]",Anekdot/Serbaneka,netral
+5,"[""'terima'"", "" 'kasih'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'sat'"", "" 'malam'"", "" 'sakit'"", "" 'pingang'"", "" 'salah'"", "" 'rekan'"", "" 'dokter'"", "" 'bernama'"", "" 'fen'"", "" 'membantu'"", "" 'sakit'""]",Pelayanan,positif
+5,"[""'buatin'"", "" 'dokter'"", "" 'chat'"", "" 'gratis'"", "" 'donk'""]",Anekdot/Serbaneka,netral
+5,"[""'pandemi'"", "" 'membantu'"", "" 'klik'"", "" 'halodoc'"", "" 'terhubung'"", "" 'konsultasi'"", "" 'obat'"", "" 'langsung'"", "" 'diantar'""]",Anekdot/Serbaneka,positif
+4,"[""'suda'"", "" 'pembayaran'"", "" 'chat'"", "" 'pembayaran'"", "" 'berhasil'"", "" 'chat'"", "" 'dokter'"", "" 'sibuk'""]",Pelayanan,negatif
+5,"[""'kesekian'"", "" 'kali'"", "" 'konsultasi'"", "" 'dokter'"", "" 'dokter'"", "" 'halodoc'"", "" 'kali'"", "" 'konsultasi'"", "" 'nency'"", "" 'sp'"", "" 'a'"", "" 'bingung'"", "" 'mingu'"", "" 'dokter'"", "" 'dokter'"", "" 'spesialis'"", "" 'libur'"", "" 'praktik'"", "" 'terima'"", "" 'kasih'"", "" 'iya'"", "" 'dok'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'obat'"", "" 'langsung'"", "" 'diantar'"", "" 'sat'"", "" 'gopay'"", "" 'halodoc'"", "" 'saldo'"", "" 'great'""]",Pelayanan,positif
+5,"[""'instal'"", "" 'aplikasi'"", "" 'wlopun'"", "" 'tertawa'"", "" 'bagus'"", "" 'lengkap'"", "" 'mudah'"", "" 'instal'"", "" 'coba'"", "" 'konsultasi'"", "" 'gizi'"", "" 'ah'"", "" 'keren'"", "" 'dokter'"", "" 'asik'"", "" 'terima'"", "" 'kasih'"", "" 'aditya'"", "" 'mulyantari'"", "" 'sp'""]",Pelayanan,positif
+1,"[""'pesan'"", "" 'obat'"", "" 'halodoc'"", "" 'status'"", "" 'terkirim'"", "" 'terima'"", "" 'obat'"", "" 'ditlp'"", "" 'customer service'"", "" 'diurus'"", "" 'boro'"", "" 'boro'"", "" 'penyelesaian'"", "" 'aplikasi'"", "" 'bagus'"", "" 'pelayanan'"", "" 'buruk'""]",Pelayanan,negatif
+3,"[""'hai'"", "" 'halodoc'"", "" 'cari'"", "" 'swab'"", "" 'antigen'"", "" 'rsatau'"", "" 'klinik'"", "" 'terdekat'"", "" 'reading'"", "" 'iya'"", "" 'crash'"", "" 'mohon'"", "" 'dibantu'""]",Sistem,negatif
+5,"[""'membantu'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'bagus'"", "" 'dokter'"", "" 'di dalam'"", "" 'bertangung'"", "" 'bangat'"", "" 'semoga'"", "" 'aplikasi'"", "" 'berkembang'"", "" 'dimasa'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'dokter'"", "" 'direkomendasikan'""]",Pelayanan,positif
+3,"[""'diperbaiki'"", "" 'verifikasi'"", "" 'kode'"", "" 'otp'"", "" 'pembayaran'"", "" 'gopay'"", "" 'berulang'"", "" 'berulang'"", "" 'sukses'"", "" 'terima'"", "" 'kasih'""]",Sistem,negatif
+5,"[""'terbantu'"", "" 'sat'"", "" 'pandemi'"", "" 'konsultasi'"", "" 'dokter'"", "" 'obat'"", "" 'dikirim'"", "" 'langsung'"", "" 'apotek'"", "" 'bayar'"", "" 'cashles'""]",Pelayanan,positif
+5,"[""'mudah'"", "" 'mengunakan'"", "" 'halodoc'"", "" 'repot'"", "" 'repot'"", "" 'antre'"", "" 'antre'"", "" 'rumah sakit'"", "" 'klinik'"", "" 'klik'"", "" 'konsultasi'"", "" 'ksh'"", "" 'resep'"", "" 'obat'"", "" 'thanks'"", "" 'halodoc'"", "" 'semoga'"", "" 'dokter'"", "" 'sukses'"", "" 'amin'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'cepat'"", "" 'praktis'"", "" 'memuaskan'""]",Anekdot/Serbaneka,positif
+5,"[""'log'"", "" 'out'"", "" 'sat'"", "" 'verifikasi'"", "" 'kode'"", "" 'dikirim'"", "" 'sms'"", "" 'error'""]",Sistem,negatif
+5,"[""'era'"", "" 'pandemi'"", "" 'dokter'"", "" 'konsultasi'"", "" 'daring'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'perlayan'"", "" 'sopan'"", "" 'lokasi'"", "" 'mudah'"", "" 'area'"", "" 'luas'"", "" 'sehinga'"", "" 'memudahkan'"", "" 'vaksin'"", "" 'menjalankan'"", "" 'proses'"", "" 'm'"", "" 'bravo'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'aman'"", "" 'selagi'"", "" 'pandemi'"", "" 'malas'"", "" 'antre'"", "" 'penjelasan'"", "" 'memuaskan'""]",Anekdot/Serbaneka,positif
+5,"[""'terbantu'"", "" 'aplikasi'"", "" 'dokter'""]",Pelayanan,positif
+4,"[""'konsultasi'"", "" 'dokter'"", "" 'cepat'"", "" 'direspon'"", "" 'pesan'"", "" 'obat'"", "" 'status'"", "" 'pembayaran'"", "" 'dibatalkan'"", "" 'ih'"", "" 'sebel'""]",Pelayanan,negatif
+5,"[""'bagus'"", "" 'suka'"", "" 'aplikasi'""]",Anekdot/Serbaneka,positif
+4,"[""'pembayaran'"", "" 'dokter'"", "" 'chat'"", "" 'terima kasih'"", "" 'pengembalian dana'""]",Pelayanan,negatif
+5,"[""'bagus'"", "" 'pelayanan'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'dokter'"", "" 'sabar'"", "" 'keluhan'"", "" 'pasien'""]",Pelayanan,positif
+5,"[""'konsultasi'"", "" 'dokter'"", "" 'mudah'"", "" 'menenangkan'"", "" 'sat'"", "" 'panik'"", "" 'sehinga'"", "" 'pertolongan'"", "" 'sat'"", "" 'sakit'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'bnget'"", "" 'pelayanan'""]",Pelayanan,positif
+4,"[""'selamat'"", "" 'siang'"", "" 'halo'"", "" 'dokter'"", "" 'barusan'"", "" 'telepon'"", "" 'mengatasnamakan'"", "" 'customer service'"", "" 'halo'"", "" 'dokter'"", "" 'claim'"", "" 'dana'"", "" 'jt'"", "" 'data'"", "" 'lengkap'"", "" 'email'"", "" 'nomor'"", "" 'rekening'"", "" 'bank'"", "" 'aneh'"", "" 'email'"", "" 'nama'"", "" 'nomor'"", "" 'rek'"", "" 'un'"", "" 'ulasan'"", "" 'lengkap'""]",Anekdot/Serbaneka,negatif
+5,"[""'dikasih'"", "" 'bonus'"", "" 'kaki'"", "" 'beli'"", "" 'obat'"", "" 'pakai'"", "" 'halo'"", "" 'doc'""]",Pelayanan,positif
+5,"[""'alhamdulilah'"", "" 'cepat'"", "" 'respon'"", "" 'dokter'"", "" 'pertanyan'"", "" 'membantu'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'aplikasi'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'cepat'"", "" 'tangap'"", "" 'ribet'""]",Sistem,positif
+5,"[""'terbaik'"", "" 'konsultasi'"", "" 'terbaik'""]",Pelayanan,positif
+5,"[""'sat'"", "" 'malam'"", "" 'malam'"", "" 'sakit'"", "" 'kontak'"", "" 'halodoc'"", "" 'langsung'"", "" 'konsuli'"", "" 'obat'"", "" 'kirim'"", "" 'membantu'"", "" 'hinga'"", "" 'infokan'"", "" 'teman'"", "" 'teman'""]",Pelayanan,positif
+1,"[""'aplikasi'"", "" 'orang'"", "" 'kelas'"", "" 'tibang'"", "" 'na'"", "" 'obat'"", "" 'bayar'"", "" 'sunguh'"", "" 'miris'"", "" 'negeri'"", "" 'ktika'"", "" 'orang'"", "" 'pintar'"", "" 'anugerah'"", "" 'membantu'"", "" 'ihklas'"", "" 'seakan'"", "" 'uwang'"", "" 'kuasa'"", "" 'tuhan'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'"", "" 'memfasilitasi'"", "" 'pendaftara'"", "" 'vaksinasi'"", "" 'covid'"", "" 'lanjut usia'"", "" 'apotek'"", "" 'sat'"", "" 'butuh'"", "" 'obat'"", "" 'malas'"", "" 'rumah'""]",Pelayanan,positif
+5,"[""'mantap'"", "" 'kemarin'"", "" 'putus'"", "" 'koneksi'"", "" 'chat'"", "" 'dokter'"", "" 'ulasan'"", "" 'bintang'"", "" 'lansung'"", "" 'ditelpon'"", "" 'halodoc'"", "" 'dikembalikan'"", "" 'uang'"", "" 'mantap'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'diresepkan'"", "" 'dokter'"", "" 'obat'"", "" 'dikirim'"", "" 'daring'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'alhamdulilah'"", "" 'sat'"", "" 'pandemi'"", "" 'sat'"", "" 'halodoc'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'sukses'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'respon'"", "" 'cepat'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'sngt'"", "" 'terbntu'"", "" 'skli'"", "" 'aplikasi'"", "" 'maju'"", "" 'halo'"", "" 'doc'""]",Anekdot/Serbaneka,positif
+4,"[""'halo'"", "" 'kak'"", "" 'alamat'"", "" 'map'"", "" 'mencantumkan'"", "" 'alamat'"", "" 'manual'"", "" 'kak'""]",Anekdot/Serbaneka,netral
+1,"[""'aplikasi'"", "" 'ketiga'"", "" 'apotek'"", "" 'toko online'"", "" 'sedia'"", "" 'barang'"", "" 'kondisi'"", "" 'edisi'"", "" 'th'"", "" 'beli'"", "" 'langsung'"", "" 'apotek'"", "" 'halodoc'"", "" 'gojek'"", "" 'dikasih'"", "" 'obat'"", "" 'edisi'"", "" 'enam'""]",Pelayanan,negatif
+5,"[""'respon'"", "" 'dokter'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'antre'"", "" 'rumah'"", "" 'sakit'""]",Pelayanan,positif
+5,"[""'profesional'"", "" 'cepat'"", "" 'tangap'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'mudah'""]",Sistem,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'vet'"", "" 'dokter'"", "" 'suci'"", "" 'dokter'"", "" 'hewan'"", "" 'ramah'"", "" 'konsultasi'"", "" 'dokter'"", "" 'suci'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'mengunakan'"", "" 'halodoc'"", "" 'membantu'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'thanks'"", "" 'halodoc'"", "" 'membantu'"", "" 'mendapt'"", "" 'resep'"", "" 'pergi'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'pengalaman'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'bagus'"", "" 'semoga'"", "" 'bermanfat'"", "" 'membantu'"", "" 'menyembuhkan'""]",Pelayanan,positif
+5,"[""'mudah'"", "" 'berkonsultasi'"", "" 'dokter'""]",Pelayanan,positif
+1,"[""'nomor'"", "" 'telepon genggam'"", "" 'muncul'"", "" 'otentikasi'"", "" 'nomor'"", "" 'telepon genggam'"", "" 'tolong'"", "" 'tim'"", "" 'it'"", "" 'back'"", "" 'end'"", "" 'diperbaiki'"", "" 'iya'"", "" 'terima kasih'""]",Sistem,negatif
+5,"[""'menolong'"", "" 'aplikasi'"", "" 'sat'"", "" 'darurat'"", "" 'anak'"", "" 'anak'"", "" 'ditingal'"", "" 'rumah'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'pintar'"", "" 'membantu'"", "" 'dimasa'"", "" 'pandemi'"", "" 'antre'"", "" 'apotek'"", "" 'apotek'"", "" 'antre'"", "" 'dikasir'"", "" 'apotek'"", "" 'tingal'"", "" 'pakai'"", "" 'gopay'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'halodoc'"", "" 'sistem'"", "" 'pembayaran'"", "" 'pakai'"", "" 'gopay'"", "" 'kasih'"", "" 'pembayaran'"", "" 'lakukan'"", "" 'indomaretatau'"", "" 'alfamaret'""]",Sistem,negatif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'mempermudah'"", "" 'berobat'"", "" 'klinik'"", "" 'dimasa'"", "" 'pandemi'""]",Pelayanan,positif
+4,"[""'membantu'"", "" 'sebenar'"", "" 'pengiriman'"", "" 'ongkos'"", "" 'mahal'"", "" 'mengunakan'"", "" 'kurir'"", "" 'reguler'"", "" 'tarif'"", "" 'sepuluh'"", "" 'ribu'"", "" 'kena'"", "" 'ribu'""]",Pelayanan,negatif
+1,"[""'uang'"", "" 'habis'"", "" 'puluh'"", "" 'ribu'"", "" 'konsultasi'"", "" 'resep'"", "" 'dicuekin'"", "" 'sam'"", "" 'dokter'"", "" 'posisi'"", "" 'sakit'""]",Pelayanan,negatif
+5,"[""'mempermudah'"", "" 'konsultasi'"", "" 'janji'"", "" 'dokter'"", "" 'lingkungan'"", "" 'tingal'""]",Pelayanan,negatif
+2,"[""'kali'"", "" 'beli'"", "" 'obat'"", "" 'halodoc'"", "" 'kali'"", "" 'disertaka'"", "" 'nota'"", "" 'pembelian'""]",Pelayanan,negatif
+3,"[""'metode'"", "" 'pembayaran'"", "" 'menyulitakan'"", "" 'kenpa'"", "" 'tertawa'"", "" 'go'"", "" 'pay'"", "" 'isi'"", "" 'saldo'"", "" 'pakai'"", "" 'debit'"", "" 'teratas'"", "" 'up'"", "" 'rekening'"", "" 'bank'"", "" 'dam'"", "" 'sejis'"", "" 'pdahal'"", "" 'hapy'"", "" 'hewan'"", "" 'dsni'""]",Pelayanan,negatif
+5,"[""'dokter'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'terbaik'"", "" 'sih'"", "" 'menurutku'"", "" 'andalan'"", "" 'diriku'"", "" 'gasuka'"", "" 'belanja'"", "" 'apotek'"", "" 'zaman'"", "" 'pandemi'"", "" 'aman'"", "" 'beli'"", "" 'daring'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'bagus'"", "" 'respon'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'terkhusus'"", "" 'wid'"", "" 'patria'"", "" 'sp'"", "" 's'"", "" 'sabar'"", "" 'ramah'"", "" 'mendengarkan'"", "" 'konsultasi'"", "" 'pasien'""]",Pelayanan,positif
+3,"[""'tidak bisa'"", "" 'disambung'"", "" 'gopay'"", "" 'iya'""]",Pelayanan,negatif
+5,"[""'instal'"", "" 'kak'"", "" 'iya'"", "" 'sambung'"", "" 'gopay'"", "" 'tulisan'"", "" 'nomor'"", "" 'terdaftar'"", "" 'nomor'"", "" 'gopay'"", "" 'terverifikasi'"", "" 'edit'"", "" 'bintang'"", "" 'terima kasih'"", "" 'kak'""]",Sistem,negatif
+3,"[""'na'"", "" 'konsulatau'"", "" 'chat'"", "" 'doctor'"", "" 'kenakan'"", "" 'tarif'"", "" 'iya'"", "" 'tarif'"", "" 'seratus'""]",Pelayanan,negatif
+5,"[""'alhamdulilah'"", "" 'pelayanan'"", "" 'cepat'"", "" 'dokter'"", "" 'ramah'"", "" 'harga'"", "" 'obat'"", "" 'jangkau'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'musim'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'oke'"", "" 'bagus'"", "" 'konsultasi'"", "" 'kehamilan'"", "" 'istri'"", "" 'semoga'"", "" 'berkah'"", "" 'sehat'"", "" 'iya'"", "" 'amin'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'semoga'"", "" 'resep'"", "" 'obat'"", "" 'berkhasiat'"", "" 'kesembuhan'"", "" 'anak'"", "" 'terimaksih'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'slow'"", "" 'respon'"", "" 'admin'"", "" 'uang'"", "" 'cepat'"", "" 'keluhan'"", "" 'kendala'"", "" 'lambat'"", "" 'parah'""]",Pelayanan,negatif
+1,"[""'harga'"", "" 'bagus'"", "" 'sayang'"", "" 'overload'"", "" 'slow'"", "" 'respon'"", "" 'ditelpon'"", "" 'customer service'"", "" 'susah'"", "" 'masuk'"", "" 'hasil'"", "" 'rapid'"", "" 'antigen'"", "" 'jam'"", "" 'jam'""]",Pelayanan,negatif
+5,"[""'bagus'"", "" 'pelayanan'"", "" 'ramah'""]",Pelayanan,positif
+1,"[""'respon'"", "" 'costumer'"", "" 'servies'"", "" 'iya'"", "" 'lambat'"", "" 'lambat'"", "" 'solusi'"", "" 'bermasalah'"", "" 'aplikasi'"", "" 'halodok'"", "" 'iya'"", "" 'singkron'""]",Pelayanan,negatif
+4,"[""'konsultasi'"", "" 'bayar'"", "" 'pakai'"", "" 'gopay'"", "" 'gagal'"", "" 'konsultasi'"", "" 'menu'"", "" 'direfund'"", "" 'konsultasi'""]",Pelayanan,negatif
+5,"[""'aplikasi'"", "" 'keren'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'auntik'"", "" 'vaksin'"", "" 'mandiri'"", "" 'kusus'"", "" 'lanjut usia'"", "" 'umur'"", "" 'aplikasi'""]",Anekdot/Serbaneka,netral
+5,"[""'suka'"", "" 'pakai'"", "" 'aplikasi'"", "" 'konsultasi'"", "" 'murah'"", "" 'rumah'"", "" 'sakit'""]",Pelayanan,positif
+5,"[""'konsultasi'"", "" 'beli'"", "" 'obat'"", "" 'halodoc'"", "" 'mudah'"", "" 'aplikasi'"", "" 'report'"", "" 'konsultasi'"", "" 'beli'"", "" 'obat'"", "" 'tungu'"", "" 'rumah'"", "" 'deh'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'halodoc'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'bagus'"", "" 'puas'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'mudahin'"", "" 'cek'"", "" 'toko'"", "" 'daerah'""]",Pelayanan,negatif
+5,"[""'kondisi'"", "" 'sulit'"", "" 'rumah'"", "" 'halodoc'"", "" 'membantu'"", "" 'terima kasih'"", "" 'barakalah'""]",Pelayanan,positif
+5,"[""'ok'"", "" 'memudahkan'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'mantap'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'"", "" 'mudah'"", "" 'mudahan'"", "" 'berkembang'""]",Pelayanan,positif
+5,"[""'layanan'"", "" 'dokter'"", "" 'cepat'"", "" 'respon'"", "" 'komunikasi'"", "" 'terima'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'""]",Pelayanan,positif
+5,"[""'pesan'"", "" 'obat'"", "" 'cepat'"", "" 'membantu'"", "" 'disetiap'"", "" 'kondisi'""]",Pelayanan,positif
+2,"[""'halo'"", "" 'dok'"", "" 'terlambat'"", "" 'postif'"", "" 'hamil'"", "" 'mohon'"", "" 'petunjuk'"", "" 'dok'""]",Pelayanan,netral
+4,"[""'aplikasi'"", "" 'mudah'"", "" 'dn'"", "" 'membantu'"", "" 'semoga'"", "" 'responsif'"", "" 'melayani'"", "" 'sat'"", "" 'konsultasi'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+1,"[""'apotek'"", "" 'toko'"", "" 'beli'"", "" 'barang'"", "" 'harga'"", "" 'puluh'"", "" 'nol'"", "" 'beli'"", "" 'enam'"", "" 'puluh'"", "" 'nol'"", "" 'ajar'""]",Harga,negatif
+5,"[""'dokter'"", "" 'ramah'"", "" 'komunikatif'""]",Pelayanan,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'dok'"", "" 'resep'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'pokok'"", "" 'musim'"", "" 'anak'"", "" 'sakit'"", "" 'mudah'"", "" 'nanganin'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'mobile'"", "" 'dimasa'"", "" 'pandemi'"", "" 'ke depan'"", "" 'semoga'"", "" 'pilih'"", "" 'apotek'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'freze'"", "" 'telepon genggam'"", "" 'masuk'"", "" 'tampilan'"", "" 'aplikasi'"", "" 'redmi'"", "" 'note'"", "" 'delapan'"", "" 'mohon'"", "" 'bantuan'""]",Sistem,negatif
+1,"[""'bayar'"", "" 'iklan'"", "" 'gratis'""]",Harga,negatif
+3,"[""'kak'"", "" 'masuk'"", "" 'kalender'"", "" 'kehamilan'"", "" 'menu'"", "" 'iya'""]",Sistem,negatif
+4,"[""'proses'"", "" 'apotek'""]",Pelayanan,negatif
+5,"[""'membantu'"", "" 'tolong'"", "" 'mhl'"", "" 'mhl'"", "" 'konsultasi'"", "" 'pasien'"", "" 'butuh'"", "" 'bantuan'"", "" 'konsultasi'""]",Harga,negatif
+5,"[""'asli'"", "" 'bagus'"", "" 'jam'"", "" 'malam'"", "" 'mencari'"", "" 'obat'"", "" 'pilek'"", "" 'anak'"", "" 'langsung'"", "" 'pakai'"", "" 'gojek'""]",Pelayanan,positif
+5,"[""'suka'"", "" 'aplikasi'"", "" 'membantu'""]",Sistem,positif
+5,"[""'memudahkan'"", "" 'berkonsultasi'"", "" 'dokter'"", "" 'membeli'"", "" 'obat'"", "" 'memudahkan'"", "" 'aplikasi'"", "" 'bagus'""]",Sistem,positif
+5,"[""'halo'"", "" 'doc'"", "" 'gatal'"", "" 'bintik'"", "" 'kmudian'"", "" 'nanah'"", "" 'selangkangan'"", "" 'paha'"", "" 'petunjuk'"", "" 'doc'""]",Anekdot/Serbaneka,netral
+4,"[""'penguna'"", "" 'eh'"", "" 'kali'"", "" 'pas'"", "" 'kali'"", "" 'bagus'"", "" 'terima kasih'"", "" 'penilaian'"", "" 'berubah'"", "" 'bagus'"", "" 'pelayanan'""]",Pelayanan,negatif
+5,"[""'alhamdulilah'"", "" 'dapetin'"", "" 'obat'"", "" 'repot'"", "" 'apotek'"", "" 'terima kasih'"", "" 'konsultasi'"", "" 'dokter'"", "" 'lancar'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'mudah'"", "" 'informasi'"", "" 'lengkap'""]",Anekdot/Serbaneka,positif
+5,"[""'teratas'"", "" 'membantu'"", "" 'terima kasih'""]",Pelayanan,positif
+3,"[""'akun'"", "" 'halodoc'"", "" 'tersambung'"", "" 'gopay'"", "" 'saldo'"", "" 'gopay'"", "" 'isi'"", "" 'mohon'"", "" 'diperbaiki'""]",Sistem,negatif
+5,"[""'bagus'"", "" 'referensi'"", "" 'kesehatan'""]",Anekdot/Serbaneka,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'dokter'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'respon'"", "" 'dokter'"", "" 'chat'"", "" 'cepat'"", "" 'dibalas'"", "" 'konsultasi'"", "" 'di mana'"", "" 'mudah'""]",Pelayanan,positif
+5,"[""'cepat'"", "" 'penanganan'"", "" 'mantap'""]",Pelayanan,positif
+4,"[""'he'"", "" 'iya'"", "" 'pembayaran'"", "" 'debit'"", "" 'bni'"", "" 'suport'"", "" 'terpaksa'"", "" 'pakai'"", "" 'mandiri'""]",Sistem,negatif
+5,"[""'kali'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'cepat'"", "" 'respon'"", "" 'pelayanan'"", "" 'cepat'"", "" 'sukses'""]",Pelayanan,positif
+1,"[""'aplikasi'"", "" 'rongsokan'"", "" 'cari'"", "" 'obat'"", "" 'driver'"", "" 'gojek'"", "" 'diarahkan'"", "" 'apotek'"", "" 'tutup'""]",Sistem,negatif
+4,"[""'konsultasi'"", "" 'tht'"", "" 'sih'"", "" 'langsung'"", "" 'direspon'"", "" 'dikasih'"", "" 'resep'"", "" 'bagus'"", "" 'semoga'"", "" 'lekas'"", "" 'sembuh'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'merespon'"", "" 'cepat'"", "" 'detail'"", "" 'konsultasi'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'nyaman'"", "" 'konsultasi'"", "" 'semoga'"", "" 'perbarui'""]",Pelayanan,positif
+5,"[""'oke'"", "" 'mantap'"", "" 'susah'"", "" 'berobat'"", "" 'kali'"", "" 'mengunakan'"", "" 'aplikasi'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'bagus'"", "" 'membantu'"", "" 'beli'"", "" 'obat'"", "" 'muter'"", "" 'muter'"", "" 'cari'"", "" 'apotek'"", "" 'terima'"", "" 'kasih'""]",Sistem,positif
+5,"[""'halodoc'"", "" 'membantu'"", "" 'sehat'"", "" 'penanganan'"", "" 'cepat'"", "" 'mudah'"", "" 'diakses'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'mudah'"", "" 'mudah'"", "" 'konsultasi'"", "" 'halodoc'"", "" 'sembuh'""]",Pelayanan,positif
+1,"[""'aplikasi'"", "" 'pelan'"", "" 'nangapin'""]",Sistem,negatif
+5,"[""'disat'"", "" 'darurat'"", "" 'bisadiandalkan'""]",Pelayanan,positif
+3,"[""'terlambat'"", "" 'brpa'"", "" 'menit'"", "" 'langsung'"", "" 'dibatalkan'"", "" 'jadwal'"", "" 'konsultasi'"", "" 'uang'"", "" 'pengembalian dana'"", "" 'chat'"", "" 'bot'"", "" 'customer service'"", "" 'payah'"", "" 'ngrespon'""]",Sistem,negatif
+5,"[""'trimaksh'"", "" 'halodok'"", "" 'saran'"", "" 'resep'"", "" 'terbagus'"", "" 'iya'"", "" 'tatap'"", "" 'muka'"", "" 'dokter'""]",Sistem,positif
+5,"[""'membantu'"", "" 'konsultasi'"", "" 'obat'"", "" 'langsung'"", "" 'diterima'"", "" 'terima kasih'"", "" 'halo'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'dokter'"", "" 'kali'"", "" 'pakai'"", "" 'kaget'"", "" 'langsung'"", "" 'beli'"", "" 'obat'"", "" 'pakai'"", "" 'gojek'"", "" 'keren'"", "" 'sih'"", "" 'membantu'""]",Pelayanan,positif
+3,"[""'bagus'"", "" 'layanan'"", "" 'customer service'"", "" 'respon'"", "" 'cepat'"", "" 'tolong'"", "" 'aplikasi'"", "" 'pelan'"", "" 'tertawa'"", "" 'dokter'"", "" 'mengunakan'"", "" 'asuransi'"", "" 'diterukan'""]",Anekdot/Serbaneka,negatif
+4,"[""'bermanfat'"", "" 'kesehatan'""]",Pelayanan,positif
+5,"[""'dimudahkan'"", "" 'membeli'"", "" 'obat'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'konsultasi'"", "" 'dokter'"", "" 'pelayanan'"", "" 'ramah'"", "" 'membantu'"", "" 'solusi'""]",Pelayanan,positif
+5,"[""'mudah'"", "" 'cepat'"", "" 'informasinya'""]",Anekdot/Serbaneka,positif
+5,"[""'halodoc'"", "" 'mantap'"", "" 'konsultasi'"", "" 'dokter'"", "" 'cepat'"", "" 'respon'"", "" 'ramah'"", "" 'terima'"", "" 'kasih'""]",Sistem,positif
+5,"[""'mantap'"", "" 'membantu'"", "" 'seumpama'"", "" 'rumah'"", "" 'sakit'"", "" 'puskesmas'""]",Anekdot/Serbaneka,positif
+5,"[""'puas'"", "" 'pelayanan'"", "" 'halodoc'"", "" 'terima kasih'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'kali'"", "" 'mengunakan'"", "" 'aplikasi'"", "" 'konsultasi'"", "" 'anga'"", "" 'mintarsa'"", "" 'terima kasih'"", "" 'dokter'""]",Sistem,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'sat'"", "" 'berkonsultasi'"", "" 'kesehatan'""]",Sistem,positif
+5,"[""'membantu'"", "" 'solusi'"", "" 'dokter'"", "" 'terpercaya'"", "" 'pengalaman'"", "" 'okeh'""]",Pelayanan,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'penjelasan'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'terbaik'""]",Sistem,positif
+5,"[""'membantu'"", "" 'cocok'"", "" 'resep'"", "" 'dokter'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'""]",Sistem,positif
+5,"[""'penjelasan'"", "" 'detail'"", "" 'sehinga'"", "" 'gdn'"", "" 'mudah'"", "" 'mengeti'""]",Pelayanan,positif
+5,"[""'bermanfat'"", "" 'orang'""]",Anekdot/Serbaneka,positif
+5,"[""'bismilah'"", "" 'semoga'"", "" 'bermanfat'""]",Anekdot/Serbaneka,netral
+5,"[""'cepat'"", "" 'keluhan'"", "" 'pasien'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'komunikatif'"", "" 'ramah'"", "" 'sabar'"", "" 'pertanyan'"", "" 'saran'"", "" 'secara keseluruhan'"", "" 'oke'"", "" 'terima kasih'"", "" 'dokter'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'era'"", "" 'pandemi'"", "" 'semoga'"", "" 'ditingkatkan'"", "" 'layanan'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'cepat'"", "" 'obat'"", "" 'kasi'"", "" 'obat'"", "" 'terbaik'"", "" 'langanan'""]",Pelayanan,positif
+1,"[""'parah'"", "" 'konsultasi'"", "" 'bayar'"", "" 'indonesia'"", "" 'merdeka'"", "" 'mapia'"", "" 'kaya'""]",Harga,negatif
+5,"[""'terima kasih'"", "" 'membantu'""]",Pelayanan,positif
+1,"[""'pemesanan'"", "" 'bisax'"", "" 'notif'"", "" 'salah'"", "" 'coba'""]",Sistem,negatif
+5,"[""'bagus'"", "" 'semoga'""]",Sistem,positif
+4,"[""'mengakses'"", "" 'akun'"", "" 'nomor'"", "" 'telepon'"", "" 'hilang'"", "" 'mohon'"", "" 'bantuanya'""]",Sistem,negatif
+5,"[""'terbantu'"", "" 'halo'"", "" 'doc'"", "" 'kerumah'"", "" 'sakit'"", "" 'alhamdulilah'"", "" 'sembuh'"", "" 'sakit'""]",Anekdot/Serbaneka,positif
+5,"[""'ribet'"", "" 'apotek'"", "" 'halodoc'"", "" 'pakai'"", "" 'halodoc'"", "" 'puas'"", "" 'rumah'""]",Anekdot/Serbaneka,positif
+4,"[""'arahkan'"", "" 'pembelian'"", "" 'obat'"", "" 'apotek'"", "" 'terdekat'"", "" 'rumah'"", "" 'pasien'"", "" 'terima'"", "" 'kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'sat'"", "" 'pandemik'"", "" 'manfat'"", "" 'saskit'"", "" 'gejala'"", "" 'ringan'""]",Anekdot/Serbaneka,positif
+1,"[""'tolong'"", "" 'filter'"", "" 'berdasarkan'"", "" 'wilayah'"", "" 'praktik'"", "" 'cek'""]",Anekdot/Serbaneka,negatif
+5,"[""'kali'"", "" 'pakai'"", "" 'halodoc'"", "" 'lumayan'"", "" 'tenang'"", "" 'konsultasi'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'keren'"", "" 'sih'"", "" 'pakai'"", "" 'asuransi'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pandemi'"", "" 'rumah'"", "" 'konsultasi'""]",Anekdot/Serbaneka,positif
+5,"[""'halo'"", "" 'dock'"", "" 'rutin'"", "" 'periksa'"", "" 'tangal'"", "" 'tentukan'"", "" 'sesuai'"", "" 'kehamilan'"", "" 'perbulan'"", "" 'mohon'"", "" 'kebijakan'"", "" 'dockter'""]",Anekdot/Serbaneka,positif
+5,"[""'kali'"", "" 'konsultasi'"", "" 'suka'""]",Pelayanan,positif
+5,"[""'pengemasan'"", "" 'cepat'"", "" 'pengiriman'"", "" 'cepat'"", "" 'kepepet'"", "" 'malam'"", "" 'malam'"", "" 'butuh'"", "" 'obat'"", "" 'kalah'"", "" 'cepat'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'bermanfat'"", "" 'efisien'"", "" 'tenaga'"", "" 'biaya'"", "" 'thanks'"", "" 'iya'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'solusi'"", "" 'sesuai'"", "" 'kondisi'"", "" 'konsultasi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'chat'"", "" 'dokter'"", "" 'cepat'"", "" 'direspon'"", "" 'profesional'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'cepat'"", "" 'kondisi'"", "" 'mendesak'"", "" 'pasien'"", "" 'pu'"", "" 'datangke'"", "" 'rumah sakit'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'kondisi'"", "" 'mendadak'"", "" 'mendesak'"", "" 'terima kasih'"", "" 'so'"", "" 'semoga'"", "" 'sukses'""]",Anekdot/Serbaneka,positif
+4,"[""'alhamdulilah'"", "" 'konsultasi'"", "" 'halodoc'"", "" 'berasa'"", "" 'ngobrol'"", "" 'langsung'"", "" 'dokter'""]",Sistem,positif
+5,"[""'aplikasi'"", "" 'membantu'""]",Sistem,positif
+5,"[""'takut'"", "" 'rumahsakit'"", "" 'di sini'"", "" 'dokter'"", "" 'oke'"", "" 'oke'"", "" 'macihalodoc'""]",Sistem,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'konsultasi'"", "" 'dokter'"", "" 'dokter'"", "" 'ramah'"", "" 'cepat'"", "" 'balas'"", "" 'chat'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'mengenali'"", "" 'penyakit'"", "" 'kucing'"", "" 'konsultasi'"", "" 'dokter'"", "" 'hewan'""]",Anekdot/Serbaneka,positif
+5,"[""'ngebantu'"", "" 'sakit'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'kehidupan'"", "" 'sat'"", "" 'butuh'"", "" 'obat'"", "" 'tingal'"", "" 'pemesanan'""]",Sistem,positif
+5,"[""'dokter'"", "" 'pertanyan'"", "" 'terbantu'"", "" 'merawat'"", "" 'suami'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+4,"[""'bagus'"", "" 'membantu'"", "" 'disat'"", "" 'susah'"", "" 'cari'"", "" 'obat'"", "" 'aplikasi'"", "" 'cepat'"", "" 'lengkap'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'dimasa'"", "" 'pandemi'"", "" 'mengurangi'"", "" 'kontak'"", "" 'langsung'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+4,"[""'dokter'"", "" 'melayani'"", "" 'gratis'"", "" 'respon'"", "" 'cepat'"", "" 'kaih'"", "" 'bintang'"", "" 'kali'"", "" 'mencoba'"", "" 'konsultasi'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'terima'"", "" 'kasih'"", "" 'layanan'"", "" 'cepat'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'bagus'"", "" 'penjelasan'"", "" 'dokter'"", "" 'detail'"", "" 'pakai'"", "" 'gambar'"", "" 'tubuh'"", "" 'cepat'"", "" 'gampang'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'sayang'"", "" 'bayar'"", "" 'pakai'"", "" 'ovo'""]",Sistem,negatif
+4,"[""'bagus'"", "" 'bermanfat'"", "" 'respon'"", "" 'cepat'"", "" 'tangap'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'bingung'"", "" 'ta'"", "" 'ke mana'"", "" 'aplikasi'"", "" 'membantu'"", "" 'terima kasih'"", "" 'yah'""]",Sistem,positif
+5,"[""'menolong'"", "" 'halodoc'"", "" 'semoga'"", "" 'membantu'"", "" 'masyarakat'"", "" 'kemudahan'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'covid'"", "" 'sembilan'"", "" 'belas'"", "" 'rumah'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'terima kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'aplikasi'"", "" 'membantu'"", "" 'pelayanan'"", "" 'cepat'"", "" 'mantap'""]",Sistem,positif
+4,"[""'tolong'"", "" 'fitur'"", "" 'fre'"", "" 'chat'"", "" 'asuransi'"", "" 'spesialis'"", "" 'dokter'"", "" 'tertawa'"", "" 'dokter'""]",Sistem,negatif
+1,"[""'tulisan'"", "" 'sudh'"", "" 'terhubung'"", "" 'dokter'"", "" 'saldo'"", "" 'terpotong'"", "" 'chat'"", "" 'ngimong'"", "" 'ma'"", "" 'dokter'"", "" 'aplikasi'"", "" 'ek'""]",Sistem,negatif
+5,"[""'konsultasi'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+1,"[""'respon'""]",Anekdot/Serbaneka,negatif
+5,"[""'dokter'"", "" 'ramah'"", "" 'lansung'"", "" 'point'"", "" 'penjelasan'"", "" 'penyakit'"", "" 'pertahankan'"", "" 'iya'""]",Pelayanan,positif
+5,"[""'sunguh'"", "" 'bermanfat'"", "" 'disat'"", "" 'pandemi'"", "" 'memiliki'"", "" 'anak'"", "" 'sakit'"", "" 'malam'""]",Anekdot/Serbaneka,positif
+5,"[""'terima kasih'"", "" 'aplikasi'"", "" 'membantu'"", "" 'konsultasi'"", "" 'kesehatan'""]",Anekdot/Serbaneka,positif
+5,"[""'detail'"", "" 'membantu'"", "" 'dokternya'"", "" 'dikasih'"", "" 'resep'"", "" 'obat'""]",Anekdot/Serbaneka,positif
+5,"[""'malam'"", "" 'dokter'"", "" 'sabar'"", "" 'melayani'"", "" 'konsultasi'"", "" 'keren'"", "" 'charles'""]",Anekdot/Serbaneka,positif
+4,"[""'ambil'"", "" 'obat'"", "" 'rumah'"", "" 'kasihan'"", "" 'gojeknya'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'"", "" 'biaya'"", "" 'konsultasi'"", "" 'plus'"", "" 'obat'"", "" 'terjamgkau'"", "" 'terima kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'ulasan'"", "" 'dokter'"", "" 'obat'"", "" 'direkomendasikan'"", "" 'bagus'"", "" 'terima kasih'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'aplikasi'"", "" 'berhubunham'"", "" 'demgam'"", "" 'dokter'"", "" 'sat'"", "" 'pandemi'"", "" 'imi'""]",Anekdot/Serbaneka,positif
+1,"[""'kasih'"", "" 'bintang'"", "" 'pemesanan'"", "" 'bayar'"", "" 'status'"", "" 'dibatalkan'"", "" 'uang'"", "" 'lari'"", "" 'ke mana'"", "" 'uang'"", "" 'kasih'"", "" 'bintang'"", "" 'transaksi'"", "" 'enam'"", "" 'puluh'"", "" 'sembilan'"", "" 'qloenam'"", "" 'enam'"", "" 'dibatalkan'""]",Sistem,negatif
+5,"[""'membantu'"", "" 'keadan'"", "" 'pandemi'"", "" 'rumah'""]",Anekdot/Serbaneka,positif
+5,"[""'senang'"", "" 'konsultasi'"", "" 'dokter'"", "" 'alhamdulilah'"", "" 'tenang'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'bagus'""]",Sistem,positif
+5,"[""'membantu'"", "" 'informasi'"", "" 'kesehatan'"", "" 'butuhkan'""]",Anekdot/Serbaneka,positif
+5,"[""'puas'"", "" 'membantu'"", "" 'terimakasi'"", "" 'aplikasi'"", "" 'halodic'"", "" 'dokter'"", "" 'bertugas'""]",Anekdot/Serbaneka,positif
+2,"[""'susah'"", "" 'hubungkan'"", "" 'gopay'"", "" 'pin'"", "" 'dibilang'"", "" 'salah'""]",Anekdot/Serbaneka,negatif
+5,"[""'terima'"", "" 'kasih'"", "" 'aplikasi'"", "" 'membantu'"", "" 'disat'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'pesan'"", "" 'kali'"", "" 'alhamdulilah'"", "" 'lancar'"", "" 'cepwt'"", "" 'bamget'""]",Sistem,positif
+3,"[""'halo'"", "" 'doc'"", "" 'tolong'"", "" 'sertifikat'"", "" 'vaksin'"", "" 'kemarin'"", "" 'vaksin'"", "" 'makan'"", "" 'halodoc'"", "" 'mengeluarkan'"", "" 'tolong'"", "" 'usut'"", "" 'jelek'"", "" 'halodoc'"", "" 'tolong'"", "" 'difolow'"", "" 'up'"", "" 'kendala'"", "" 'terima kasih'""]",Sistem,netral
+5,"[""'terima kasih'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'cepat'"", "" 'penanganan'"", "" 'terima kasih'"", "" 'ksih'"", "" 'halodoc'"", "" 'terbantu'"", "" 'disat'"", "" 'kondisi'"", "" 'mendesak'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'keadan'"", "" 'pandemi'"", "" 'covid'"", "" 'mantap'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'konsultas'"", "" 'semoga'"", "" 'cocok'"", "" 'obat'"", "" 'amin'""]",Anekdot/Serbaneka,positif
+5,"[""'halodoc'"", "" 'bermanfat'"", "" 'konsultasi'"", "" 'kesehatan'"", "" 'cepat'""]",Sistem,positif
+3,"[""'kakak'"", "" 'tlong'"", "" 'iya'"", "" 'percepat'"", "" 'proses'"", "" 'tes'"", "" 'pacar'"", "" 'kmaren'"", "" 'nungu'"", "" 'ac'"", "" 'gmna'"", "" 'mna'"", "" 'butuh'"", "" 'cpet'""]",Anekdot/Serbaneka,negatif
+5,"[""'halo'"", "" 'dok'"", "" 'tolong'"", "" 'area'"", "" 'perluas'"", "" 'daerah'"", "" 'jawa'"", "" 'timur'"", "" 'khusus'"", "" 'blitar'""]",Anekdot/Serbaneka,negatif
+4,"[""'penjelasan'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'disat'"", "" 'situasi'"", "" 'pandemi'"", "" 'repot'"", "" 'repot'"", "" 'rumah'""]",Anekdot/Serbaneka,positif
+5,"[""'suka'"", "" 'memudahkan'"", "" 'terbilanh'"", "" 'sibuk'"", "" 'memeriksakan'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'membantu'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'kondisi'"", "" 'pandemic'"", "" 'berobat'"", "" 'rumah'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'mencari'"", "" 'solusi'"", "" 'kesehatan'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'ribet'"", "" 'antre'"", "" 'sat'"", "" 'beli'"", "" 'obat'""]",Sistem,positif
+5,"[""'cepat'"", "" 'direspon'"", "" 'solusi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'upload'"", "" 'resep'"", "" 'tingal'"", "" 'tungu'"", "" 'obat'"", "" 'antre'"", "" 'apotek'""]",Anekdot/Serbaneka,positif
+4,"[""'bagus'"", "" 'opsi'"", "" 'tips'"", "" 'driver'"", "" 'gojek'""]",Anekdot/Serbaneka,negatif
+5,"[""'recomend'"", "" 'membantu'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'rekomendasi'"", "" 'konsultasi'"", "" 'pergi'"", "" 'rumah'"", "" 'sakit'""]",Anekdot/Serbaneka,positif
+5,"[""'diandalkan'""]",Anekdot/Serbaneka,positif
+4,"[""'aplikasi'"", "" 'pelan'"", "" 'macet'"", "" 'tolong'"", "" 'server'"", "" 'perbaiki'"", "" 'terima kasih'""]",Sistem,negatif
+3,"[""'tolong'"", "" 'alasan'"", "" 'pesanan'"", "" 'dibatalkan'"", "" 'batal'""]",Anekdot/Serbaneka,negatif
+5,"[""'mudah'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'aplikasi'"", "" 'terima kasih'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'berbicara'"", "" 'ahli'"", "" 'self'"", "" 'diagnosis'""]",Pelayanan,positif
+5,"[""'terbantu'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'kondisi'"", "" 'pandemi'"", "" 'covid'"", "" 'sembilan'"", "" 'belas'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'beli'"", "" 'obat'"", "" 'urgent'"", "" 'terima kasih'"", "" 'halodoc'"", "" 'gojek'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'darurat'"", "" 'konsultasi'"", "" 'obat'"", "" 'rumah'"", "" 'biaya'"", "" 'terjangkau'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'membantu'"", "" 'isoman'""]",Anekdot/Serbaneka,positif
+5,"[""'oke'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'puas'"", "" 'pelayanan'"", "" 'halodoc'"", "" 'keluarga'""]",Pelayanan,positif
+4,"[""'kadang'"", "" 'barang'"", "" 'kosong'""]",Anekdot/Serbaneka,negatif
+5,"[""'solusi'"", "" 'sat'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'respon'"", "" 'dokter'"", "" 'cepat'"", "" 'penyampaian'"", "" 'padat'"", "" 'puas'"", "" 'pelayanan'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'pas'"", "" 'nemu'"", "" 'dokter'"", "" 'asyk'"", "" 'iya'"", "" 'asyik'"", "" 'dokter'"", "" 'super'"", "" 'galak'""]",Pelayanan,negatif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'sederhana'"", "" 'ribet'""]",Anekdot/Serbaneka,positif
+5,"[""'terbantukan'"", "" 'rumah sakit'"", "" 'sat'"", "" 'pandemi'"", "" 'suka'""]",Anekdot/Serbaneka,positif
+5,"[""'care'""]",Anekdot/Serbaneka,positif
+1,"[""'instal'"", "" 'mingu'""]",Sistem,negatif
+5,"[""'konsultasi'"", "" 'dokter'"", "" 'ramah'"", "" 'pengiriman'"", "" 'obat'"", "" 'super'"", "" 'cepat'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'surat'"", "" 'keterangan'"", "" 'sakit'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'doker'"", "" 'ramah'"", "" 'ramah'"", "" 'chat'"", "" 'jam'"", "" 'pagi'"", "" 'dilayani'""]",Pelayanan,positif
+5,"[""'cepat'"", "" 'respon'"", "" 'dokter'"", "" 'dita'"", "" 'kondisi'"", "" 'arahan'"", "" 'resep'"", "" 'obat'""]",Pelayanan,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'mantap'"", "" 'tertawa'"", "" 'wilayah'"", "" 'pengantaran'"", "" 'obat'"", "" 'luas'""]",Pelayanan,negatif
+5,"[""'praktis'"", "" 'membantu'"", "" 'dikala'"", "" 'rumahatau'"", "" 'kantor'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'puas'"", "" 'mudah'"", "" 'konsultasi'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'respon'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'senang'"", "" 'konsultasi'"", "" 'di sini'"", "" 'anti'"", "" 'khawatir'"", "" 'contact'""]",Pelayanan,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'pengiriman'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'cepat'"", "" 'kebutuhan'"", "" 'obat'"", "" 'obatan'"", "" 'konsultasi'"", "" 'kesehatan'""]",Anekdot/Serbaneka,positif
+5,"[""'selamat'"", "" 'pagi'"", "" 'sertifikat'"", "" 'dibuka'"", "" 'vaksin'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'"", "" 'terima kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'iya'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'halodoc'"", "" 'membantu'"", "" 'sat'"", "" 'pandemic'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'keluhan'"", "" 'customer service'"", "" 'cepat'"", "" 'menangapi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+3,"[""'chat'"", "" 'balas'"", "" 'dokter'"", "" 'eh'"", "" 'saldo'"", "" 'in'"", "" 'jelek'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'kali'"", "" 'pakai'"", "" 'aplikasi'"", "" 'lancar'"", "" 'informatif'""]",Anekdot/Serbaneka,positif
+5,"[""'keren'"", "" 'praktis'"", "" 'terpercaya'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'kondisi'"", "" 'bedrest'""]",Sistem,positif
+5,"[""'dokter'"", "" 'semoga'"", "" 'anak'"", "" 'lekas'"", "" 'sembuh'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'layanan'"", "" 'halo'"", "" 'doc'"", "" 'membantu'"", "" 'semoga'"", "" 'smkin'"", "" 'sukses'"", "" 'iya'""]",Sistem,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'respon'"", "" 'cepat'"", "" 'pengiriman'"", "" 'cepat'""]",Sistem,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'pasien'"", "" 'berpergian'""]",Sistem,positif
+5,"[""'dokter'"", "" 'penjelasan'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'terima kasih'"", "" 'halodoc'"", "" 'mudah'"", "" 'mudahan'"", "" 'cepat'"", "" 'sembuh'"", "" 'penyakit'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'trmksh'"", "" 'dokter'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'cepat'"", "" 'bagus'""]",Anekdot/Serbaneka,positif
+5,"[""'membatu'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'manfat'"", "" 'bagus'"", "" 'mudah'""]",Anekdot/Serbaneka,positif
+5,"[""'senang'"", "" 'curahan hati'"", "" 'dada'"", "" 'plong'"", "" 'terima kasih'"", "" 'terima kasih'"", "" 'halo'"", "" 'doc'""]",Anekdot/Serbaneka,positif
+5,"[""'terima kasih'"", "" 'membantu'"", "" 'sat'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'memuaskan'"", "" 'petugas'"", "" 'ramah'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'tenang'"", "" 'informasi'"", "" 'solusinya'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'hewan'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'disat'"", "" 'pendemi'"", "" 'skg'"", "" 'rumah sakit'"", "" 'was'"", "" 'was'""]",Anekdot/Serbaneka,positif
+5,"[""'cepat'"", "" 'respon'"", "" 'dokter'"", "" 'ramah'"", "" 'ngejelasin'"", "" 'detail'""]",Anekdot/Serbaneka,positif
+3,"[""'aplikasi'"", "" 'bagus'"", "" 'wilayah'"", "" 'lombok'"", "" 'barat'""]",Sistem,negatif
+5,"[""'membantu'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+2,"[""'chat'"", "" 'dokter'"", "" 'gratis'"", "" 'bayar'""]",Harga,negatif
+5,"[""'membantu'"", "" 'dokter'"", "" 'sabar'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'palagi'"", "" 'kondisi'"", "" 'pandemi'"", "" 'rumah sakit'"", "" 'rujukan'"", "" 'copid'""]",Sistem,positif
+5,"[""'informasi'"", "" 'advise'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'dok'""]",Anekdot/Serbaneka,positif
+5,"[""'oke'"", "" 'membantu'"", "" 'rumah'"", "" 'menemui'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+4,"[""'halo'"", "" 'doc'"", "" 'bayar'"", "" 'gopay'"", "" 'docter'"", "" 'merespon'"", "" 'dikemanain'"", "" 'uang'"", "" 'gopay'"", "" 'bayar'"", "" 'ganti'"", "" 'docter'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+1,"[""'pembayaran'"", "" 'gagal'"", "" 'uang'"", "" 'kepotong'"", "" 'na'"", "" 'dokter'"", "" 'ah'"", "" 'beres'""]",Sistem,negatif
+5,"[""'bagus'"", "" 'membantu'"", "" 'pandemic'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'membantu'"", "" 'terima kasih'"", "" 'semoga'"", "" 'sukses'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'membeli'"", "" 'obat'"", "" 'langsung'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'responsif'"", "" 'aplikasi'"", "" 'ngak'"", "" 'lambat'"", "" 'loading'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'disat'"", "" 'sat'"", "" 'mendesak'""]",Pelayanan,positif
+5,"[""'memudahkan'"", "" 'terima kasih'"", "" 'layanan'""]",Pelayanan,positif
+5,"[""'oke'"", "" 'membantu'""]",Pelayanan,positif
+5,"[""'mantap'"", "" 'aplikasi'"", "" 'cepat'"", "" 'tangap'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'respon'"", "" 'dokter'"", "" 'apotek'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'"", "" 'saran'"", "" 'responsif'""]",Anekdot/Serbaneka,positif
+5,"[""'oke'"", "" 'dokternya'""]",Pelayanan,positif
+5,"[""'puas'"", "" 'konsultasi'"", "" 'aplikasi'"", "" 'haldoc'"", "" 'layanan'"", "" 'cepat'""]",Anekdot/Serbaneka,positif
+5,"[""'ketemu'"", "" 'pengembangan'"", "" 'video'"", "" 'cal'"", "" 'keren'""]",Anekdot/Serbaneka,positif
+1,"[""'barang'"", "" 'bayar'"", "" 'respon'"", "" 'jelek'""]",Anekdot/Serbaneka,negatif
+5,"[""'terima kasih'"", "" 'aplikasi'"", "" 'terbantu'""]",Anekdot/Serbaneka,positif
+5,"[""'bagus'"", "" 'pengiriman'"", "" 'pesanan'"", "" 'cepat'"", "" 'diskon'"", "" 'huhuhu'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'cepat'"", "" 'kirim'"", "" 'cepat'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'ribet'"", "" 'rumah'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'cepat'"", "" 'tangap'"", "" 'ramah'"", "" 'memuaskan'""]",Pelayanan,positif
+5,"[""'pertanyan'"", "" 'sabar'""]",Pelayanan,positif
+5,"[""'memudahkan'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'kondisi'"", "" 'sibuk'"", "" 'ditambah'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+4,"[""'penyelamat'"", "" 'dikala'"", "" 'obat'"", "" 'dicari'"", "" 'apotek'"", "" 'terdekat'"", "" 'kosong'""]",Anekdot/Serbaneka,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'halodoc'"", "" 'semoga'"", "" 'maju'"", "" 'berkembang'""]",Anekdot/Serbaneka,positif
+2,"[""'donwload'"", "" 'resep'"", "" 'digital'"", "" 'document'"", "" 'keterangan'"", "" 'terunduh'"", "" 'masuk'"", "" 'document'""]",Sistem,negatif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'memudahkan'"", "" 'masyarakat'""]",Sistem,positif
+5,"[""'membantu'"", "" 'meringankan'"", "" 'beban'"", "" 'rumah'""]",Anekdot/Serbaneka,positif
+5,"[""'kali'"", "" 'konsultasi'"", "" 'di sini'"", "" 'semoga'""]",Anekdot/Serbaneka,positif
+5,"[""'oke'"", "" 'dicoba'""]",Anekdot/Serbaneka,netral
+5,"[""'membantu'"", "" 'mencari'"", "" 'informasi'"", "" 'kesehatan'"", "" 'terima kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'senang'"", "" 'deh'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'cepat'"", "" 'tangapi'"", "" 'puas'"", "" 'konsultasi'"", "" 'halodoc'"", "" 'terima'"", "" 'kasih'""]",Pelayanan,positif
+5,"[""'bermanfat'""]",Pelayanan,positif
+1,"[""'nungu'"", "" 'dokter'"", "" 'chat'"", "" 'h'"", "" 'bayar'"", "" 'registrasi'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'"", "" 'pembelian'"", "" 'obat'"", "" 'konsultasi'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'mantaps'"", "" 'cepat'"", "" 'obat'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+1,"[""'prabayar'"", "" 'mengunakn'"", "" 'ovo'"", "" 'gimna'"", "" 'komen'"", "" 'dokter'"", "" 'hu'"", "" 'payah'""]",Sistem,negatif
+1,"[""'ribet'"", "" 'aplikasi'"", "" 'nyambungin'"", "" 'gopay'"", "" 'susah'""]",Sistem,negatif
+5,"[""'bermanfat'"", "" 'bagus'"", "" 'aplikasinya'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'inovasi'"", "" 'anak'"", "" 'bangsa'"", "" 'hebat'"", "" 'membantu'"", "" 'masyarakat'"", "" 'indonesia'"", "" 'mempermudah'"", "" 'akses'"", "" 'layanan'"", "" 'kesehatan'"", "" 'fitur'"", "" 'fitur'"", "" 'membantu'"", "" 'di tengah'"", "" 'pandemi'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'membantu'"", "" 'berobat'"", "" 'mengantri'"", "" 'ulasan'"", "" 'lengkap'""]",Anekdot/Serbaneka,positif
+5,"[""'semoga'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'alhamdulilah'"", "" 'aplikasi'"", "" 'bagus'""]",Anekdot/Serbaneka,positif
+5,"[""'bagus'"", "" 'aplikasinya'""]",Anekdot/Serbaneka,positif
+5,"[""'keren'"", "" 'deh'"", "" 'aplikasi'"", "" 'halodoc'"", "" 'keadan'"", "" 'urgent'""]",Anekdot/Serbaneka,positif
+5,"[""'lumayan'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'puas'"", "" 'berkonsultasi'"", "" 'dokter'"", "" 'halo'"", "" 'dok'""]",Pelayanan,positif
+5,"[""'memuaskan'""]",Anekdot/Serbaneka,positif
+5,"[""'bermanfat'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'membatu'""]",Anekdot/Serbaneka,positif
+3,"[""'bicara'"", "" 'bicara'"", "" 'halodoc'"", "" 'menyediakan'"", "" 'kalender'"", "" 'menstruasi'"", "" 'iya'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'terima'"", "" 'kasih'"", "" 'cepat'"", "" 'respon'"", "" 'dokter'"", "" 'spog'"", "" 'resep'"", "" 'cocok'""]",Pelayanan,positif
+5,"[""'bagus'"", "" 'mantap'""]",Anekdot/Serbaneka,positif
+5,"[""'penjelasan'"", "" 'mengerti'""]",Pelayanan,positif
+4,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'pertanyan'"", "" 'lugas'""]",Pelayanan,positif
+5,"[""'senang'"", "" 'konsultasi'"", "" 'mudah'""]",Anekdot/Serbaneka,positif
+1,"[""'daftar'"", "" 'gagal'"", "" 'sinyal'"", "" 'lancar'""]",Sistem,negatif
+5,"[""'semoga'"", "" 'anak'"", "" 'cocok'"", "" 'obat'"", "" 'dokter'"", "" 'anak'"", "" 'resepkan'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'mudah'"", "" 'mantap'"", "" 'pokonya'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'memudahkan'"", "" 'pandemi'""]",Pelayanan,positif
+1,"[""'pelan'"", "" 'dibuka'"", "" 'ngelag'""]",Sistem,negatif
+5,"[""'praktis'"", "" 'antre'"", "" 'dokter'"", "" 'cepat'"", "" 'respon'""]",Sistem,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'cepat'"", "" 'respon'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'beli'"", "" 'obat'"", "" 'jam'"", "" 'gampang'"", "" 'ribet'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'pakai'"", "" 'konsultasi'"", "" 'hasil'"", "" 'bagus'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'prima'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'kondisi'"", "" 'penyakit'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'disat'"", "" 'situasi'"", "" 'pandemi'"", "" 'sat'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'oke'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'cepat'"", "" 'tangap'"", "" 'mendengarkan'"", "" 'keluhan'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'disat'"", "" 'sukses'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'respon'"", "" 'dokter'"", "" 'ramah'"", "" 'cepat'"", "" 'semoga'"", "" 'sukses'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'dibutuhkan'"", "" 'rumah sakit'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'memuaskan'"", "" 'cepat'"", "" 'obat'"", "" 'apapun'"", "" 'tersedia'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membatu'""]",Pelayanan,positif
+5,"[""'halodock'"", "" 'membantu'"", "" 'sat'"", "" 'sakit'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+1,"[""'mengunakan'"", "" 'metode'"", "" 'perbayar'"", "" 'yok'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'berobat'"", "" 'pandemi'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+4,"[""'terima'"", "" 'kasih'"", "" 'dokter'"", "" 'ramah'""]",Pelayanan,positif
+5,"[""'aplikasi'"", "" 'membantu'"", "" 'apalg'"", "" 'disat'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'layanan'"", "" 'konsultasi'"", "" 'kesehatan'"", "" 'gercep'"", "" 'sederhana'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'cepat'"", "" 'praktis'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'pandemi'""]",Pelayanan,positif
+4,"[""'seru'"", "" 'sih'"", "" 'ngobrol'"", "" 'bareng'"", "" 'dokter'"", "" 'teman'"", "" 'curahan hati'""]",Pelayanan,positif
+4,"[""'dokter'"", "" 'ramah'"", "" 'puas'"", "" 'solusinya'""]",Pelayanan,positif
+5,"[""'membantu'""]",Pelayanan,positif
+5,"[""'membanty'""]",Pelayanan,positif
+5,"[""'sat'"", "" 'membantu'"", "" 'pandemi'"", "" 'dokter'"", "" 'bagus'""]",Anekdot/Serbaneka,positif
+5,"[""'mantap'"", "" 'mbantu'"", "" 'adan'"", "" 'darurat'""]",Anekdot/Serbaneka,positif
+5,"[""'sngat'"", "" 'puas'"", "" 'dokter'"", "" 'kasih'"", "" 'arahan'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'puas'"", "" 'pelayanan'"", "" 'semoga'"", "" 'berkah'"", "" 'sehat'""]",Pelayanan,positif
+5,"[""'obat'"", "" 'dokter'"", "" 'manjur'"", "" 'terima kasih'"", "" 'dok'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'perhatian'"", "" 'terima kasih'"", "" 'halodoc'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pandemin'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'dokter'"", "" 'ramah'""]",Anekdot/Serbaneka,positif
+5,"[""'terbantu'"", "" 'pandemi'"", "" 'masi'"", "" 'takut'"", "" 'rumah sakit'""]",Anekdot/Serbaneka,positif
+5,"[""'ramah'"", "" 'respon'"", "" 'cepat'"", "" 'terima kasih'""]",Pelayanan,positif
+5,"[""'singkat'"", "" 'padat'"", "" 'gapake'"", "" 'chat'"", "" 'dokter'"", "" 'spesialis'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'sat'"", "" 'situasi'"", "" 'bgni'""]",Anekdot/Serbaneka,positif
+5,"[""'ah'"", "" 'nyaman'"", "" 'dokter'"", "" 'suka'"", "" 'deh'""]",Anekdot/Serbaneka,positif
+5,"[""'respon'"", "" 'dokter'"", "" 'cepat'"", "" 'detail'"", "" 'pengiriman'"", "" 'obat'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'respon'"", "" 'dokter'"", "" 'aplikasi'"", "" 'membantu'"", "" 'pasien'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pandemi'"", "" 'sih'"", "" 'demam'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'aplikasi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'terima'"", "" 'kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'terima kasih'"", "" 'kasih'"", "" 'bantuan'"", "" 'halo'"", "" 'dok'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'mengunakan'"", "" 'halodoc'"", "" 'dokter'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'bagus'"", "" 'obat'"", "" 'cepat'""]",Pelayanan,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+1,"[""'alhamdulilah'"", "" 'pakai'"", "" 'halodoc'"", "" 'gratis'"", "" 'bayar'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'penjelasan'"", "" 'resep'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'kondisi'"", "" 'menentu'""]",Anekdot/Serbaneka,positif
+5,"[""'terbaik'"", "" 'membantu'"", "" 'pandemi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'rumah'"", "" 'terima kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'suka'"", "" 'dokter'"", "" 'aplikasi'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'"", "" 'dikala'"", "" 'pendemi'""]",Anekdot/Serbaneka,positif
+5,"[""'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'respon'"", "" 'cepat'"", "" 'koperatif'""]",Pelayanan,positif
+5,"[""'dokter'"", "" 'ramah'"", "" 'ramah'"", "" 'detail'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'kebutuhan'"", "" 'obat'"", "" 'thanks'""]",Anekdot/Serbaneka,positif
+5,"[""'bagus'"", "" 'menolong'"", "" 'terima'"", "" 'kasih'""]",Anekdot/Serbaneka,positif
+5,"[""'daftar'"", "" 'vaksin'"", "" 'tanggal'"", "" 'delapan'"", "" 'maret'"", "" 'menceknya'""]",Anekdot/Serbaneka,negatif
+5,"[""'membantu'"", "" 'pandemi'"", "" 'terima kasih'"", "" 'ksh'""]",Anekdot/Serbaneka,positif
+5,"[""'semudah'"", "" 'diklik'"", "" 'praktis'"", "" 'membantu'""]",Anekdot/Serbaneka,positif
+5,"[""'pelayanan'"", "" 'ramah'"", "" 'paham'"", "" 'bidangnya'""]",Anekdot/Serbaneka,positif
+4,"[""'bagus'"", "" 'aplikasi'"", "" 'pu'"", "" 'dokter'"", "" 'pribadi'"", "" 'terima kasih'"", "" 'halodoc'""]",Anekdot/Serbaneka,positif
+5,"[""'memudahkan'"", "" 'konsultasi'"", "" 'rumah'""]",Pelayanan,positif
+5,"[""'membantu'"", "" 'pelayanan'"", "" 'dokter'"", "" 'memuaskan'""]",Pelayanan,positif

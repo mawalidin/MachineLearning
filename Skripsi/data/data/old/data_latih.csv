@@ -1,0 +1,801 @@
+review,sentiment
+'membantu' 'kondisi' 'pandemi' 'tolong' 'dievaluasi' 'ketersedian' 'obat' 'apotek' 'rekanan' 'halodoc' 'kota' 'manado' 'resep' 'obat' 'batuk' 'apotek' 'suka' 'habis' 'sia' 'sia' 'konsultasi' 'dokter' 'ujung' 'ujung' 'obat' 'diresepkan' 'apotek' 'rugi' 'chat' 'dobel' 'biaya' 'masukan' 'halodoc' 'pakai' 'fitur' 'chat' 'us' 'customer service' 'halodoc' 'sb' 'customer service' 'mengubah' 'produk' 'obat' 'menyarankan' 'konsultasi' 'dokter',0
+'konsultasi' 'dokter' 'halo' 'doc' 'bagus' 'sih' 'durasi' 'cepat' 'ta' 'ta' 'dokter' 'sdb' 'di akhir' 'dokter' 'chatingan' 'oke' 'bantu' 'terima kasih' 'iya',1
+'astaga' 'obat' 'beli' 'obat' 'halo' 'doc' 'harga' 'masuk' 'akal' 'kali' 'lipat' 'replay' 'chat' 'bantuan' 'belas' 'kali' 'coba' 'pembayaran' 'resep' 'c' 'bank' 'berbeda' 'obat' 'gagal' 'solusi' 'penyelesain' 'berulang' 'kali' 'gagal' 'harga' 'obat' 'masuk' 'akal' 'semoga' 'halo' 'doc' 'banding' 'pesaing',0
+'terima kasih' 'halodoc' 'pelayanan' 'cepat' 'pengiriman' 'thanks' 'tertawa' 'nambahkan' 'halodoc' 'pelayanan' 'pengiriman' 'obat' 'thanks' 'halodoc',1
+'menelepon' 'nomor' 'halodoc' 'hadiah' 'halodoc' 'konfirmasi' 'aplikasi' 'halodoc' 'mengadakan' 'hadiah' 'email' 'nomor' 'telepon genggam',0
+'sumpah' 'alternatif' 'miris' 'keuangan' 'tempered glass' 'sakit' 'dirasa' 'hemat' 'pakai' 'aplikasi' 'bagus' 'pekerjaan' 'halodoc' 'cocok' 'anak' 'kosan',1
+'konfirmasi' 'customer service' 'berguna' 'selesai' 'dikomunikasikan' 'diulang' 'di mana' 'dikasih' 'bukti' 'screnshot' 'ampun' 'ampun' 'iya' 'munculin' 'aplikasi',0
+'membantu' 'disat' 'darurat' 'rumah' 'anak' 'tetiba' 'anak' 'sakit' 'obat' 'habis' 'pesan' 'dihalodoc' 'harga' 'obat' 'enak' 'dicarikan' 'termurah' 'terima kasih',1
+'suka' 'suka' 'aplikasi' 'berbeda' 'aplikasi' 'sebelah' 'penjelasan' 'rekomendasi' 'obat' 'dokter' 'kesel' 'konsultasi' 'dokter' 'melewatkan' 'ganti' 'dokterpun' 'saldo' 'berkurang' 'dikembalikan' 'semingu' 'mohon' 'diperhatikan' 'dokter' 'sibuk' 'aktivitas' 'menyalakan' 'konsultasi' 'penguna' 'tertawa' 'mengunakan' 'apl' 'keadan' 'darurat',1
+'membantu' 'konsultasi' 'whatsapp' 'sat' 'pandemi' 'chat' 'respon' 'plus' 'prihal' 'membantu' 'terima' 'kasih' 'halodoc',1
+'kali' 'telepon' 'mengatas' 'nama' 'halodoc' 'aneh' 'penelpon' 'email' 'bilang' 'uang' 'juta' 'rupiah' 'aplikasi' 'halodoc' 'memprivasi' 'email' 'sehinga' 'mengambil' 'keuntungan' 'menipu' 'tolong' 'privasi' 'perketat',0
+'keren' 'cepat' 'bagus' 'membantu' 'tertawa' 'rumah' 'cek' 'kesehatan' 'aman' 'dimasa' 'pandemik' 'covid' 'sembilan' 'belas',1
+'membantu' 'jam' 'anak' 'sakit' 'konsultasi' 'dokter' 'terima' 'kasih' 'halodoc' 'adi' 'suryadinata' 'sp' 'a' 'membantu',1
+'membantu' 'mempermudah' 'mencari' 'obat' 'obatan' 'respon' 'cepat' 'pesan' 'puluh' 'terima kasih',1
+'pulang' 'hapus' 'aplikasi' 'halodoc' 'kecewa' 'profesional' 'di bagian' 'chat' 'customer' 'terima' 'kasih',0
+'konsultasi' 'pembayaran' 'pakai' 'c' 'kali' 'gagal' 'walopun' 'keterangan' 'dana' 'dikembalikan' 'konsultasi' 'coba' 'malas' 'tolong' 'sistem' 'pembayaran' 'diperbaiki',0
+'ngebantu' 'disat' 'pergi' 'rumah' 'sakit' 'antrian' 'dekat sekali' 'aplikasi' 'ngebantu' 'praktis' 'takut' 'langsung' 'konsultasi' 'dokter' 'dikasi' 'resep' 'makasi',1
+'ralat' 'kembalikan' 'bayar' 'aplikasi' 'membantu',0
+'jujur' 'puas' 'nasihat' 'nasihat' 'penjelasan' 'dokter' 'disayangkan' 'konsultasi' 'aplikasi' 'puluh' 'menit' 'otomatis' 'berhenti' 'berta',0
+'membantu' 'obat' 'dicari' 'dibeberapa' 'apotek' 'kosong' 'lengkap' 'pemakaian' 'gampang' 'thanks',1
+'aplikasi' 'membantu' 'kesehatan' 'produk' 'kesehatan' 'mengunakan' 'aplikasi' 'konsultasi' 'penyakit' 'beli' 'obat' 'obatan' 'produk' 'kesehatan' 'aplikasi' 'memilih' 'halodoc' 'langsung' 'konek' 'akun' 'gojek' 'terima kasih' 'pelayanan' 'sukses' 'halodoc',1
+'tolong' 'iya' 'ditindaklanjuti' 'respon' 'email' 'chat' 'transaksi' 'kali' 'beli' 'gopay' 'kurir' 'mengantar' 'kecewa' 'pengembalian dana',0
+'aplikasi' 'bagus' 'Cuma' 'saran' 'adakan' 'opsi' 'pembayaran' 'gerai' 'kaya' 'alfamartatau' 'indomart' 'ngebantu' 'remaja' 'orang' 'orang' 'gapu' 'gopayatau' 'catau' 'debitatau' 'et cetera',1
+'oke' 'aplikasi' 'ketemu' 'di mana' 'respon' 'dokter' 'cepat' 'bagus' 'pertahankan' 'membantu',1
+'aplikasi' 'nomor' 'ribet' 'membantu' 'keliling' 'apotek' 'obat' 'obat' 'jarang' 'tersedia' 'diapotik' 'konsultasi' 'dokter' 'mudah' 'pelayanan' 'ramah',1
+'membantu' 'aplikas' 'khawatir' 'mendadak' 'malam' 'butuh' 'obat' 'halodoc' 'membantu',1
+'sangan' 'membantu' 'sat' 'isoman' 'membeli' 'obat' 'sehinga' 'mencegah' 'penularan' 'virus' 'orang',1
+'halo' 'kakak' 'kakak' 'daftar' 'iya' 'masukan' 'email' 'nomor' 'telepon' 'masuk' 'nungu' 'iya',1
+'membantu' 'orang' 'malas' 'rumah' 'aplgi' 'nungu' 'antre' 'dokter' 'pelayanan' 'cepat' 'resep' 'akurat',1
+'kali' 'coba' 'membantu' 'sat' 'pandemi' 'covid' 'rumah' 'diagnosis' 'beli' 'obat',1
+'halodoc' 'memudahkan' 'antre' 'rumah' 'sakit' 'konsultasi' 'aplikasi' 'obat' 'diantar' 'rumah' 'so' 'helpful',1
+'alhamdulilah' 'halodoc' 'membantu' 'sat' 'pandemic' 'dokter' 'spesialis' 'juara' 'juara' 'semoga' 'pertahankan' 'bagus' 'halodoc',1
+'admin' 'suntik' 'vaksin' 'dosis' 'tanggal' 'sembilan' 'tanggal' 'sebelas' 'teman' 'sms' 'suntik' 'vaksin' 'dosis' 'admin' 'mohon' 'pencerahanya',1
+'konsultasi' 'pertanyan' 'pertanyan' 'antisipasi' 'rumah' 'membantu' 'terima' 'kasih' 'sudh' 'menyediakam' 'apliksi',1
+'terbantu' 'aplikasi' 'kemarin' 'cari' 'resep' 'dokter' 'muter' 'muter' 'apotek' 'terdekat' 'ketemu' 'aplikasi' 'terbantu' 'capek' 'capek' 'muter' 'muter',1
+'umur' 'enam' 'belas' 'pu' 'uang' 'konsultasi' 'dokter' 'konsultasi' 'bayar' 'solosi' 'pertanyan' 'it' 'tolong',0
+'aplikasi' 'bagus' 'chat' 'psikiatris' 'mudah' 'daring' 'dokter' 'ramah' 'menghakimi' 'mengerti' 'keadan' 'terima' 'kasih' 'halodoc',1
+'terima kasih' 'bermanfat' 'aplikasi' 'konsultasi' 'dokter' 'mudah',1
+'alhamdulilah' 'vaksin' 'i' 'kendala' 'efek' 'samping' 'tertawa' 'timbul' 'ngantuk' 'divaksin',1
+'kecepatan' 'pengiriman' 'kilat' 'harga' 'obat' 'obatan' 'berbeda' 'apotek' 'langsung' 'over' 'al' 'i' 'proud' 'halodoc',1
+'aplikasi' 'jelek' 'kali' 'pesan' 'apotek' 'obat' 'suruh' 'dibatalkan' 'dibatalkan' 'bermslh' 'telepon' 'customer service' 'batalin' 'tempered glass' 'jam' 'batalin' 'pas' 'btl' 'saldo' 'halo' 'doc' 'tempered glass' 'kerja',0
+'bagus' 'konsultasi' 'dokter' 'rumah' 'sakit' 'khawatir' 'kena' 'covid' 'murah' 'harga' 'berkonsultasi',1
+'pelayanan' 'cepat' 'aneh' 'pembayaran' 'memakai' 'kartu' 'kredit' 'kartu' 'tersedia' 'available',0
+'aplikasi' 'ngelag' 'coba' 'uninstal' 'telepon genggam' 'aplikasi' 'berat' 'telepon genggam' 'jalan' 'halodoc',0
+'dokter' 'hebat' 'hebat' 'fokus' 'keluhan' 'derita' 'terima' 'kasih' 'halodoc',1
+'kali' 'mengunakan' 'halodoc' 'efektif' 'murah',1
+'bagus' 'membantu' 'pu' 'luang' 'dokter' 'dokter' 'bagus' 'layanan' 'kesehatan' 'beragam',1
+'respon' 'keluhan' 'team' 'customer service' 'sat' 'respon' 'update' 'respon' 'team' 'customer service' 'cepat',1
+'membantu' 'konsultasi' 'dokter' 'langsung' 'repot' 'rumah' 'sakit' 'faskes' 'terima' 'kasih' 'halodoc',1
+'menelpon' 'agen' 'helodoc' 'kerna' 'nomor' 'rekening',0
+'bintang' 'kode' 'voucher' 'vaksinasi' 'kasih' 'bintang' 'semingu',0
+'bagus' 'dokter' 'responsif' 'lumayan' 'enak' 'diajak' 'diskusi' 'logis' 'analisis' 'sat' 'deg' 'degan' 'dokter' 'dirs' 'ketemu' 'senang',1
+'enak' 'antre' 'disat' 'sakit' 'chat' 'langsung' 'dibales' 'obat' 'diantar' 'terima' 'kasih' 'holodoc',1
+'puas' 'konsultasi' 'di sini' 'sat' 'pandemi' 'dokter' 'ramah',1
+'memuaskan' 'balas' 'cepat' 'pilihan' 'dokter' 'meresepkan' 'obat' 'mahal' 'semoga' 'cocok',1
+'selamat' 'sore' 'admin' 'aplikasi' 'halodoc' 'bekerjasama' 'medicilin' 'mohon' 'admin' 'terima' 'kasih',0
+'membantu' 'sat' 'urgent' 'langsung' 'tindakan' 'selanjut' 'dokter' 'ramah' 'terima kasih' 'halodoc',1
+'konsultasi' 'putri' 'farisa' 'sp' 'konsultasi' 'selesai' 'resep' 'obat' 'terima' 'kasih',1
+'suka' 'menu' 'konsultasi' 'dokter' 'memudahkan' 'mencari' 'informasi' 'tempered glass' 'kesehatan' 'tubuh',1
+'aplikasi' 'membantu' 'dokter' 'ramah' 'ramah' 'profesional' 'sukses' 'halodoc',1
+'membantu' 'posisi' 'di luar' 'kota' 'kondisi' 'badan' 'fit' 'susah' 'cari' 'dokter' 'butuh' 'obat' 'sesuai' 'dosis' 'terbantu' 'aplikasi' 'super' 'terima kasih' 'to' 'halodoc',1
+'membatu' 'terbantu' 'sat' 'dokter' 'konsultasi' 'di sini',1
+'kali' 'coba' 'gomed' 'cepat' 'respon' 'pengiriman' 'tingkatkan',1
+'alhamdulilah' 'konsultasi' 'psikologi' 'halodoc',1
+'dokter' 'bagus' 'penjelasan' 'detail' 'saran' 'saran' 'pas' 'obat' 'diresepkan' 'oke',1
+'pelayanan' 'konsultasi' 'iya' 'enak' 'puas' 'terima kasih' 'dokter' 'iman' 'terima kasih' 'halodoc',1
+'membantu' 'aplikasi' 'disat' 'lelah' 'rumah' 'dibantu' 'tertawa' 'aplikasi' 'wow',1
+'tangapan' 'lambat' 'mengetik' 'keluhan' 'sokter' 'chat' 'masuk' 'pakai' 'pangilan' 'suara' 'suara' 'perbaiki' 'pemakaian' 'berbayar' 'gratis',0
+'cangih' 'berobat' 'di mana' 'keren' 'pas' 'cobain' 'fre' 'skrng' 'bayar' 'ehehe',1
+'kendala' 'boking' 'tes' 'swab' 'antigen' 'klinik' 'tutup' 'operasial' 'di mana' 'boking' 'tes' 'swab' 'antigen' 'tim' 'halodoc' 'cepat' 'respon' 'menelpon' 'konfirmasi' 'pengembalian dana' 'masukan' 'kordinasi' 'klinik' 'rs' 'rekanan' 'ditingkatkan' 'sisa' 'bagus' 'terima' 'kasih',1
+'kali' 'pakai' 'langsung' 'merasakan' 'puas' 'semoga' 'layanan' 'konsisten' 'prima' 'sehinga' 'menambah' 'kepercayan' 'thanks' 'iya' 'halodoc',1
+'pelayanan' 'oke' 'tertawa' 'pembayaran' 'mengunanakan' 'debit' 'kartu' 'kendala' 'walopun' 'opsi' 'pembayaran',1
+'dengar' 'sih' 'aplikasi' 'bagus' 'instal' 'eh' 'sat' 'masuk' 'aplikasi' 'ngak' 'ngerespon' 'sih',0
+'lumayan' 'lengkap' 'pelayanan' 'cepat' 'aplikasi' 'mudah' 'membantu',1
+'terima kasih' 'kasih' 'silfia' 'mandasari' 'sp' 'dv' 'respon' 'cepat' 'arahan' 'resep',1
+'bagus' 'respon' 'cepat' 'akurat' 'sukses' 'halodoc',1
+'kemudahan' 'tertawa' 'rumah' 'sakit' 'ter' 'obati',1
+'pelayanan' 'dokter' 'ramah' 'cepat' 'balas' 'kali' 'terkesan',1
+'terbantu' 'situasi dan kondisi' 'sukses' 'halodoc',1
+'pesan' 'obat' 'dibayar' 'dibatalkan' 'bayar' 'obat' 'ratusan' 'ribu',0
+'pengembalian dana' 'uang' 'telepon' 'customer' 'pelayanan',0
+'kali' 'konsultasi' 'bagus' 'kali' 'konsultasi' 'drh' 'pelayanan' 'parah' 'blsin' 'chat' 'luama' 'wktu' 'puluh' 'menit' 'habis' 'menyarankan' 'klinik' 'drh' 'langsung' 'curahan hati' 'kucing' 'bla' 'bla' 'bla' 'konsultasi' 'drh' 'mencari' 'solusi' 'kucing' 'jwbn' 'mencla' 'mencle' 'bahasa' 'sopan' 'mangil' 'bpkatau' 'saudara' 'tlg' 'seleksi' 'rekrut' 'dokter' 'jelek' 'pelayanan' 'kuapok' 'deh',0
+'customer service' 'halodoc' 'mengalami' 'kendala' 'sehinga' 'be' 'menelponatau' 'chat' 'tim' 'help' 'halodoc',1
+'sat' 'selesai' 'pembayaran' 'sukses' 'terpotong' 'saldo' 'eh' 'dokter' 'sibuk' 'pengembalian' 'dana' 'butuh' 'hinga' 'belas' 'terhitung' 'belas' 'masuk' 'konfirmasi' 'bank' 'terkait' 'aduh' 'otomatis' 'dana' 'dikembalikan' 'masuk' 'rekening' 'konfirmasi' 'bank' 'ribet' 'tolong' 'permudah' 'pengembalian dana' 'orang' 'rumah' 'bank',0
+'sederhana' 'aplikasi' 'kebutuhan' 'medis' 'pesan' 'mudah' 'cepat',1
+'memgecewakan' 'kali' 'daftar' 'vaksin' 'csembilan' 'belas' 'lanjut usia' 'ditolak' 'alasan' 'mesti' 'pakai' 'ktp' 'suket' 'domisili' 'sebenar' 'vaksinasi' 'csembilan' 'belas' 'mengunakan' 'suket' 'domisili' 'nama' 'vaksin' 'gratis' 'iya' 'warga' 'negara' 'indonesia' 'semoga' 'ulasan' 'dihapus' 'admin' 'halodoc',0
+'terima' 'kasih' 'gojek' 'vaksinasi' 'prambanan' 'bagus' 'pelayanan' 'le' 'nyuntik' 'blas' 'ra' 'loro',1
+'halodoc' 'profesional' 'halodoc' 'terbantu',1
+'alhamdulilah' 'konsultasi' 'dokter' 'tatap' 'muka',1
+'kali' 'konsultasi' 'puas' 'dokter' 'membantu',1
+'halodoc' 'bermanfat' 'cepat' 'respon' 'jempolan' 'halodoc',1
+'temanhidupsehat' 'membantu' 'konsultasi' 'informasi' 'terkait' 'kesehatan',1
+'dokter' 'anak' 'cepat' 'respon' 'aplikasi' 'membantu' 'sat' 'kondisi',1
+'apliaksi' 'membantu' 'sat' 'darurat' 'tengkyu' 'halodoc' 'ditungu' 'promo' 'menarik',1
+'alhamdulilah' 'memudahkan' 'konsultasi' 'dokter' 'spesialis',1
+'aplikasi' 'dokter' 'keluarga' 'sahabat' 'dijangkau' 'berjarak' 'pu' 'aplikasi' 'sakit' 'pencuri' 'panik' 'pastikan' 'saldo' 'gopay' 'sederhana' 'hub' 'dokter' 'infokan' 'keluhan' 'dibantu' 'obati' 'tungu' 'obat' 'dikirim' 'instant' 'beli' 'gojek' 'sunguh' 'terobosan' 'bermanfat' 'era' 'pandemi' 'mjd' 'berjarak' 'halodoc' 'mendekatkn' 'dokter' 'sukses' 'halodoc',1
+'sih' 'dokter' 'ngelewatin' 'chat' 'gtu' 'terima' 'ajuan' 'saldo' 'diambil' 'uang' 'diambil' 'konsultasi' 'tolong' 'customer' 'pelayanan' 'sih' 'keluhan' 'rugi' 'mengecewakan' 'halodoc',0
+'kemarin' 'kamis' 'tanggal' 'maret' 'puluh' 'puluh' 'jam' 'puluh' 'wita' 'telepon' 'mengatasnamakan' 'cal' 'center' 'halo' 'dokter' 'halodoc' 'menginfokan' 'fitur' 'halodoc' 'menyuruh' 'aktivasi' 'biaya' 'paket' 'bulanan' 'rp' 'puluh' 'sembilan' 'nol' 'auto' 'debit' 'bank' 'infokan' 'email' 'aktif' 'terdaftar' 'percaya' 'halodoc' 'menyetujui' 'informasi' 'gmailatau' 'email' 'dana' 'terpotong',0
+'membant' 'konsultasi' 'rumah' 'kondisi' 'covid',1
+'parah' 'vaksin' 'lanjut usia' 'dosis' 'di sini' 'parah' 'nungu' 'jam' 'tertawa' 'antre' 'heran' 'vaksin' 'lancar' 'habis' 'buruk' 'kasian' 'orgtua' 'vaksin' 'di sini' 'lebih baik' 'aplikasi' 'sebelah',0
+'dokter' 'di sini' 'luamayan' 'berpengalaman' 'fitur' 'fitur' 'membantu',1
+'thankyou' 'halodoc' 'membantu' 'panik' 'keluhan',1
+'kali' 'instal' 'daftarin' 'vaksin' 'lanjut usia' 'tangal' 'bertuliskan' 'slot' 'tersedia' 'isi' 'data' 'upload' 'ktp' 'giliran' 'submit' 'penuh' 'tulis' 'auto' 'recheck' 'eh' 'tep' 'tersedia' 'slot' 'resubmit' 'penuh' 'banget' 'perbaiki',0
+'membantu' 'pembelian' 'obat' 'kota',1
+'membantu' 'memudahkan' 'pasien' 'keluarga' 'pelayanan' 'kesehatan',1
+'konsultasi' 'memuaskan' 'direkomendasikan' 'sat' 'rumah' 'mengurangi' 'mobilitas' 'semoga' 'dokter' 'dokter' 'halodoc' 'sehat' 'membantu' 'melayani' 'keluhan' 'pasien' 'membutuhkan' 'direkomendasikan',1
+'kasih' 'bintang' 'semoga' 'aplikasi' 'pelayanan',1
+'membantu' 'dokter' 'enak' 'cepat' 'respon',1
+'puas' 'pelayanan' 'dilapangan' 'terkait' 'vaksin' 'terima' 'lancar' 'cepat' 'petugas' 'ramah' 'sabar' 'penuh' 'perhatian' 'terima kasih' 'halodoc' 'salam' 'sehat',1
+'tolong' 'kasih' 'chat' 'docter' 'pembayaran',1
+'konsultasi' 'dokter' 'menghemat' 'thanks' 'halodoc',1
+'terbaik' 'situasi' 'apapun' 'jam' 'konsultasi',1
+'menyenangkan' 'langsung' 'konsultasi' 'dokter' 'rumah',1
+'janji' 'sesuai' 'jadwal' 'tersedia' 'lab' 'prodia' 'mega' 'galaxy' 'sby' 'sebelas' 'maret' 'jam' 'sembilan' 'pagi' 'h' 'prodia' 'tutup' 'heran' 'jadwal' 'tersedia' 'aplikasi' 'halodoc' 'orang' 'kecele' 'chat' 'bantuan' 'halodoc' 'slow' 'respon' 'tujuh' 'jam' 'solusi' 'sms' 'halodoc' 'membatalkanatau' 'mereschedul' 'coba' 'aplikasi' 'aplikasi' 'pembatalan' 'h' 'berlaku' 'hinga' 'jam' 'jdwl' 'konsultasi' 'reshedule' 'jam' 'jdwl' 'konsultasi' 'ampun' 'ampun' 'deh',0
+'semoga' 'halodoc' 'membantu' 'pasien' 'konsultasi' 'rumah' 'terima' 'kasih',1
+'pesan' 'obat' 'halodoc' 'pelayanan' 'cepat' 'respon' 'langsung' 'dikirim' 'pas' 'urgent',1
+'suka' 'aplikasi' 'membantu' 'pelayanan' 'bagus' 'kali' 'case' 'kirim' 'barang' 'kekurangan' 'langsung' 'kirim' 'kesokan' 'sukses' 'halodoc' 'ditingkatkan' 'pelayanan',1
+'menolong' 'pertolongan' 'kucing' 'drh' 'membantu',1
+'dokter' 'ramah' 'melayani' 'bijaksna' 'terima' 'kasih' 'halodoc',1
+'terima' 'kasih' 'vaksin' 'covid' 'efek' 'segnifikan',1
+'alhamdulilah' 'membantu' 'urusan' 'kesehatan' 'jam',1
+'enak' 'dipakai' 'aplikasi' 'cari' 'obat' 'harga' 'terjangkau',1
+'keren' 'cepat' 'respon' 'konsultasi' 'dokter' 'kandungan',1
+'kasih' 'bintang' 'kasih' 'sepuluh' 'aplikasi' 'terbaik' 'pembelian' 'kebutuhan' 'medis' 'disat' 'darurat' 'rumah' 'bagus' 'masukan' 'tertawa' 'semoga' 'apotek' 'aplikasi' 'jarak' 'pickup' 'obat',1
+'puas' 'konsultasi' 'dokter' 'halodoc' 'pas' 'papua' 'susah' 'nebus' 'obat' 'tertawa' 'nunjukin' 'chat' 'obat' 'untung' 'tanda' 'tangan',1
+'niat' 'instal' 'aplikasi' 'mempermudah' 'beli' 'obat' 'kondisi' 'sakit' 'kos' 'beli' 'estimasi' 'aplikasi' 'cocok' 'kondisi' 'urgent' 'beli' 'obat' 'orang' 'sakit' 'parah' 'terlanjur' 'wasalam' 'obat' 'mengedit' 'ulasan' 'aplikasi' 'halodoc' 'diperbaiki' 'sistemnya',0
+'selamat' 'siang' 'salam' 'telepon' 'mengatas' 'namakan' 'halodoc' 'biaya' 'claim' 'pengaktifan' 'biaya' 'bulanan' 'menyebut' 'nomor' 'rek' 'sistem' 'pemotongan' 'puluh' 'sembilan' 'ribu' 'mohon' 'konfirmasi' 'halodoc' 'takut' 'saldo' 'tepotong' 'terima' 'kasih',0
+'membantu' 'sat' 'pandemi' 'terima kasih' 'halodoc',1
+'konsultasi' 'dokter' 'nyaman' 'sat' 'keluhan' 'foto' 'langsung' 'area' 'sakit' 'pertanyan' 'dokter' 'detail' 'semoga' 'resep' 'cocok' 'mengatasi' 'keluhan' 'terima kasih' 'dok',1
+'praktis' 'oke' 'dokter' 'keluhan' 'terima kasih' 'halodoc',1
+'terima kasih' 'halodoc' 'aplikasi' 'terpercaya' 'chat' 'langsung' 'dokter',1
+'coba' 'kaji' 'vaksin' 'mitra' 'ojol' 'sejati' 'mitra' 'pakai' 'ojol' 'mencari' 'rezeki' 'gojek' 'grab' 'indriver' 'maxim' 'ntr' 'wajib' 'vaksin' 'mitran' 'repot' 'batalin' 'krj' 'vaksin' 'biar' 'mitra' 'vaksin' 'aparatur' 'pemerintah',0
+'halo' 'dokter' 'anak' 'bayi' 'berusia' 'anak' 'rawat' 'rumah' 'sakit' 'hasil' 'rongsen' 'mengidap' 'penyakit' 'radang' 'paru' 'tolong' 'dokter' 'anak' 'sembuh' 'total' 'penyakit' 'trimaksih',1
+'respon' 'dokter' 'terima' 'kasih' 'halodoc',1
+'aplikasi' 'berguna' 'terima' 'kasih' 'mengadakan' 'kegiatan' 'vaksin' 'serentak' 'prambanan' 'sleman' 'terima' 'kasih' 'pemerintahan' 'diy' 'yogyakarta' 'sponsor' 'kegiatan' 'semoga' 'pembuatan' 'kegiatan' 'pahala' 'berlimpah' 'tuhan' 'maha' 'esa' 'terima' 'kasih' 'terbaik' 'regard' 'beny',1
+'posisi' 'pengambilan' 'obat' 'rumah' 'menungu',0
+'janji' 'buka' 'pas' 'jam' 'dokter' 'ngak' 'balas' 'balas' 'tbtb' 'dibatalkan' 'tulisan' 'aplikasi' 'daring' 'mengecewakan' 'mendownload' 'butuh' 'mah' 'ngak' 'berguna' 'donasikan' 'menu' 'donasi' 'pilihan' 'pembayaran' 'saldo' 'halodoc' 'menunjukan' 'pelayanan' 'sebanding' 'aplikasi' 'sebelah',0
+'halo' 'doc' 'klg' 'periksa' 'pacar' 'hasil' 'h' 'periksa' 'tanggal' 'maret' 'jam' 'puluh' 'drive' 'thru' 'kemayoran' 'tanggal' 'maret' 'jam' 'delapan' 'hsl' 'sih' 'butuh' 'hsl' 'cepat' 'pelayanan' 'pemeriksan' 'covid' 'dihalo' 'doc' 'menurun' 'iya' 'periksa' 'gratis' 'lho',0
+'pengalaman' 'asyik' 'konsultasi' 'dokter' 'pilihan',1
+'mohon' 'maf' 'kasih' 'bintang' 'jelek' 'pelayanan' 'pesan' 'vitamin' 'tangal' 'estimasi' 'tangal' 'skrng' 'proses' 'tolong' 'customer service' 'telepon' 'chat' 'cek' 'cek' 'cek' 'pembatalan' 'pesanan' 'beli' 'e' 'comerce' 'saldo' 'tarik' 'rekening' 'tolong' 'tingkatkan' 'pelayanan' 'tolong' 'kirim' 'pesanan',0
+'membantu' 'terima' 'ksh' 'dokter' 'aplikasi',1
+'memudahkan' 'konsultasi' 'dokter' 'bertemu' 'langsung',1
+'konsultasi' 'keluhan' 'mudah' 'ribet' 'antre' 'rumah' 'sakit',1
+'dokter' 'gratis' 'iya',0
+'tertolong' 'zaman' 'covid' 'takut' 'rumah' 'sakit' 'lho' 'konsultasi' 'hewan' 'peliharan' 'konsultasi' 'gigi' 'pokok' 'tertolong' 'terima' 'kasih' 'halo' 'doc',1
+'penjelasan' 'dokter' 'lengkap' 'ramah' 'terima kasih',1
+'halodoc' 'terbaik' 'diandalkan',1
+'malam' 'malam' 'sat' 'sakit' 'bingung' 'na' 'ke mana' 'halodoc' 'keluhan' 'obat' 'langsung' 'diantar' 'tertawa' 'kendala' 'pengiriman' 'kadang' 'driver' 'kontak' 'langsung' 'teleponya',1
+'daring' 'sat' 'pilihan' 'aman',1
+'membantu' 'transaksi' 'biaya' 'permudah' 'iya',1
+'percakapan' 'dokter' 'arahan' 'bagus',1
+'ta' 'vaksin' 'csembilan' 'belas' 'tanggal' 'sembilan' 'maret' 'nol' 'daftar' 'vaksin' 'kode' 'kupon' 'dikirim' 'urus' 'terima' 'kasih',1
+'membantu' 'berkonsultasi' 'langsung' 'dokter',1
+'manteb' 'sih' 'dokter' 'susah' 'mahal',1
+'bayar' 'dokter' 'sibuk' 'chat' 'ulang' 'digubris' 'nyapa' 'bilang' 'dokter' 'sibuk' 'gopay' 'kpotong' 'pengembalian' 'dana' 'mohon' 'diprtimbngkan' 'dokter' 'gubris' 'dilaporkan' 'sibuk' 'sedang apa' 'coba' 'berani' 'daftar' 'halodoc' 'risiko' 'nerima' 'permintan' 'konsultasi' 'pasien' 'manapun' 'donk' 'diemin' 'gajls' 'pengembalian dana' 'flexible' 'kali' 'xempat' 'jam' 'respon' 'sesi' 'berbayar' 'hak' 'pasien' 'jangn' 'makan' 'gaji' 'buta' 'chat' 'puluh' 'diam' 'diam',0
+'tangal' 'delapan' 'maret' 'puluh' 'puluh' 'saldo' 'anjungan tunai mandiri' 'ambil' 'puluh' 'sembilan' 'nol' 'program' 'adakan' 'halodocter' 'kemarin' 'telepon' 'mengatasnamakan' 'customer service' 'halodocter' 'rugikan' 'berhenti' 'berhenti' 'langanan',0
+'transaksi' 'gagal' 'saldo' 'kepotong' 'pas' 'diliat' 'riwayat' 'transaksi',0
+'layanan' 'proses' 'cepat' 'catatan' 'pasien' 'status' 'gejala' 'covid' 'dokter' 'kasih' 'himbauan' 'mengasih' 'pil' 'tidur' 'sesuai' 'dosis' 'perlukan' 'orsng' 'sakit' 'butuh' 'istirahat',0
+'beli' 'obat' 'layanan' 'dokter' 'bagus' 'ganguan' 'iya' 'ganti' 'nomor' 'nomor' 'ganti' 'pakai' 'email' 'riwayat' 'transaksi' 'hilang' 'tertawa' 'aplikasi',1
+'senang' 'mengunakan' 'aplikasi' 'cepat' 'respon' 'obat' 'langsung' 'diantar' 'resep' 'pelayanan' 'jam' 'dokter' 'informatif' 'terima' 'kasih' 'halodoc',1
+'halodoc' 'pembayaran' 'diperluas' 'iya' 'gopay' 'bca' 'mandiri' 'debit' 'maksud' 'ragu' 'cobain' 'aplikasi' 'dokter' 'langsung' 'pandemi' 'pembayaran' 'di mana' 'indomaret' 'alfamart' 'dan sebagainya' 'kota' 'akses' 'gampang' 'desa' 'susah' 'inti' 'ditingkatkan' 'mohon',0
+'membantu' 'lanjut usia' 'biaya' 'kesehatan' 'terbatas',1
+'sat' 'konsultasi' 'dokter' 'tertawa' 'line' 'memudahkan' 'pilihan' 'dokter' 'range' 'biaya' 'disesuaikan' 'terima' 'kasih' 'halo' 'doc',1
+'aplikasi' 'membantu' 'kalangan' 'luas' 'terbatas' 'khusus' 'milenial' 'konsultasi' 'tipis' 'tipis' 'saran' 'muculkan' 'saldo' 'profile' 'pemilik' 'akun' 'permudah' 'mengisi' 'saldo' 'berbagi' 'bank' 'aplikasi' 'bayar' 'bayar',1
+'membantu' 'sat' 'pandemi',1
+'bermanfat' 'orang' 'membutuhkan' 'bantuan' 'cepat',1
+'cangih' 'langsung' 'konsultasi' 'dokter' 'ahli' 'rumah' 'sakit' 'respon' 'cepat' 'dokter' 'membantu' 'membutuhkan' 'pelayanan' 'kesehatan',1
+'kali' 'janji' 'ravid' 'tutup',0
+'aplikasi' 'ambil' 'antrian' 'daring' 'iya' 'aplikasi' 'terintegras' 'dita' 'hasil' 'cek' 'upayakan' 'laporan' 'laporan' 'laporan' 'laporan' 'sehat' 'ribet' 'halodoc' 'expetasi' 'sebenar' 'tujuan' 'utama' 'halodoc' 'boh' 'iya' 'fair' 'slogan' 'customer' 'klinik' 'bolak' 'na' 'hasil' 'test' 'sedang apa' 'pakai' 'daring',0
+'semenjak' 'halodoc' 'terbantu' 'konsultasi' 'beli' 'obat' 'rumah' 'antre' 'rumah' 'sakit' 'apotek' 'enak' 'diskon' 'sesi' 'konsultasi' 'dokter' 'makasi' 'iya' 'halodoc' 'memudahkan' 'hidup' 'semoga' 'promo' 'sukses' 'halodoc',1
+'mengalami' 'kekesalan' 'mendaftar' 'vaksinasi' 'lanjut usia' 'berhubung' 'lanjut usia' 'janji' 'tangal' 'vaksinasi' 'semingu' 'dibatalkan',0
+'aplikasi' 'jelek' 'aktivasi' 'loading' 'terusan' 'diklik',0
+'puas' 'bagus' 'ulasan' 'cocok' 'ramah' 'cocok' 'obat',1
+'terima' 'kasih' 'konsultasi' 'halodoc' 'membantu',1
+'pelayanan' 'halo' 'doc' 'memudahkan' 'obat' 'keliling' 'apotek' 'lengkap' 'halodoc' 'solusi' 'terbaik' 'kelengkapan' 'obat' 'terima' 'kasih' 'halodoc',1
+'membantu' 'pas' 'pesan' 'obat' 'darurat' 'butuh' 'enam' 'sedih' 'histori' 'perjalanan' 'paket' 'obat' 'kaya' 'menungu' 'update' 'terima kasih' 'tim' 'halodoc' 'cepat' 'merespon' 'kejelasan',1
+'bermanfat' 'sat' 'anak' 'sakit' 'dimalam' 'rs' 'tertawa' 'chat' 'dokter' 'aplikasi' 'halodoc' 'beres' 'pandemic' 'bgini' 'terima kasih' 'bantuan' 'dokter' 'terima kasih' 'aplikasi' 'halodoc',1
+'mantap' 'cepat' 'konsultasi' 'terima kasih' 'halodock',1
+'halo' 'dokter' 'kamar' 'terpisahkan' 'dipakai' 'isolasi' 'mandiri' 'angota' 'keluarga' 'kena' 'covid' 'sembilan' 'belas' 'sembuh' 'kamar' 'disterilkan' 'dipakai' 'masuk' 'kamar',1
+'diperbarui' 'aplikasi' 'dibuka',0
+'aplikasi' 'bermanfat' 'pembelian' 'obat',1
+'dokter' 'bagus' 'informasi' 'iya' 'menolong',1
+'senang' 'berobat' 'konsultasi' 'doktet' 'shanti' 'tandayu' 'internist' 'ramah' 'bertele' 'obat' 'arahan' 'alhamdulilah' 'isk' 'membaik' 'terima' 'kasih' 'halodoc' 'bermanfat',1
+'driver' 'gojek' 'kemarin' 'pesan' 'tuk' 'vaksin' 'covid' 'bawa' 'orang' 'lanjut usia' 'mendapatkn' 'vaksin' 'tnp' 'membawa' 'orang' 'lanjut usia',0
+'aplikasi' 'membantu' 'di tengah' 'pandemi' 'covidsembilan' 'belas' 'rumah' 'tingal' 'memgunakan' 'aplikasi' 'terima kasih' 'halodoc' 'tingkatkan' 'kualitas' 'iya',1
+'halodoc' 'janji' 'dokter' 'vaksin' 'manula' 'drive' 'thru' 'mudah' 'terima kasih' 'halodoc',1
+'berpartisipasi' 'penangulangan' 'covid' 'sembilan' 'belas',1
+'membantu' 'memuaskan' 'informasi' 'pelayanan',1
+'kasih' 'bintang' 'kendala' 'pembayay' 'gopay' 'penyelesaian' 'tim' 'halodoc' 'cepat' 'membantu' 'terima kasih' 'tim' 'halodoc',1
+'beruntung' 'pu' 'aplikasi' 'halodoc' 'antre' 'antre' 'rs' 'klinik' 'obat' 'obat' 'rekomendasikan' 'manjur',1
+'vaksin' 'sertifikat' 'vaksin' 'iya' 'admin',0
+'aplikasi' 'bagus' 'pelayanan' 'konsultasi' 'cepat' 'respon' 'apotek' 'cepat',1
+'pemesanan' 'obat' 'fitur' 'chat' 'tolong' 'dialihkan' 'fitur' 'sms' 'butuh' 'pulsa' 'dialihkan' 'fitur' 'gojek' 'fitur' 'chat' 'aplikasi' 'halo' 'doc' 'konfirmasi' 'driver' 'pakai' 'pulsa',1
+'waw' 'dokter' 'ramah' 'diskusi' 'enak' 'lancar' 'salut' 'ngak' 'sangka' 'bagus' 'ngak' 'jam' 'obat' 'ditangan',1
+'asli' 'parah' 'aplikasi' 'niat' 'mempercepat' 'urusan' 'rapid' 'antigen' 'terkendala' 'aplikasi' 'sia' 'sia' 'berharap' 'berharap' 'berangkat' 'kerja' 'parah' 'dana' 'sekr' 'ng' 'dikembalikan' 'halodoc',0
+'kali' 'mengunakan' 'aplikasi' 'halodoc' 'sat' 'konsultasi' 'dokter' 'bermanfat' 'sat' 'kondisi' 'keluhan' 'salah' 'diagnosis',1
+'cepat' 'hemat' 'efesien' 'janji' 'vaksinasi' 'covidsembilan' 'belas' 'lanjut usia' 'aplikasi' 'membantu' 'tingal' 'janji' 'vaksinasi' 'sukses' 'amanah' 'halodoc',1
+'terima' 'kasih' 'halo' 'doc' 'sat' 'pandemi' 'aman' 'kesini' 'konsultasi' 'dokter' 'senior' 'langanan' 'terima' 'kasih',1
+'bagus' 'kadang' 'obat' 'tersedia' 'apotek' 'terdekat' 'pesan' 'daring' 'semoga' 'ke depan',1
+'sumpah' 'chat' 'dokter' 'pakai' 'bayar' 'enga' 'aplikasi' 'membantu' 'orang' 'susah' 'konsultasi' 'bayar' 'kecuali' 'beli' 'obat' 'periksa' 'oke' 'chat' 'bayar' 'membantu' 'kali',0
+'bermanfat' 'aplikasi' 'halodoc',1
+'aplikasi' 'jalan' 'merespon' 'menyebalkan',0
+'konsultasi' 'di sini' 'memuaskan' 'pergi' 'apotek' 'ucapkan' 'terima' 'kasi' 'aplikasi' 'halodoc' 'semoga' 'halodoc' 'manfat',1
+'bagus' 'aplikasi' 'respon' 'dokter',1
+'terima kasih' 'halodoc' 'ngebantu' 'disat' 'urgent' 'long' 'wekend' 'terima kasih' 'dokter' 'stand' 'beli' 'wekend' 'chat' 'asik' 'ramah' 'informasi' 'akurat',1
+'informasi' 'mudah' 'terjawab',1
+'aplikasi' 'berbayar' 'heheheheh' 'aplikasi' 'bagus' 'nyobain' 'diliat' 'download' 'sih' 'bagus' 'pas' 'download' 'berbayar' 'langsung' 'kecewa' 'sih' 'tolong' 'dikembangin' 'biar' 'aplikasi' 'berbayar' 'gratis' 'aplikasi' 'sblh' 'kasih' 'bintang' 'fitur' 'ta' 'dokter' 'gratis' 'kasih' 'bintang',0
+'membantu' 'apan' 'ribet' 'bayar' 'ribet' 'aplikasi' 'berguna' 'sumpah' 'sih' 'ngehack' 'aplikasi' 'sumpah' 'janji' 'rapid' 'persulit',0
+'berguna' 'efesien' 'memesan' 'obat' 'dimanapun' 'cari' 'apotek' 'menyediakan' 'obat' 'cinta' 'this' 'kembangkan',1
+'membantu' 'pelayanan' 'ramah' 'bagus' 'dokter',1
+'puas' 'dokter' 'dokter' 'ramah' 'ramah' 'diaknosa' 'obat' 'alhamdulilah' 'cocok' 'semoga' 'dokter' 'sehat' 'amin',1
+'pengirim' 'ramah' 'sesuai' 's' 'o' 'p' 'pemesan' 'salut' 'drivernya',1
+'membantu' 'dimasa' 'pandemi' 'konsultasi' 'obat' 'rumah' 'serasa' 'pu' 'dokter' 'pribadi',1
+'asalamualaikum' 'maf' 'berta' 'habis' 'unduh' 'aplikasi' 'halodoc' 'playstore' 'buka' 'aplikasi' 'masuk' 'aplikasi' 'halodoc' 'klik' 'chat' 'dokter' 'lihat' 'di situ' 'pilihan' 'dokter' 'chat' 'konsultasi' 'kesehatan' 'sebenar' 'konsultasi' 'kesehatan' 'dokter' 'aplikasi' 'halodoc' 'membayar' 'chat' 'konsultasi' 'dokter' 'chat' 'halodoc',0
+'solusi' 'praktis' 'biaya' 'murah' 'dokter' 'responsif',1
+'daring' 'sesi' 'petunjuk' 'konsultasi' 'beli' 'text' 'vc' 'buang' 'buang' 'uang' 'bayar' 'konsultasi',0
+'uang' 'diterima' 'status' 'tes' 'antigen' 'dikonfirmasi' 'dikonfirmasi' 'nerima' 'uang' 'iya' 'ngelayanin' 'customer' 'respon' 'lancar' 'lancar' 'kali' 'kecewa' 'berat',0
+'aplikasi' 'halodoc' 'membantu' 'keluarga' 'membeli' 'obat' 'obatan' 'vitamin' 'tes' 'pacar' 'pandemic' 'mantap' 'deh' 'pokok',1
+'aplikasi' 'enak' 'sih' 'scheduling' 'dokter' 'antre' 'rs' 'Cuma' 'pelayanan' 'mengecewakan' 'hasil' 'tes' 'infokan' 'sms' 'selesai' 'sat' 'hasil' 'tes' 'hardcopy' 'softcopy' 'ambil' 'tes' 'media' 'chat' 'customer service' 'respon' 'lambat' 'respon' 'menit' 'memutuskan' 'jalur' 'komunikasi' 'ulang' 'merespon' 'lambat' 'customer service' 'konfirmasi' 'konfirmasi' 'terkait' 'arti' 'sla' 'sisi' 'halodoc' 'responsif',0
+'dokter' 'co' 'operative' 'nyaman' 'konsultasi' 'terima kasih',1
+'membantu' 'sulit' 'rumah',1
+'keren' 'aplikasi' 'halodoc' 'membantu' 'sat' 'hectic' 'khusus' 'terima' 'kasih' 'fen' 'ramah' 'sat' 'konsultasi' 'resep' 'cocok',1
+'halo' 'halodoc' 'iwan' 'setiawan' 'be' 'ribu' 'enam' 'puluh' 'delapan' 'ag' 'salah' 'driver' 'gojek' 'bandar' 'lampung' 'konfirmasi' 'orderan' 'halodoc' 'apotek' 'jesaya' 'farma' 'orderan' 'pengambilan' 'obat' 'harap' 'menungu' 'barang' 'persiapkan' 'obat' 'pemesanan' 'tersedia' 'aplikasi' 'gojek' 'jalankan' 'holodoc' 'pemesanan' 'gojek' 'barang' 'driver' 'tingal' 'bawa' 'barang' 'menjalankan' 'orderan' 'berdasarkan' 'konfirmasi' 'pelangan' 'apotek' 'apl',0
+'niat' 'make' 'aplikasi' 'cepat' 'rumah' 'nyata' 'apotek' 'apotek' 'bumn' 'swasta' 'diskitar' 'kali' 'fitur' 'ngebuat' 'pembeliatau' 'driver' 'milih' 'apotek' 'terdekat' 'pakai' 'manual' 'nahan' 'sakit' 'posisi' 'kota',0
+'chat' 'berbayar' 'lebih baik' 'pakai' 'oke' 'gogle' 'gratis',0
+'aplikasi' 'membantu' 'metode' 'pembayaran' 'tambahin' 'pembesaran' 'cash' 'tingkatkan' 'sukses' 'halodoc' 'terima' 'kasih',1
+'bagus' 'puas' 'halodoc' 'petugas' 'ramah' 'memahami' 'dibidang' 'kepemilikan' 'halodoc' 'sehinga' 'kustomer' 'layani' 'ramah' 'kustomer' 'merasakan' 'puas' 'halodoc' 'upgrade' 'bidang' 'kedokteran' 'update' 'terbaru' 'medicine' 'informasi' 'virus' 'corona' 'virus' 'vaksin' 'umur' 'servis' 'drivethru' 'dimudahkan' 'pengajuan' 'sertifikat' 'hasil' 'harga' 'terjangkau',1
+'terima' 'kasih' 'halodoc' 'membntu' 'era' 'pandemi' 'ribet' 'rs' 'konsultasi' 'diam' 'rumah' 'tingal' 'chat' 'dokter' 'ramah' 'responsif',1
+'membantu' 'pademi',1
+'membantu' 'konsultasi' 'kesehatan',0
+'selamat' 'malam' 'mohon' 'maf' 'berta' 'halodoc' 'berbayar' 'konsultasi' 'salah' 'dokter' 'mengunakan' 'aplikasi' 'terima kasih',0
+'mencari' 'obat' 'gampang' 'pelayanan' 'cepat',1
+'dokter' 'sabar' 'akurat' 'terima kasih' 'dok' 'bosen' 'ya' 'dok' 'kali' 'kesehatan',1
+'aplikasi' 'membantu' 'anak' 'anak' 'keluarga' 'sehat' 'berangkat' 'klinik' 'langsung' 'terima' 'kasih' 'halodoc',1
+'uang' 'pengembalian dana' 'juta' 'pembatalan' 'pacar' 'dikirim' 'tangal' 'februari' 'februari' 'status' 'proses',0
+'membantu' 'musim' 'pandemi',1
+'alhamdulilah' 'dokter' 'ramah' 'puas' 'berkeluh' 'kesah' 'biaya' 'murah' 'di rumah' 'memudahkan' 'diksi' 'resep' 'dikasi' 'penjelasan' 'detail' 'bayar' 'konsultasi' 'diskon' 'terima kasih' 'so' 'halodoc',1
+'aplikasi' 'membantu' 'disat' 'pandemi' 'dokter' 'dokter' 'bagus' 'obat' 'obatan' 'efektif' 'apalagisuka' 'disc' 'konsultasi',1
+'membantu' 'sat' 'pandemi' 'sat',1
+'alhamdulilah' 'membantu' 'keluarga' 'setahun' 'mengunakan' 'halodoc' 'alhamdulilah' 'hasiat' 'obat' 'obatan' 'kasih' 'bagus' 'bagus',1
+'aplikasi' 'membantu' 'harga' 'konsultasi' 'bersahabat' 'dokter' 'ramah',1
+'dokter' 'ramah' 'respo' 'cepat' 'direkomendasikan' 'bersyukur' 'halodoc' 'repot' 'repot' 'kerumah' 'sakit' 'obat' 'langsung' 'dikirim',1
+'bagus' 'membantu' 'respon' 'dokter' 'cepat' 'rs' 'tertawa' 'konsultasi' 'obat' 'dikirim' 'rumah' 'terima kasih' 'halodoc',1
+'membantu' 'sat' 'pandemi' 'rumah' 'beli' 'obat' 'anak' 'sakit' 'suruh' 'terima kasih' 'aplikasi' 'membantu',1
+'membantu' 'konsultasi' 'kesehatan',1
+'pakai' 'aplk' 'halodoc' 'bingung' 'konsultasi' 'doc' 'ramah' 'terima kasih',1
+'senang' 'deh' 'aplikasi' 'mempermudah' 'sehat' 'konsultasi' 'daring' 'disat' 'kondisi' 'pandemi',1
+'pertanyan' 'kesehatan' 'konsultasi' 'dokter' 'dokter' 'ramah' 'ramah' 'jawabanya',1
+'anjuran' 'kasih' 'obat' 'tips' 'berguna',1
+'trimaksih' 'mas' 'amirul' 'cepat' 'merespon' 'surat' 'bagus' 'pekerjaan' 'man' 'kesulitan' 'aktifkan' 'lokasi' 'login' 'tolong' 'dibantu' 'senoari',1
+'mantap' 'secepat' 'kilat' 'penjelasan' 'detail',1
+'ramah' 'ramah' 'mantapo' 'selaumemberikan' 'penjelasan' 'butuhkan',1
+'membantu' 'kondisi' 'covid',1
+'maf' 'ta' 'rapid' 'antigen' 'kemayoran' 'metode' 'pembayaran' 'pakai' 'anjungan tunai mandiri' 'bri' 'terima kasih',1
+'dokter' 'ramah' 'penjelasan' 'akurat',1
+'terima kasih' 'dok' 'semoga' 'bermanfat',1
+'aplikasi' 'mantap' 'murah' 'terima kasih',1
+'membantu' 'bermanfat' 'disat' 'pandemi' 'obat' 'dianjurkan' 'cepat' 'menyembuhkan' 'sesuai' 'penyakit' 'sasaran' 'terima' 'kasih',1
+'mantap' 'konsultasi' 'jam' 'nol' 'sepuluh' 'obat' 'langsung' 'jam' 'sebelas' 'aplikasi' 'membantu' 'semoga' 'obat' 'cocok',1
+'dokter',1
+'pembayaran' 'ovo' 'dana' 'iya',0
+'bagus' 'kasih' 'informasi' 'menarik',1
+'mantap' 'murah' 'konsultasi' 'dokter' 'bayar' 'gopay',1
+'membantu' 'pengalaman',1
+'penanganan' 'suka' 'panik' 'self' 'diagnose' 'berta' 'langsung' 'ahli' 'teman-teman',1
+'pemesanan' 'pengiriman' 'obat' 'cepat' 'membantu' 'keadan' 'mendesak' 'ayah' 'obat' 'jantung' 'secepat' 'jam' 'terima' 'kasih' 'halodoc',1
+'aplikasi' 'mantap' 'membantu',1
+'aplikasi' 'bagus' 'dokter' 'respon' 'cepat',1
+'pelayanan' 'hasil' 'cepat' 'diterima' 'customer',1
+'chat' 'dokter' 'membantu',1
+'praktis' 'membantu' 'terima kasih',1
+'w' 'kirim' 'mata' 'm' 'yun' 'ukm' 'j' 'mi',0
+'puas' 'halodoc' 'cepat' 'tangap',1
+'berbayar' 'gratis' 'na' 'obat' 'batuk' 'pilek' 'terbaik' 'dijual' 'warung' 'ngak' 'paham' 'perbedan' 'obat' 'lumayan' 'lihat' 'dokter' 'cantik' 'pengalaman' 'lulusan' 'bintang' 'pas',1
+'terima kasih' 'dokter' 'uji' 'asiah' 'm' 'sc' 'dokter' 'ramah' 'penjelasan' 'senang' 'konsultasi' 'bu' 'dokter',1
+'sedang apa' 'mengantri' 'klinik' 'rumah' 'sakit' 'dokter' 'lebih baik' 'halodoc' 'tingal' 'klik' 'konsultasi' 'keluhan' 'tungu' 'obat' 'beres' 'halodoc' 'keren' 'terima kasih' 'kasih' 'halodoc',1
+'bintang' 'pilihan' 'pembayaran' 'terbatas' 'dievaluasi' 'pilihan' 'pembayaran' 'linkaja' 'transfer' 'mengunakan' 'rekening' 'virtual',0
+'paket' 'pertangung' 'terima kasih' 'dana' 'diganti' 'proses',0
+'sat' 'bintang' 'coba' 'masuk' 'halodoc' 'langsung' 'sinyal' 'telepon genggam' 'mendukung',0
+'alhamdulilah' 'konsultasi' 'langsung' 'dokter' 'spesialis' 'semoga' 'sukses' 'halodoc',1
+'kali' 'konsultasi' 'memuaskan' 'lumayan' 'ramah',1
+'penolong' 'user' 'friendly',1
+'membantu' 'sat' 'kondisi' 'dtng' 'rumah' 'sakit' 'pasien' 'aman' 'sehat' 't' 'jaga' 'terima' 'kasih' 'halo' 'doc' 'pertahankan' 'respon' 'cepat' 'dokter',1
+'konsultasi' 'pakai' 'bayar' 'kaya' 'lebih baik' 'langsung' 'rs' 'langsung' 'kasih' 'obat' 'buka' 'membantu' 'inimah',0
+'membantu' 'disat' 'urgent' 'membutuhkan' 'obat' 'malam' 'haripun' 'chat' 'dokter' 'spesialis' 'obat' 'cepat' 'terima kasih' 'gosend',1
+'kode' 'voucher' 'bilang' 'invalid',0
+'proses' 'mudah' 'cepat' 'pemesanan' 'obat',1
+'terima kasih' 'halodoc' 'mudah' 'konsultasi' 'dokter' 'semoga' 'sakit' 'sembuh' 'amin',1
+'membantu' 'sakit' 'mag' 'kosan' 'berjalan' 'apotek' 'pesan' 'halodoc' 'beli' 'gojek' 'puji' 'tuhan' 'langsung' 'minum' 'obat' 'sembuh' 'untung' 'halodoc',1
+'bagus' 'bermanfat' 'teratas',1
+'praktis' 'dokter' 'pelayanan' 'ramah' 'oke',1
+'praktis' 'puas' 'terima' 'kasih' 'halodoc',1
+'halodoc' 'membantu' 'sat' 'pandemi' 'hamil' 'puas' 'respon' 'ramah' 'dokter' 'dokter' 'halodoc' 'terbaik',1
+'terima kasih' 'halodoc' 'setidak' 'apotek' 'pesan' 'obat' 'rutin' 'suami' 'semoga' 'smakin' 'bagus' 'terima kasih',1
+'membantu' 'konsultasi' 'dokter' 'antre' 'pembelian' 'obat' 'mudah' 'langsung' 'diantar' 'rumah',1
+'dokter' 'tangap' 'cepat' 'respon',1
+'halo' 'doc' 'cal' 'center' 'halo' 'dokter' 'menelepon' 'menawarkan' 'prodak' 'unlimited' 'perbulan' 'puluh' 'sembilan' 'nol' 'sistem' 'auto' 'debit' 'fasilitas' 'bebas' 'chat' 'dokter' 'fitur' 'aplikasi' 'berubah' 'tarif' 'fre' 'ulasan' 'lengkap',0
+'dokter' 'balas' 'cepat' 'ramah',1
+'halo' 'doc' 'barusan' 'telepon' 'mengatas' 'namakan' 'halodoc' 'email' 'pribadi' 'data' 'nmor' 'rekening' 'anjungan tunai mandiri' 'bner' 'halodoc' 'mohon' 'informasi' 'bner' 'iya' 'bong' 'data' 'anjungan tunai mandiri' 'membawa' 'kepihak' 'ulasan' 'lengkap',0
+'bingung' 'biaya' 'penanganan' 'biaya' 'ongkos kirim' 'tidak tahu' 'biaya' 'penanganan' 'ongkos kirim' 'tertawa' 'jatoh' 'murah' 'tengkyu' 'halodoc',1
+'respon' 'customer service' 'lambat' 'keluhan',0
+'pesan' 'obat' 'susah' 'mencari' 'driver' 'pesan' 'ofline' 'sih' 'langsung' 'apotek' 'kasih' 'lihat' 'resep',0
+'mantap' 'konsultasi' 'dokter' 'enak',1
+'mf' 'download' 'aplikasi' 'pingn' 'gejala' 'sakit' 'alami' 'kenakan' 'biaya' 'bulanan',0
+'alhamdulilah' 'terbantu' 'konsultasi' 'penyakit' 'obat' 'terima',1
+'alhamdulilah' 'aplikasi' 'membantu',1
+'terima' 'kasih' 'serba' 'cepat',1
+'pagi' 'pagi' 'konsultasi' 'bu' 'dokter' 'cantik' 'diagnosis' 'resep' 'terjangkau' 'bahasa' 'ramah' 'terima' 'kasih' 'iya' 'dok',1
+'halodoc' 'map' 'sebelumnyah' 'ta' 'mingu' 'hidung' 'mencium' 'bau' 'coba' 'doc',1
+'rekomendasi' 'didownload' 'kesulitan' 'mencari' 'membeli' 'obat' 'dibutuhkan',1
+'membantu' 'terima' 'kasih' 'halodoc',1
+'mag' 'kambuh' 'berat' 'dokter' 'untung' 'halodoc' 'selesai' 'konsultasi' 'daring' 'resep' 'langsung' 'diorder' 'lewar' 'gojek' 'terima kasih',1
+'mantap' 'super' 'cepat' 'pengiriman' 'semoga' 'obat' 'manjur' 'cepat' 'berkhasiat' 'secepat' 'pengiriman' 'sukses' 'halodoc',1
+'pelayanan' 'pengobatan' 'penyembuhan',1
+'halo' 'doc' 'balita' 'usia' 'puluh' 'beberap' 'telinga' 'anak' 'sebelah' 'kanan' 'cairan' 'bau' 'sih' 'anak' 'kdang' 'memukul' 'telingan' 'telapak' 'tangan' 'iya' 'doc' 'dikasih' 'obat' 'terima' 'kasih',1
+'terima' 'kasih' 'aplikasi' 'halodoc' 'sat' 'malam' 'sakit' 'pingang' 'salah' 'rekan' 'dokter' 'bernama' 'fen' 'membantu' 'sakit',1
+'buatin' 'dokter' 'chat' 'gratis' 'donk',1
+'pandemi' 'membantu' 'klik' 'halodoc' 'terhubung' 'konsultasi' 'obat' 'langsung' 'diantar',1
+'suda' 'pembayaran' 'chat' 'pembayaran' 'berhasil' 'chat' 'dokter' 'sibuk',1
+'kesekian' 'kali' 'konsultasi' 'dokter' 'dokter' 'halodoc' 'kali' 'konsultasi' 'nency' 'sp' 'a' 'bingung' 'mingu' 'dokter' 'dokter' 'spesialis' 'libur' 'praktik' 'terima' 'kasih' 'iya' 'dok',1
+'membantu' 'obat' 'langsung' 'diantar' 'sat' 'gopay' 'halodoc' 'saldo' 'great',1
+'instal' 'aplikasi' 'wlopun' 'tertawa' 'bagus' 'lengkap' 'mudah' 'instal' 'coba' 'konsultasi' 'gizi' 'ah' 'keren' 'dokter' 'asik' 'terima' 'kasih' 'aditya' 'mulyantari' 'sp',1
+'pesan' 'obat' 'halodoc' 'status' 'terkirim' 'terima' 'obat' 'ditlp' 'customer service' 'diurus' 'boro' 'boro' 'penyelesaian' 'aplikasi' 'bagus' 'pelayanan' 'buruk',0
+'hai' 'halodoc' 'cari' 'swab' 'antigen' 'rsatau' 'klinik' 'terdekat' 'reading' 'iya' 'crash' 'mohon' 'dibantu',0
+'membantu' 'terima kasih' 'halodoc',1
+'aplikasi' 'bagus' 'dokter' 'di dalam' 'bertangung' 'bangat' 'semoga' 'aplikasi' 'berkembang' 'dimasa',1
+'bagus' 'dokter' 'direkomendasikan',1
+'diperbaiki' 'verifikasi' 'kode' 'otp' 'pembayaran' 'gopay' 'berulang' 'berulang' 'sukses' 'terima' 'kasih',0
+'terbantu' 'sat' 'pandemi' 'konsultasi' 'dokter' 'obat' 'dikirim' 'langsung' 'apotek' 'bayar' 'cashles',1
+'mudah' 'mengunakan' 'halodoc' 'repot' 'repot' 'antre' 'antre' 'rs' 'klinik' 'klik' 'konsultasi' 'ksh' 'resep' 'obat' 'thanks' 'halodoc' 'semoga' 'dokter' 'sukses' 'amin',1
+'membantu' 'cepat' 'praktis' 'memuaskan',1
+'log' 'out' 'sat' 'verifikasi' 'kode' 'dikirim' 'sms' 'error',1
+'era' 'pandemi' 'dokter' 'konsultasi' 'daring' 'membantu' 'terima' 'kasih',1
+'perlayan' 'sopan' 'lokasi' 'mudah' 'area' 'luas' 'sehinga' 'memudahkan' 'vaksin' 'menjalankan' 'proses' 'm' 'bravo',1
+'membantu' 'aman' 'selagi' 'pandemi' 'malas' 'antre' 'penjelasan' 'memuaskan',1
+'terbantu' 'aplikasi' 'dokter',1
+'konsultasi' 'dokter' 'cepat' 'direspon' 'pesan' 'obat' 'status' 'pembayaran' 'dibatalkan' 'ih' 'sebel',1
+'bagus' 'suka' 'aplikasi',1
+'pembayaran' 'dokter' 'chat' 'terima kasih' 'pengembalian dana',1
+'bagus' 'pelayanan' 'cepat',1
+'membantu' 'sat' 'pandemi' 'dokter' 'sabar' 'keluhan' 'pasien',1
+'konsultasi' 'dokter' 'mudah' 'menenangkan' 'sat' 'panik' 'sehinga' 'pertolongan' 'sat' 'sakit',1
+'bagus' 'bnget' 'pelayanan',1
+'selamat' 'siang' 'halo' 'dokter' 'barusan' 'telepon' 'mengatasnamakan' 'customer service' 'halo' 'dokter' 'claim' 'dana' 'jt' 'data' 'lengkap' 'email' 'nomor' 'rekening' 'bank' 'aneh' 'email' 'nama' 'nomor' 'rek' 'un' 'ulasan' 'lengkap',1
+'dikasih' 'bonus' 'kaki' 'beli' 'obat' 'pakai' 'halo' 'doc',1
+'alhamdulilah' 'cepat' 'respon' 'dokter' 'pertanyan' 'membantu' 'terima kasih' 'halodoc',1
+'terima kasih' 'aplikasi' 'membantu',1
+'cepat' 'tangap' 'ribet',1
+'terbaik' 'konsultasi' 'terbaik',1
+'sat' 'malam' 'malam' 'sakit' 'kontak' 'halodoc' 'langsung' 'konsuli' 'obat' 'kirim' 'membantu' 'hinga' 'infokan' 'teman' 'teman',1
+'aplikasi' 'orang' 'kelas' 'tibang' 'na' 'obat' 'bayar' 'sunguh' 'miris' 'negeri' 'ktika' 'orang' 'pintar' 'anugerah' 'membantu' 'ihklas' 'seakan' 'uwang' 'kuasa' 'tuhan',0
+'membantu' 'memfasilitasi' 'pendaftara' 'vaksinasi' 'covid' 'lanjut usia' 'apotek' 'sat' 'butuh' 'obat' 'malas' 'rumah',1
+'mantap' 'kemarin' 'putus' 'koneksi' 'chat' 'dokter' 'ulasan' 'bintang' 'lansung' 'ditelpon' 'halodoc' 'dikembalikan' 'uang' 'mantap',1
+'membantu' 'diresepkan' 'dokter' 'obat' 'dikirim' 'daring' 'terima' 'kasih' 'halodoc',1
+'alhamdulilah' 'sat' 'pandemi' 'sat' 'halodoc' 'membantu' 'terima' 'kasih' 'sukses',1
+'membantu' 'respon' 'cepat' 'terima kasih',1
+'sngt' 'terbntu' 'skli' 'aplikasi' 'maju' 'halo' 'doc',1
+'halo' 'kak' 'alamat' 'map' 'mencantumkan' 'alamat' 'manual' 'kak',1
+'aplikasi' 'ketiga' 'apotek' 'toko online' 'sedia' 'barang' 'kondisi' 'edisi' 'th' 'beli' 'langsung' 'apotek' 'halodoc' 'gojek' 'dikasih' 'obat' 'edisi' 'enam',0
+'respon' 'dokter' 'cepat',1
+'bagus' 'antre' 'rumah' 'sakit',1
+'profesional' 'cepat' 'tangap',1
+'membantu' 'mudah',1
+'aplikasi' 'membantu' 'vet' 'dokter' 'suci' 'dokter' 'hewan' 'ramah' 'konsultasi' 'dokter' 'suci',1
+'kali' 'mengunakan' 'halodoc' 'membantu' 'terima kasih' 'halodoc',1
+'thanks' 'halodoc' 'membantu' 'mendapt' 'resep' 'pergi' 'dokter',1
+'pengalaman' 'mengunakan' 'aplikasi' 'bagus' 'semoga' 'bermanfat' 'membantu' 'menyembuhkan',1
+'mudah' 'berkonsultasi' 'dokter',1
+'nomor' 'telepon genggam' 'muncul' 'otentikasi' 'nomor' 'telepon genggam' 'tolong' 'tim' 'it' 'back' 'end' 'diperbaiki' 'iya' 'terima kasih',0
+'menolong' 'aplikasi' 'sat' 'darurat' 'anak' 'anak' 'ditingal' 'rumah' 'terima' 'kasih' 'halodoc',1
+'aplikasi' 'pintar' 'membantu' 'dimasa' 'pandemi' 'antre' 'apotek' 'apotek' 'antre' 'dikasir' 'apotek' 'tingal' 'pakai' 'gopay' 'terima' 'kasih' 'halodoc',1
+'halodoc' 'sistem' 'pembayaran' 'pakai' 'gopay' 'kasih' 'pembayaran' 'lakukan' 'indomaretatau' 'alfamaret',0
+'terima kasih' 'halodoc' 'mempermudah' 'berobat' 'klinik' 'dimasa' 'pandemi',1
+'membantu' 'sebenar' 'pengiriman' 'ongkos' 'mahal' 'mengunakan' 'kurir' 'reguler' 'tarif' 'sepuluh' 'ribu' 'kena' 'ribu',1
+'uang' 'habis' 'puluh' 'ribu' 'konsultasi' 'resep' 'dicuekin' 'sam' 'dokter' 'posisi' 'sakit',0
+'mempermudah' 'konsultasi' 'janji' 'dokter' 'lingkungan' 'tingal',1
+'kali' 'beli' 'obat' 'halodoc' 'kali' 'disertaka' 'nota' 'pembelian',0
+'metode' 'pembayaran' 'menyulitakan' 'kenpa' 'tertawa' 'go' 'pay' 'isi' 'saldo' 'pakai' 'debit' 'teratas' 'up' 'rekening' 'bank' 'dam' 'sejis' 'pdahal' 'hapy' 'hewan' 'dsni',0
+'dokter' 'ramah',1
+'terbaik' 'sih' 'menurutku' 'andalan' 'diriku' 'gasuka' 'belanja' 'apotek' 'zaman' 'pandemi' 'aman' 'beli' 'daring',1
+'dokter' 'bagus' 'respon' 'cepat',1
+'terima kasih' 'halodoc' 'terkhusus' 'wid' 'patria' 'sp' 's' 'sabar' 'ramah' 'mendengarkan' 'konsultasi' 'pasien',1
+'tidak bisa' 'disambung' 'gopay' 'iya',0
+'instal' 'kak' 'iya' 'sambung' 'gopay' 'tulisan' 'nomor' 'terdaftar' 'nomor' 'gopay' 'terverifikasi' 'edit' 'bintang' 'terima kasih' 'kak',1
+'na' 'konsulatau' 'chat' 'doctor' 'kenakan' 'tarif' 'iya' 'tarif' 'seratus',0
+'alhamdulilah' 'pelayanan' 'cepat' 'dokter' 'ramah' 'harga' 'obat' 'jangkau',1
+'membantu' 'musim' 'pandemi',1
+'oke' 'bagus' 'konsultasi' 'kehamilan' 'istri' 'semoga' 'berkah' 'sehat' 'iya' 'amin',1
+'aplikasi' 'membantu',1
+'membantu' 'semoga' 'resep' 'obat' 'berkhasiat' 'kesembuhan' 'anak' 'terimaksih' 'halodoc',1
+'slow' 'respon' 'admin' 'uang' 'cepat' 'keluhan' 'kendala' 'lambat' 'parah',0
+'harga' 'bagus' 'sayang' 'overload' 'slow' 'respon' 'ditelpon' 'customer service' 'susah' 'masuk' 'hasil' 'rapid' 'antigen' 'jam' 'jam',0
+'bagus' 'pelayanan' 'ramah',1
+'respon' 'costumer' 'servies' 'iya' 'lambat' 'lambat' 'solusi' 'bermasalah' 'aplikasi' 'halodok' 'iya' 'singkron',0
+'konsultasi' 'bayar' 'pakai' 'gopay' 'gagal' 'konsultasi' 'menu' 'direfund' 'konsultasi',1
+'aplikasi' 'keren' 'membantu',1
+'auntik' 'vaksin' 'mandiri' 'kusus' 'lanjut usia' 'umur' 'aplikasi',1
+'suka' 'pakai' 'aplikasi' 'konsultasi' 'murah' 'rumah' 'sakit',1
+'konsultasi' 'beli' 'obat' 'halodoc' 'mudah' 'aplikasi' 'report' 'konsultasi' 'beli' 'obat' 'tungu' 'rumah' 'deh',1
+'aplikasi' 'halodoc' 'membantu',1
+'pelayanan' 'bagus' 'puas',1
+'bagus' 'mudahin' 'cek' 'toko' 'daerah',1
+'kondisi' 'sulit' 'rumah' 'halodoc' 'membantu' 'terima kasih' 'barakalah',1
+'ok' 'memudahkan' 'membantu',1
+'mantap' 'membantu' 'terima' 'kasih' 'halodoc' 'mudah' 'mudahan' 'berkembang',1
+'layanan' 'dokter' 'cepat' 'respon' 'komunikasi' 'terima' 'terima' 'kasih',1
+'membantu' 'sat' 'pandemi',1
+'pesan' 'obat' 'cepat' 'membantu' 'disetiap' 'kondisi',1
+'halo' 'dok' 'terlambat' 'postif' 'hamil' 'mohon' 'petunjuk' 'dok',0
+'aplikasi' 'mudah' 'dn' 'membantu' 'semoga' 'responsif' 'melayani' 'sat' 'konsultasi' 'terima kasih' 'halodoc',1
+'apotek' 'toko' 'beli' 'barang' 'harga' 'puluh' 'nol' 'beli' 'enam' 'puluh' 'nol' 'ajar',0
+'dokter' 'ramah' 'komunikatif',1
+'terima' 'kasih' 'dok' 'resep',1
+'mantap' 'pokok' 'musim' 'anak' 'sakit' 'mudah' 'nanganin' 'terima kasih',1
+'membantu' 'mobile' 'dimasa' 'pandemi' 'ke depan' 'semoga' 'pilih' 'apotek',1
+'aplikasi' 'freze' 'telepon genggam' 'masuk' 'tampilan' 'aplikasi' 'redmi' 'note' 'delapan' 'mohon' 'bantuan',1
+'bayar' 'iklan' 'gratis',0
+'kak' 'masuk' 'kalender' 'kehamilan' 'menu' 'iya',0
+'proses' 'apotek',1
+'membantu' 'tolong' 'mhl' 'mhl' 'konsultasi' 'pasien' 'butuh' 'bantuan' 'konsultasi',1
+'asli' 'bagus' 'jam' 'malam' 'mencari' 'obat' 'pilek' 'anak' 'langsung' 'pakai' 'gojek',1
+'suka' 'aplikasi' 'membantu',1
+'memudahkan' 'berkonsultasi' 'dokter' 'membeli' 'obat' 'memudahkan' 'aplikasi' 'bagus',1
+'halo' 'doc' 'gatal' 'bintik' 'kmudian' 'nanah' 'selangkangan' 'paha' 'petunjuk' 'doc',1
+'penguna' 'eh' 'kali' 'pas' 'kali' 'bagus' 'terima kasih' 'penilaian' 'berubah' 'bagus' 'pelayanan',1
+'alhamdulilah' 'dapetin' 'obat' 'repot' 'apotek' 'terima kasih' 'konsultasi' 'dokter' 'lancar' 'cepat',1
+'mudah' 'informasi' 'lengkap',1
+'teratas' 'membantu' 'terima kasih',1
+'akun' 'halodoc' 'tersambung' 'gopay' 'saldo' 'gopay' 'isi' 'mohon' 'diperbaiki',0
+'bagus' 'referensi' 'kesehatan',1
+'terima kasih' 'halodoc' 'dokter' 'ramah',1
+'respon' 'dokter' 'chat' 'cepat' 'dibalas' 'konsultasi' 'di mana' 'mudah',1
+'cepat' 'penanganan' 'mantap',1
+'he' 'iya' 'pembayaran' 'debit' 'bni' 'suport' 'terpaksa' 'pakai' 'mandiri',1
+'kali' 'mengunakan' 'aplikasi' 'halodoc' 'cepat' 'respon' 'pelayanan' 'cepat' 'sukses',1
+'aplikasi' 'rongsokan' 'cari' 'obat' 'driver' 'gojek' 'diarahkan' 'apotek' 'tutup',0
+'konsultasi' 'tht' 'sih' 'langsung' 'direspon' 'dikasih' 'resep' 'bagus' 'semoga' 'lekas' 'sembuh',1
+'dokter' 'merespon' 'cepat' 'detail' 'konsultasi',1
+'dokter' 'nyaman' 'konsultasi' 'semoga' 'perbarui',1
+'oke' 'mantap' 'susah' 'berobat' 'kali' 'mengunakan' 'aplikasi',1
+'aplikasi' 'bagus' 'membantu' 'beli' 'obat' 'muter' 'muter' 'cari' 'apotek' 'terima' 'kasih',1
+'halodoc' 'membantu' 'sehat' 'penanganan' 'cepat' 'mudah' 'diakses' 'terima kasih',1
+'membantu' 'mudah' 'mudah' 'konsultasi' 'halodoc' 'sembuh',1
+'aplikasi' 'pelan' 'nangapin',0
+'disat' 'darurat' 'bisadiandalkan',1
+'terlambat' 'brpa' 'menit' 'langsung' 'dibatalkan' 'jadwal' 'konsultasi' 'uang' 'pengembalian dana' 'chat' 'bot' 'customer service' 'payah' 'ngrespon',0
+'trimaksh' 'halodok' 'saran' 'resep' 'terbagus' 'iya' 'tatap' 'muka' 'dokter',1
+'membantu' 'konsultasi' 'obat' 'langsung' 'diterima' 'terima kasih' 'halo' 'dokter',1
+'bagus' 'dokter' 'kali' 'pakai' 'kaget' 'langsung' 'beli' 'obat' 'pakai' 'gojek' 'keren' 'sih' 'membantu',1
+'bagus' 'layanan' 'customer service' 'respon' 'cepat' 'tolong' 'aplikasi' 'pelan' 'tertawa' 'dokter' 'mengunakan' 'asuransi' 'diterukan',0
+'bermanfat' 'kesehatan',1
+'dimudahkan' 'membeli' 'obat',1
+'membantu' 'konsultasi' 'dokter' 'pelayanan' 'ramah' 'membantu' 'solusi',1
+'mudah' 'cepat' 'informasinya',1
+'halodoc' 'mantap' 'konsultasi' 'dokter' 'cepat' 'respon' 'ramah' 'terima' 'kasih',1
+'mantap' 'membantu' 'seumpama' 'rumah' 'sakit' 'puskesmas',1
+'puas' 'pelayanan' 'halodoc' 'terima kasih' 'membantu',1
+'kali' 'mengunakan' 'aplikasi' 'konsultasi' 'anga' 'mintarsa' 'terima kasih' 'dokter',1
+'aplikasi' 'membantu' 'sat' 'berkonsultasi' 'kesehatan',1
+'membantu' 'solusi' 'dokter' 'terpercaya' 'pengalaman' 'okeh',1
+'membantu',1
+'penjelasan' 'dokter',1
+'aplikasi' 'terbaik',1
+'membantu' 'cocok' 'resep' 'dokter' 'terima' 'kasih',1
+'aplikasi' 'membantu',1
+'penjelasan' 'detail' 'sehinga' 'gdn' 'mudah' 'mengeti',1
+'bermanfat' 'orang',1
+'bismilah' 'semoga' 'bermanfat',1
+'cepat' 'keluhan' 'pasien',1
+'dokter' 'komunikatif' 'ramah' 'sabar' 'pertanyan' 'saran' 'secara keseluruhan' 'oke' 'terima kasih' 'dokter',1
+'membantu' 'era' 'pandemi' 'semoga' 'ditingkatkan' 'layanan',1
+'dokter' 'cepat' 'obat' 'kasi' 'obat' 'terbaik' 'langanan',1
+'parah' 'konsultasi' 'bayar' 'indonesia' 'merdeka' 'mapia' 'kaya',0
+'terima kasih' 'membantu',1
+'pemesanan' 'bisax' 'notif' 'salah' 'coba',0
+'bagus' 'semoga',1
+'mengakses' 'akun' 'nomor' 'telepon' 'hilang' 'mohon' 'bantuanya',1
+'terbtu' 'halo' 'doc' 'kerumah' 'sakit' 'alhamdulilah' 'sembuh' 'sakit',1
+'ribet' 'apotek' 'halodoc' 'pakai' 'halodoc' 'puas' 'rumah',1
+'arahkan' 'pembelian' 'obat' 'apotek' 'terdekat' 'rumah' 'pasien' 'terima' 'kasih',1
+'aplikasi' 'membantu' 'sat' 'pandemik' 'manfat' 'saskit' 'gejala' 'ringan',1
+'tolong' 'filter' 'berdasarkan' 'wilayah' 'praktik' 'cek',0
+'kali' 'pakai' 'halodoc' 'lumayan' 'tenang' 'konsultasi' 'dokter',1
+'keren' 'sih' 'pakai' 'asuransi',1
+'membantu' 'pandemi' 'rumah' 'konsultasi',1
+'halo' 'dock' 'rutin' 'periksa' 'tangal' 'tentukan' 'sesuai' 'kehamilan' 'perbulan' 'mohon' 'kebijakan' 'dockter',1
+'kali' 'konsultasi' 'suka',1
+'pengemasan' 'cepat' 'pengiriman' 'cepat' 'kepepet' 'malam' 'malam' 'butuh' 'obat' 'kalah' 'cepat' 'terima kasih' 'halodoc',1
+'bermanfat' 'efisien' 'tenaga' 'biaya' 'thanks' 'iya',1
+'dokter' 'ramah' 'solusi' 'sesuai' 'kondisi' 'konsultasi',1
+'membantu' 'sat' 'pandemi' 'chat' 'dokter' 'cepat' 'direspon' 'profesional',1
+'mantap' 'membantu',1
+'membantu' 'cepat' 'kondisi' 'mendesak' 'pasien' 'pu' 'datangke' 'rs',1
+'membantu' 'sat' 'kondisi' 'mendadak' 'mendesak' 'terima kasih' 'so' 'semoga' 'sukses',1
+'alhamdulilah' 'konsultasi' 'halodoc' 'berasa' 'ngobrol' 'langsung' 'dokter',1
+'aplikasi' 'membantu',1
+'takut' 'rumahsakit' 'di sini' 'dokter' 'oke' 'oke' 'macihalodoc',1
+'terima kasih' 'halodoc' 'konsultasi' 'dokter' 'dokter' 'ramah' 'cepat' 'balas' 'chat',1
+'membantu' 'mengenali' 'penyakit' 'kucing' 'konsultasi' 'dokter' 'hewan',1
+'ngebantu' 'sakit',1
+'aplikasi' 'kehidupan' 'sat' 'butuh' 'obat' 'tingal' 'pemesanan',1
+'dokter' 'pertanyan' 'terbantu' 'merawat' 'suami' 'terima kasih' 'halodoc',1
+'bagus' 'membantu' 'disat' 'susah' 'cari' 'obat' 'aplikasi' 'cepat' 'lengkap',1
+'membantu' 'dimasa' 'pandemi' 'mengurangi' 'kontak' 'langsung' 'dokter',1
+'dokter' 'melayani' 'gratis' 'respon' 'cepat' 'kaih' 'bintang' 'kali' 'mencoba' 'konsultasi',1
+'alhamdulilah' 'terima' 'kasih' 'layanan' 'cepat' 'membantu',1
+'bagus' 'penjelasan' 'dokter' 'detail' 'pakai' 'gambar' 'tubuh' 'cepat' 'gampang',1
+'aplikasi' 'membantu' 'sayang' 'bayar' 'pakai' 'ovo',1
+'bagus' 'bermanfat' 'respon' 'cepat' 'tangap' 'membantu',1
+'bingung' 'ta' 'ke mana' 'aplikasi' 'membantu' 'terima kasih' 'yah',1
+'menolong' 'halodoc' 'semoga' 'membantu' 'masyarakat' 'kemudahan',1
+'membantu' 'covid' 'sembilan' 'belas' 'rumah',1
+'membantu' 'terima kasih',1
+'alhamdulilah' 'aplikasi' 'membantu' 'pelayanan' 'cepat' 'mantap',1
+'tolong' 'fitur' 'fre' 'chat' 'asuransi' 'spesialis' 'dokter' 'tertawa' 'dokter',1
+'tulisan' 'sudh' 'terhubung' 'dokter' 'saldo' 'terpotong' 'chat' 'ngimong' 'ma' 'dokter' 'aplikasi' 'ek',0
+'konsultasi' 'cepat',1
+'terima' 'kasih' 'membantu',1
+'respon',0
+'dokter' 'ramah' 'lansung' 'point' 'penjelasan' 'penyakit' 'pertahankan' 'iya',1
+'sunguh' 'bermanfat' 'disat' 'pandemi' 'memiliki' 'anak' 'sakit' 'malam',1
+'terima kasih' 'aplikasi' 'membantu' 'konsultasi' 'kesehatan',1
+'detail' 'membantu' 'dokternya' 'dikasih' 'resep' 'obat',1
+'malam' 'dokter' 'sabar' 'melayani' 'konsultasi' 'keren' 'charles',1
+'ambil' 'obat' 'rumah' 'kasihan' 'gojeknya',1
+'membantu' 'biaya' 'komsul' 'plus' 'obat' 'terjamgkau' 'terima kasih',1
+'ulasan' 'dokter' 'obat' 'direkomendasikan' 'bagus' 'terima kasih' 'dokter',1
+'membantu' 'aplikasi' 'berhubunham' 'demgam' 'dokter' 'sat' 'pandemi' 'imi',1
+'kasih' 'bintang' 'pemesanan' 'bayar' 'status' 'dibatalkan' 'uang' 'lari' 'ke mana' 'uang' 'kasih' 'bintang' 'transaksi' 'enam' 'puluh' 'sembilan' 'qloenam' 'enam' 'dibatalkan',0
+'membantu' 'keadan' 'pandemi' 'rumah',1
+'senang' 'konsultasi' 'dokter' 'alhamdulilah' 'tenang',1
+'aplikasi' 'bagus',1
+'membantu' 'informasi' 'kesehatan' 'butuhkan',1
+'puas' 'membantu' 'terimakasi' 'aplikasi' 'halodic' 'dokter' 'bertugas',1
+'susah' 'hubungkan' 'gopay' 'pin' 'dibilang' 'salah',0
+'terima' 'kasih' 'aplikasi' 'membantu' 'disat' 'pandemi',1
+'pesan' 'kali' 'alhamdulilah' 'lancar' 'cepwt' 'bamget',1
+'halo' 'doc' 'tolong' 'sertifikat' 'vaksin' 'kemarin' 'vaksin' 'makan' 'halodoc' 'mengeluarkan' 'tolong' 'usut' 'jelek' 'halodoc' 'tolong' 'difolow' 'up' 'kendala' 'terima kasih',0
+'terima kasih' 'membantu',1
+'cepat' 'penanganan' 'terima kasih' 'ksih' 'halodoc' 'terbantu' 'disat' 'kondisi' 'mendesak',1
+'membantu' 'keadan' 'pandemi' 'covid' 'mantap',1
+'membantu' 'konsultas' 'semoga' 'cocok' 'obat' 'amin',1
+'halodoc' 'bermanfat' 'konsultasi' 'kesehatan' 'cepat',1
+'kakak' 'tlong' 'iya' 'percepat' 'proses' 'tes' 'pacar' 'kmaren' 'nungu' 'ac' 'gmna' 'mna' 'butuh' 'cpet',0
+'halo' 'dok' 'tolong' 'area' 'perluas' 'daerah' 'jawa' 'timur' 'khusus' 'blitar',1
+'penjelasan',1
+'membantu' 'disat' 'situasi' 'pandemi' 'repot' 'repot' 'rumah',1
+'suka' 'memudahkan' 'terbilanh' 'sibuk' 'memeriksakan' 'dokter',1
+'dokter' 'ramah' 'membantu' 'terima kasih' 'halodoc',1
+'bagus' 'membantu',1
+'alhamdulilah' 'kondisi' 'pandemic' 'berobat' 'rumah' 'halodoc',1
+'membantu' 'mencari' 'solusi' 'kesehatan' 'terima kasih' 'halodoc',1
+'aplikasi' 'membantu' 'ribet' 'antre' 'sat' 'beli' 'obat',1
+'cepat' 'direspon' 'solusi',1
+'membantu' 'upload' 'resep' 'tingal' 'tungu' 'obat' 'antre' 'apotek',1
+'bagus' 'opsi' 'tips' 'driver' 'gojek',1
+'recomend' 'membantu' 'terima kasih' 'halodoc',1
+'mantap' 'rekomendasi' 'konsultasi' 'pergi' 'rumah' 'sakit',1
+'diandalkan',1
+'aplikasi' 'pelan' 'macet' 'tolong' 'server' 'perbaiki' 'terima kasih',1
+'tolong' 'alasan' 'pesanan' 'dibatalkan' 'batal',0
+'mudah' 'cepat',1
+'membantu' 'aplikasi' 'terima kasih' 'dokter',1
+'alhamdulilah' 'berbicara' 'ahli' 'self' 'diagnosis',1
+'terbantu' 'aplikasi' 'halodoc' 'kondisi' 'pandemi' 'covid' 'sembilan' 'belas',1
+'membantu' 'beli' 'obat' 'urgent' 'terima kasih' 'halodoc' 'gojek',1
+'membantu' 'sat' 'darurat' 'konsultasi' 'obat' 'rumah' 'biaya' 'terjangkau',1
+'alhamdulilah' 'membantu' 'isoman',1
+'oke' 'membantu',1
+'dokter' 'ramah',1
+'puas' 'pelayanan' 'halodoc' 'keluarga',1
+'kadang' 'barang' 'kosong',1
+'solusi' 'sat' 'pandemi',1
+'respon' 'dokter' 'cepat' 'penyampaian' 'padat' 'puas' 'pelayanan' 'halodoc',1
+'pas' 'nemu' 'dokter' 'asyk' 'iya' 'asyik' 'dokter' 'super' 'galak',1
+'membantu',1
+'sederhana' 'ribet',1
+'terbantukan' 'rs' 'sat' 'pandemi' 'suka',1
+'care',1
+'instal' 'mingu',0
+'konsultasi' 'dokter' 'ramah' 'pengiriman' 'obat' 'super' 'cepat' 'terima kasih',1
+'surat' 'keterangan' 'sakit' 'dokter',1
+'doker' 'ramah' 'ramah' 'chat' 'jam' 'pagi' 'dilayani',1
+'cepat' 'respon' 'dokter' 'dita' 'kondisi' 'arahan' 'resep' 'obat',1
+'membantu',1
+'dokter' 'mantap' 'tertawa' 'wilayah' 'pengantaran' 'obat' 'luas',1
+'praktis' 'membantu' 'dikala' 'rumahatau' 'kantor',1
+'membantu',1
+'puas' 'mudah' 'konsultasi' 'dokter',1
+'respon' 'cepat',1
+'senang' 'konsultasi' 'di sini' 'anti' 'khawatir' 'contact',1
+'membantu',1
+'pengiriman' 'cepat',1
+'membantu' 'cepat' 'kebutuhan' 'obat' 'obatan' 'konsultasi' 'kesehatan',1
+'selamat' 'pagi' 'sertifikat' 'dibuka' 'vaksin',1
+'membantu' 'terima kasih',1
+'membantu' 'iya' 'pandemi',1
+'terima' 'kasih' 'halodoc' 'membantu' 'sat' 'pandemic',1
+'membantu',1
+'membantu',1
+'terima kasih' 'halodoc' 'keluhan' 'customer service' 'cepat' 'menangapi',1
+'membantu',1
+'chat' 'balas' 'dokter' 'eh' 'saldo' 'in' 'bodoh',0
+'membantu',1
+'kali' 'pakai' 'aplikasi' 'lancar' 'informatif',1
+'keren' 'praktis' 'terpercaya',1
+'membantu',1
+'aplikasi' 'membantu' 'kondisi' 'bedrest',1
+'dokter' 'semoga' 'anak' 'lekas' 'sembuh',1
+'aplikasi' 'layanan' 'halo' 'doc' 'membantu' 'semoga' 'smkin' 'sukses' 'iya',1
+'aplikasi' 'membantu' 'respon' 'cepat' 'pengiriman' 'cepat',1
+'aplikasi' 'membantu' 'pasien' 'berpegian',1
+'dokter' 'penjelasan' 'membantu',1
+'terima kasih' 'halodoc' 'mudah' 'mudahan' 'cepat' 'sembuh' 'penyakit',1
+'pelayanan' 'trmksh' 'dokter' 'halodoc',1
+'cepat' 'bagus',1
+'membatu',1
+'aplikasi' 'manfat' 'bagus' 'mudah',1
+'senang' 'curahan hati' 'dada' 'plong' 'terima kasih' 'terima kasih' 'halo' 'doc',1
+'terima kasih' 'membantu' 'sat' 'pandemi',1
+'pelayanan' 'memuaskan' 'petugas' 'ramah' 'terima' 'kasih' 'halodoc',1
+'membantu' 'tenang' 'informasi' 'solusinya',1
+'dokter' 'hewan' 'ramah',1
+'membantu' 'disat' 'pendemi' 'skg' 'rs' 'was' 'was',1
+'cepat' 'respon' 'dokter' 'ramah' 'ngejelasin' 'detail',1
+'aplikasi' 'bagus' 'wilayah' 'lombok' 'barat',0
+'membantu' 'pandemi',1
+'chat' 'dokter' 'gratis' 'bayar',0
+'membantu' 'dokter' 'sabar',1
+'membantu' 'palagi' 'kondisi' 'pandemi' 'rs' 'rujukan' 'copid',1
+'informasi' 'advise' 'membantu' 'terima' 'kasih' 'dok',1
+'oke' 'membantu' 'rumah' 'menemui' 'dokter',1
+'halo' 'doc' 'bayar' 'gopay' 'docter' 'merespon' 'dikemanain' 'uang' 'gopay' 'bayar' 'ganti' 'docter',1
+'membantu',1
+'pembayaran' 'gagal' 'uang' 'kepotong' 'na' 'dokter' 'ah' 'beres',0
+'bagus' 'membantu' 'pandemic',1
+'mantap' 'membantu' 'terima kasih' 'semoga' 'sukses',1
+'membantu' 'sat' 'membeli' 'obat' 'langsung',1
+'mantap' 'responsif' 'aplikasi' 'ngak' 'lambat' 'loading',1
+'membantu' 'disat' 'sat' 'mendesak',1
+'memudahkan' 'terima kasih' 'layanan',1
+'oke' 'membantu',1
+'mantap' 'aplikasi' 'cepat' 'tangap' 'terima' 'kasih' 'halodoc',1
+'pelayanan' 'respon' 'dokter' 'apotek' 'cepat',1
+'membantu' 'sat' 'pandemi' 'saran' 'responsif',1
+'oke' 'dokternya',1
+'puas' 'konsultasi' 'aplikasi' 'haldoc' 'layanan' 'cepat',1
+'ketemu' 'pengembangan' 'video' 'cal' 'keren',1
+'barang' 'bayar' 'respon' 'jelek',0
+'terima kasih' 'aplikasi' 'terbantu',1
+'bagus' 'pengiriman' 'pesanan' 'cepat' 'diskon' 'huhuhu',1
+'pelayanan' 'cepat' 'kirim' 'cepat' 'terima' 'kasih',1
+'dokter' 'ribet' 'rumah',1
+'dokter' 'cepat' 'tangap' 'ramah' 'memuaskan',1
+'pertanyan' 'sabar',1
+'memudahkan',1
+'membantu' 'kondisi' 'sibuk' 'ditambah' 'pandemi',1
+'penyelamat' 'dikala' 'obat' 'dicari' 'apotek' 'terdekat' 'kosong',1
+'terima' 'kasih' 'halodoc' 'semoga' 'maju' 'berkembang',1
+'donwload' 'resep' 'digital' 'document' 'keterangan' 'terunduh' 'masuk' 'document',0
+'aplikasi' 'membantu' 'memudahkan' 'masyarakat',1
+'membantu' 'meringankan' 'beban' 'rumah',1
+'kali' 'konsultasi' 'di sini' 'semoga',1
+'oke' 'dicoba',1
+'membantu' 'mencari' 'informasi' 'kesehatan' 'terima kasih',1
+'membantu' 'senang' 'deh' 'terima kasih' 'halodoc',1
+'cepat' 'tangapi' 'puas' 'konsultasi' 'halodoc' 'terima' 'kasih',1
+'bermanfat',1
+'nungu' 'dokter' 'chat' 'h' 'bayar' 'registrasi',0
+'membantu' 'pembelian' 'obat' 'konsultasi' 'dokter',1
+'mantaps' 'cepat' 'obat',1
+'bagus' 'membantu',1
+'prabayar' 'mengunakn' 'ovo' 'gimna' 'komen' 'dokter' 'hu' 'payah',0
+'ribet' 'aplikasi' 'nyambungin' 'gopay' 'susah',0
+'bermanfat' 'bagus' 'aplikasinya',1
+'aplikasi' 'inovasi' 'anak' 'bangsa' 'hebat' 'membantu' 'masyarakat' 'indonesia' 'mempermudah' 'akses' 'layanan' 'kesehatan' 'fitur' 'fitur' 'membantu' 'di tengah' 'pandemi' 'aplikasi' 'halodoc' 'membantu' 'berobat' 'mengantri' 'ulasan' 'lengkap',1
+'semoga' 'membantu',1
+'alhamdulilah' 'aplikasi' 'bagus',1
+'bagus' 'aplikasinya',1
+'keren' 'deh' 'aplikasi' 'halodoc' 'keadan' 'urgent',1
+'lumayan' 'membantu',1
+'puas' 'berkonsultasi' 'dokter' 'halo' 'dok',1
+'memuaskan',1
+'bermanfat',1
+'aplikasi' 'membantu' 'terima' 'kasih' 'halodoc',1
+'membatu',1
+'bicara' 'bicara' 'halodoc' 'menyediakan' 'kalender' 'menstruasi' 'iya',0
+'membantu',1
+'terima' 'kasih' 'cepat' 'respon' 'dokter' 'spog' 'resep' 'cocok',1
+'bagus' 'mantap',1
+'penjelasan' 'mengerti',1
+'membantu',1
+'pertanyan' 'lugas',1
+'senang' 'konsultasi' 'mudah',1
+'daftar' 'gagal' 'sinyal' 'lancar',0
+'semoga' 'anak' 'cocok' 'obat' 'dokter' 'anak' 'resepkan',1
+'membantu' 'mudah' 'mantap' 'pokonya',1
+'pelayanan' 'cepat',1
+'membantu',1
+'aplikasi' 'membantu' 'terima' 'kasih' 'halodoc',1
+'memudahkan' 'pandemi',1
+'pelan' 'dibuka' 'ngelag',0
+'praktis' 'antre' 'dokter' 'cepat' 'respon',1
+'membantu',1
+'dokter' 'ramah' 'cepat' 'respon' 'terima kasih',1
+'membantu',1
+'beli' 'obat' 'jam' 'gampang' 'ribet' 'terima kasih' 'halodoc',1
+'pakai' 'konsultasi' 'hasil' 'bagus',1
+'pelayanan' 'prima',1
+'membantu' 'kondisi' 'penyakit',1
+'membantu' 'disat' 'situasi' 'pandemi' 'sat',1
+'membantu',1
+'oke',1
+'membantu',1
+'dokter' 'cepat' 'tangap' 'mendengarkan' 'keluhan',1
+'membantu' 'disat' 'sukses' 'halodoc',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'respon' 'dokter' 'ramah' 'cepat' 'semoga' 'sukses',1
+'membantu',1
+'aplikasi' 'dibutuhkan' 'rs',1
+'membantu',1
+'memuaskan' 'cepat' 'obat' 'apapun' 'tersedia',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membatu',1
+'halodock' 'membantu' 'sat' 'sakit',1
+'membantu',1
+'mengunakan' 'metode' 'perbayar' 'yok',0
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu' 'berobat' 'pandemi',1
+'membantu',1
+'terima' 'kasih' 'dokter' 'ramah',1
+'aplikasi' 'membantu' 'apalg' 'disat' 'pandemi',1
+'layanan' 'konsultasi' 'kesehatan' 'gercep' 'sederhana',1
+'membantu',1
+'membantu',1
+'membantu',1
+'membantu' 'sat' 'pandemi',1
+'cepat' 'praktis',1
+'membantu' 'pandemi',1
+'seru' 'sih' 'ngobrol' 'bareng' 'dokter' 'teman' 'curahan hati',1
+'dokter' 'ramah' 'puas' 'solusinya',1
+'membantu',1
+'membanty',1
+'sat' 'membantu' 'pandemi' 'dokter' 'bagus',1
+'mantap' 'mbantu' 'adan' 'darurat',1
+'sngat' 'puas' 'dokter' 'kasih' 'arahan' 'terima kasih',1
+'puas' 'pelayanan' 'semoga' 'berkah' 'sehat',1
+'obat' 'dokter' 'manjur' 'terima kasih' 'dok',1
+'dokter' 'ramah' 'perhatian' 'terima kasih' 'halodoc',1
+'membantu' 'pandemin',1
+'membantu' 'dokter' 'ramah',1
+'terbantu' 'pandemi' 'masi' 'takut' 'rs',1
+'ramah' 'respon' 'cepat' 'terima kasih',1
+'singkat' 'padat' 'gapake' 'chat' 'dokter' 'spesialis',1
+'membantu' 'sat' 'situasi' 'bgni',1
+'ah' 'nyaman' 'dokter' 'suka' 'deh',1
+'respon' 'dokter' 'cepat' 'detail' 'pengiriman' 'obat' 'agt' 'cepat',1
+'respon' 'dokter' 'aplikasi' 'membantu' 'pasien',1
+'membantu' 'pandemi' 'sih' 'demam',1
+'membantu' 'aplikasi',1
+'membantu',1
+'membantu' 'terima' 'kasih' 'halodoc',1
+'terima kasih' 'kasih' 'bantuan' 'halo' 'dok',1
+'membantu',1
+'membantu' 'mengunakan' 'halodoc' 'dokter',1
+'pelayanan' 'bagus' 'obat' 'cepat',1
+'membantu',1
+'membantu',1
+'alhamdulilah' 'pakai' 'halodoc' 'gratis' 'bayar',0
+'dokter' 'penjelasan' 'resep',1
+'membantu' 'kondisi' 'menentu',1
+'terbaik' 'membantu' 'pandemi',1
+'membantu' 'rumah' 'terima kasih',1
+'suka' 'dokter' 'aplikasi' 'halodoc',1
+'membantu' 'dikala' 'pendemi',1
+'membantu',1
+'dokter' 'ramah' 'respon' 'cepat' 'koperatif',1
+'dokter' 'ramah' 'ramah' 'detail',1
+'membantu' 'kebutuhan' 'obat' 'thanks',1
+'bagus' 'menolong' 'terima' 'kasih',1
+'daftar' 'vaksin' 'tanggal' 'delapan' 'maret' 'menceknya',1
+'membantu' 'pandemi' 'terima kasih' 'ksh',1
+'semudah' 'diklik' 'praktis' 'membantu',1
+'pelayanan' 'ramah' 'paham' 'bidangnya',1
+'bagus' 'aplikasi' 'pu' 'dokter' 'pribadi' 'terima kasih' 'halodoc',1
+'memudahkan' 'konsultasi' 'rumah',1
+'membantu' 'pelayanan' 'dokter' 'memuaskan',1

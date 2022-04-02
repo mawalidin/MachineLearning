@@ -1,0 +1,61 @@
+Data Ulasan,Data Aktual,Hasil Prediksi
+"['layan', 'buruk', 'kerja', 'layan', 'lambat', 'esedih', 'ketus', 'saya', 'tunggu', 'lama', 'tadi']",Pelayanan Negatif,Pelayanan Negatif
+"['tempat', 'semputna', 'yang', 'suka', 'foto', 'foto']",Tempat Positif,Tempat Positif
+"['tempat', 'adem', 'tambah', 'ada', 'angin', 'alam', 'buka']",Tempat Positif,Tempat Positif
+"['kecewa', 'makan', 'masakan', 'tengah', 'matang', 'malah', 'serve']",Makanan Negatif,Harga Negatif
+"['sen', 'nasi', 'baksot', 'beda', 'yang', 'gambar', 'menu', 'tipu', 'nih']",Pelayanan Negatif,Makanan Negatif
+"['layan', 'sangat', 'sahabat', 'selalu', 'ajak', 'canda']",Pelayanan Positif,Harga Negatif
+"['suasana', 'ampek', 'sumpek', 'siang', 'hari', 'kalau', 'rame', 'esedih']",Tempat Negatif,Tempat Negatif
+"['uang', 'pas', 'pas', 'jangan', 'coba', 'makan', 'sini', 'deh', 'mahal', 'soal']",Harga Negatif,Makanan Positif
+"['puas', 'layan', 'karyawan', 'selalu', 'tanggap', 'penuh', 'unjung']",Pelayanan Positif,Pelayanan Positif
+"['pilih', 'menu', 'minum', 'sedikit', 'sekali', 'kurang', 'variasi']",Makanan Negatif,Makanan Negatif
+"['menu', 'udang', 'telormya', 'kurang', 'nih', 'rasa', 'kurang', 'lidah']",Makanan Negatif,Makanan Negatif
+"['kapok', 'deh', 'makan', 'sini', 'harga', 'mahal', 'banget']",Harga Negatif,Harga Negatif
+"['tempat', 'rekomendasi', 'acara', 'keluarga', 'acara', 'kantor']",Tempat Positif,Tempat Positif
+"['fasilitas', 'ada', 'cukup', 'lengkap', 'jadi', 'betah', 'nongkrong', 'sini']",Tempat Positif,Tempat Negatif
+"['layan', 'lambat', 'sih', 'datang', 'bukan', 'layan', 'lama', 'malah', 'judes']",Pelayanan Negatif,Pelayanan Negatif
+"['layan', 'lama', 'servicenya', 'parah', 'gak', 'nyediain', 'tisu', 'tutup', 'jam', 'malah', 'buru', 'buru']",Pelayanan Negatif,Pelayanan Negatif
+"['harga', 'tawar', 'mahal', 'harga', 'tinggi', 'bik', 'boros', 'uang']",Harga Negatif,Harga Negatif
+"['harga', 'golong', 'sama', 'lah', 'rata', 'rata', 'restoran']",Harga Positif,Harga Negatif
+"['harga', 'nya', 'cukup', 'jangkau', 'masuk', 'akal', 'lah']",Harga Positif,Harga Positif
+"['layan', 'sigap', 'kerja', 'lamban', 'perlu', 'baik']",Pelayanan Negatif,Pelayanan Negatif
+"['highly', 'recomendded', 'menu', 'masakan', 'terong', 'raos', 'belum', 'pernah', 'cicip']",Makanan Positif,Makanan Negatif
+"['harga', 'variatif', 'gak', 'mahal', 'kok', 'gin', 'mah']",Harga Positif,Harga Positif
+"['kami', 'datang', 'tunggu', 'untuk', 'antri']",Pelayanan Negatif,Pelayanan Negatif
+"['sambelnya', 'kurang', 'gigit', 'menu', 'makan', 'biasa', 'aja']",Makanan Negatif,Makanan Negatif
+"['puas', 'layan', 'sudah', 'baik', 'esenyum', 'selalu', 'senyum', 'sapa', 'ramah', 'sopan']",Pelayanan Positif,Pelayanan Positif
+"['makan', 'gak', 'enak', 'dulu', 'kentang', 'enak', 'tdk', 'segar', 'kaya', 'mau', 'busuk']",Makanan Negatif,Makanan Positif
+"['layan', 'minus', 'nih', 'menit', 'baru', 'layan', 'padahal', 'gak', 'ramai', 'rame']",Pelayanan Negatif,Pelayanan Negatif
+"['murah', 'riah', 'irit', 'hemat', 'uang', 'beli', 'sini', 'esenyum', 'rekomended']",Harga Positif,Harga Positif
+"['tempat', 'sungguh', 'rekomendasi', 'juga', 'akses', 'guna', 'kursi', 'roda']",Tempat Positif,Pelayanan Positif
+"['kami', 'tiba', 'layan', 'nya', 'langsung', 'sigap', 'layan', 'catat', 'makan', 'makan', 'cepat', 'datang', 'nya']",Pelayanan Positif,Pelayanan Positif
+"['restoran', 'adem', 'rindang', 'dekat', 'alam', 'buka', 'esenyum']",Tempat Positif,Tempat Positif
+"['sini', 'makan', 'harga', 'murah', 'riah', 'irit']",Harga Positif,Harga Positif
+"['kaget', 'lihat', 'menu', 'harga', 'langit', 'mahal', 'banget']",Harga Negatif,Harga Negatif
+"['kerja', 'layan', 'lama', 'lambat', 'awal', 'datang', 'layan', 'judes']",Pelayanan Negatif,Pelayanan Negatif
+"['rasa', 'makan', 'kurang', 'gigit', 'ada', 'menu', 'gosong', 'turut', 'esedih']",Makanan Negatif,Harga Positif
+"['makan', 'dingin', 'tetap', 'saji', 'rasa', 'makan', 'hambar', 'pahit']",Makanan Negatif,Makanan Positif
+"['sedikit', 'pilih', 'menu', 'minum', 'kurang', 'pilih']",Makanan Negatif,Makanan Negatif
+"['makan', 'rasa', 'lezat', 'gurih', 'enak', 'rekomendasi', 'terong', 'raos']",Makanan Positif,Makanan Positif
+"['angin', 'alam', 'buka', 'tambah', 'adem', 'nyaman', 'tempat', 'bersih', 'luas']",Tempat Positif,Tempat Positif
+"['harga', 'mahal', 'sekali', 'mahal', 'bahkan', 'pajak', 'sedih', 'deh']",Harga Negatif,Harga Negatif
+"['layan', 'nya', 'ramah', 'baik', 'hati', 'sopan', 'santun', 'selalu', 'senyum', 'esenyum', 'puas']",Pelayanan Positif,Pelayanan Positif
+"['sangat', 'rekomendasi', 'terong', 'raos', 'enak', 'baik', 'cocok', 'lidah']",Makanan Positif,Makanan Positif
+"['kurang', 'pilih', 'menu', 'minum', 'tingkat', 'makan', 'kurang']",Makanan Negatif,Makanan Negatif
+"['kapok', 'nih', 'kesini', 'mana', 'uang', 'pas', 'pas', 'harga', 'mahal', 'tambah', 'pajak']",Harga Negatif,Harga Negatif
+"['gurih', 'lidah', 'kenyang', 'menu', 'makan', 'sangat', 'rekomendasi', 'terong', 'enak', 'rasa', 'lezat']",Makanan Positif,Makanan Positif
+"['harga', 'cukup', 'jangkau', 'murah', 'riah', 'dompet', 'hemat']",Harga Positif,Harga Positif
+"['menu', 'makan', 'banyak', 'bisa', 'buat', 'kenyang', 'enak', 'pas', 'lidah']",Makanan Positif,Makanan Positif
+"['staff', 'ramah', 'sopan', 'selalu', 'siap', 'layan', 'baik', 'puas', 'layan']",Pelayanan Positif,Pelayanan Positif
+"['luas', 'restorannyatempatnya', 'bersih', 'adem', 'angin', 'alam', 'nyaman', 'rapih']",Tempat Positif,Tempat Positif
+"['restoran', 'nyaman', 'kondisi', 'enak', 'buat', 'nongkrong']",Tempat Positif,Tempat Positif
+"['sedia', 'makan', 'lezat', 'nikmat', 'terong', 'gurih', 'enak', 'buat', 'kenyang']",Makanan Positif,Makanan Positif
+"['biasa', 'aja', 'sih', 'harga', 'segitu', 'mah', 'berat', 'biaya', 'servenya', 'esedih']",Harga Negatif,Harga Negatif
+"['menu', 'kurang', 'macam', 'minum', 'sedikit', 'menu', 'esedih']",Makanan Negatif,Makanan Negatif
+"['suasana', 'ruang', 'konsep', 'bagus', 'tradisional', 'modern', 'area', 'luas']",Tempat Positif,Tempat Positif
+"['banyak', 'suara', 'berisik', 'ganggu', 'tempat', 'gerah', 'panas']",Tempat Negatif,Tempat Positif
+"['menu', 'makan', 'makan', 'telur', 'udang', 'sangat', 'rekomendasi', 'rasa', 'enak', 'gurih', 'pas', 'lidah', 'esenyum', 'nikmat']",Makanan Positif,Makanan Positif
+"['layan', 'kacau', 'antre', 'lama', 'terus', 'judes', 'staffnya', 'kurang', 'esedih']",Pelayanan Negatif,Pelayanan Negatif
+"['dompet', 'ludes', 'lihat', 'harga', 'sama', 'biaya', 'pajak']",Harga Negatif,Harga Negatif
+"['tempat', 'restoran', 'luas', 'keren', 'lantai', 'bersih', 'adem', 'sejuk', 'esenyum']",Tempat Positif,Tempat Positif
+"['harga', 'bilang', 'cukup', 'murah', 'mahasiswa', 'ngirit', 'esenyum']",Harga Positif,Tempat Positif
